@@ -1,0 +1,72 @@
+using System.Collections;
+using System.Collections.Generic;
+using UnityEngine;
+using TMPro;
+
+public class DialogueManager : MonoBehaviour
+{
+    public static DialogueManager current;
+    Queue<string> sentences;
+    public GameObject canvas;
+    public TextMeshProUGUI textDialogue;
+    public TextMeshProUGUI speaker;
+    //public Animator animator;
+
+    bool canExit = false;
+
+    private void Awake()
+    {
+        current = this;
+        DontDestroyOnLoad(this.gameObject);
+    }
+
+    // Update is called once per frame
+    void Update()
+    {
+
+    }
+
+    private string NextString() => sentences.Dequeue();
+
+    public void StartDialogue(Dialogue dialogue)
+    {
+        Coroutine actualTestAnimation = null;
+        sentences = dialogue.GetQueue();
+
+        PlayerState.SetSpeed(0f);
+
+        //ShowCanvas();
+        speaker.text = dialogue.speaker;
+
+        foreach (string currentString in sentences)
+        {
+            ClearText();
+            //Debug.Log(currentString);
+
+            actualTestAnimation = StartCoroutine(TypeWriterEffect(currentString));
+        }
+
+        //HideCanvas();
+
+        PlayerState.SetSpeed(1f);
+    }
+
+    //void ShowCanvas() => animator.SetBool("active", true);
+
+    //void HideCanvas() => animator.SetBool("active", false);
+
+    void ClearText() => textDialogue.text = "";
+
+    IEnumerator TypeWriterEffect(string str)
+    {
+        //Debug.Log(str);
+        foreach (char c in str.ToCharArray())
+        {
+            textDialogue.text += c;
+            yield return new WaitForSeconds(0.1f);
+        }
+
+        yield return new WaitUntil(() => Input.GetKeyDown(KeyCode.E));
+    }
+
+}
