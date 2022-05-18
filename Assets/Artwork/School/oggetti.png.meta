@@ -614,6 +614,9 @@ TextureImporter:
   - first:
       213: 2249873877508154663
     second: sedia_ricky_0
+  - first:
+      213: -4571985934901512584
+    second: mappamondo
   externalObjects: {}
   serializedVersion: 11
   mipmaps:
@@ -4974,7 +4977,7 @@ TextureImporter:
         width: 16
         height: 16
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -4995,7 +4998,7 @@ TextureImporter:
         width: 16
         height: 16
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -5003,6 +5006,27 @@ TextureImporter:
       bones: []
       spriteID: 725ed4a0f58293f10800000000000000
       internalID: 2249873877508154663
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mappamondo
+      rect:
+        serializedVersion: 2
+        x: 466
+        y: 423
+        width: 13
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 876fc10040b0d80c0800000000000000
+      internalID: -4571985934901512584
       vertices: []
       indices: 
       edges: []
