@@ -1,7 +1,7 @@
 ﻿# Day One
  [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
-<p align="center" style="margin: 70px">
+<p align="center" style="margin: 100px">
   <img src="https://github.com/matthewexe/matthewexe.github.io/blob/master/assets/images/dayone-title.png?raw=true"/>
 </p>
 
@@ -20,9 +20,9 @@ Lo scopo del progetto era ricreare un gioco in 8-bit che potesse dare l'opportun
 
 ## Strumenti Utilizzati
 
-[<img class="img-fluid" src="https://assets.stickpng.com/images/62e131b97fe3599fdd46ecb1.png" width=17% style="margin: 0; padding: 0;">](https://unity.com/)&nbsp;&nbsp;&nbsp;&nbsp;
-[<img class="img-fluid" src="https://visualstudio.microsoft.com/wp-content/uploads/2021/10/Product-Icon.svg" width=15%>](https://visualstudio.microsoft.com/)&nbsp;&nbsp;&nbsp;&nbsp;
-[<img class="img-fluid" src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/The_GIMP_icon_-_gnome.svg/1024px-The_GIMP_icon_-_gnome.svg.png" width=15%>](https://www.gimp.org/)&nbsp;&nbsp;&nbsp;&nbsp;
+[<img class="img-fluid" src="https://assets.stickpng.com/images/62e131b97fe3599fdd46ecb1.png" width="17%" style="margin: 0; padding: 0;">](https://unity.com/)&nbsp;&nbsp;&nbsp;&nbsp;
+[<img class="img-fluid" src="https://visualstudio.microsoft.com/wp-content/uploads/2021/10/Product-Icon.svg" width="15%">](https://visualstudio.microsoft.com/)&nbsp;&nbsp;&nbsp;&nbsp;
+[<img class="img-fluid" src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/The_GIMP_icon_-_gnome.svg/1024px-The_GIMP_icon_-_gnome.svg.png" width="15%">](https://www.gimp.org/)&nbsp;&nbsp;&nbsp;&nbsp;
 
 ### Linguaggi utilizzati
 
@@ -34,6 +34,6 @@ Lo scopo del progetto era ricreare un gioco in 8-bit che potesse dare l'opportun
 
 [<img src = "https://contrib.rocks/image?repo=matthewexe/Day_One"/>](https://github.com/matthewexe/Day_One/graphs/contributors)
 
-<p align="center" style="margin: 100px">
+<p align="center" style="margin: 150px">
   <img src="https://github.com/matthewexe/matthewexe.github.io/blob/master/assets/images/abba-title.png?raw=true" width="50%"/>
 </p>
