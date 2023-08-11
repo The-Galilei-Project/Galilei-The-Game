@@ -243,7 +243,7 @@ TextureImporter:
       213: 8454922301143892920
     second: stairs_47
   externalObjects: {}
-  serializedVersion: 11
+  serializedVersion: 12
   mipmaps:
     mipMapMode: 0
     enableMipMap: 0
@@ -260,10 +260,12 @@ TextureImporter:
     externalNormalMap: 0
     heightScale: 0.25
     normalMapFilter: 0
+    flipGreenChannel: 0
   isReadable: 0
   streamingMipmaps: 0
   streamingMipmapsPriority: 0
   vTOnly: 0
+  ignoreMipmapLimit: 0
   grayScaleToAlpha: 0
   generateCubemap: 6
   cubemapConvolution: 0
@@ -302,6 +304,8 @@ TextureImporter:
   textureFormatSet: 0
   ignorePngGamma: 0
   applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 1
   platformSettings:
   - serializedVersion: 3
     buildTarget: DefaultTexturePlatform
@@ -313,6 +317,7 @@ TextureImporter:
     crunchedCompression: 0
     allowsAlphaSplitting: 0
     overridden: 0
+    ignorePlatformSupport: 0
     androidETC2FallbackOverride: 0
     forceMaximumCompressionQuality_BC6H_BC7: 0
   - serializedVersion: 3
@@ -325,6 +330,20 @@ TextureImporter:
     crunchedCompression: 0
     allowsAlphaSplitting: 0
     overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
     androidETC2FallbackOverride: 0
     forceMaximumCompressionQuality_BC6H_BC7: 0
   spriteSheet:
@@ -2020,9 +2039,89 @@ TextureImporter:
     edges: []
     weights: []
     secondaryTextures: []
-  spritePackingTag: 
+    nameFileIdTable:
+      stairs_0: -3821777026937811026
+      stairs_1: -8232476812802598434
+      stairs_10: 2644714932767598016
+      stairs_11: -4937233440120453877
+      stairs_12: -5014181698299370889
+      stairs_13: -763529423555804981
+      stairs_14: 6860106314839134046
+      stairs_15: 538062427446660366
+      stairs_16: 1658176406041602473
+      stairs_17: 716232247021172228
+      stairs_18: 9133235066189366492
+      stairs_19: 1787432559053063088
+      stairs_2: -4874231678427873996
+      stairs_20: 6566834852901180759
+      stairs_21: 7109624783969454848
+      stairs_22: -3094729530685817061
+      stairs_23: 8407841854553677421
+      stairs_24: 1533854535781250407
+      stairs_25: 5154862803848214400
+      stairs_26: -4170611852678266170
+      stairs_27: 6503257454851413511
+      stairs_28: 5791919872686992732
+      stairs_29: 632506715325926102
+      stairs_3: 7286528348642317316
+      stairs_30: -5069130547722813216
+      stairs_31: 7764746452645580574
+      stairs_32: 2714316476292945363
+      stairs_33: -1553995920468343611
+      stairs_34: 2642514224776325996
+      stairs_35: 624623151011912242
+      stairs_36: 575917257171871035
+      stairs_37: 2795051052164329078
+      stairs_38: 5988931551962154694
+      stairs_39: 1224591253554075622
+      stairs_4: 5575599648038114821
+      stairs_40: -1021503445589667072
+      stairs_41: 2361679890892437677
+      stairs_42: 7665754578082611024
+      stairs_43: 1823756361779930840
+      stairs_44: -4529436469377432465
+      stairs_45: -8234344118910612788
+      stairs_46: -7051063464253848001
+      stairs_47: 8454922301143892920
+      stairs_5: -7899257040606243478
+      stairs_56: -8162287307118905373
+      stairs_57: 9034222684069841958
+      stairs_58: -3427270749677229175
+      stairs_59: 10588085645798733
+      stairs_6: -2666231112281015561
+      stairs_60: 3180120491510218528
+      stairs_61: 7897618326331897097
+      stairs_62: -3089680729369314669
+      stairs_63: -4496101102641534846
+      stairs_64: 870360177122744988
+      stairs_65: 6807716873972517526
+      stairs_66: -7745706876456393786
+      stairs_67: 4248514562261142984
+      stairs_68: 8359888570280712039
+      stairs_69: -1649145701686870768
+      stairs_7: 8703298775209903626
+      stairs_70: -1681951723299488763
+      stairs_71: 2284970393390457863
+      stairs_72: 1129479405651526918
+      stairs_73: 8223210480434508888
+      stairs_74: 4294744588821465496
+      stairs_75: 1267421848623146319
+      stairs_76: 1403939539692235377
+      stairs_77: 3729245721435463000
+      stairs_78: 3944948644663973995
+      stairs_79: -6247350596292810002
+      stairs_8: -4661043040186468030
+      stairs_80: -6233383283203485197
+      stairs_81: 4554030651697816036
+      stairs_82: -5477428752157880486
+      stairs_83: -8879595788558010154
+      stairs_84: 4565043686938732047
+      stairs_85: -5080683516102532021
+      stairs_86: 2446259240633625583
+      stairs_87: -7205977892980414106
+      stairs_9: 8995907401030582216
+  mipmapLimitGroupName: 
   pSDRemoveMatte: 0
-  pSDShowRemoveMatteOption: 0
   userData: 
   assetBundleName: 
   assetBundleVariant: 
