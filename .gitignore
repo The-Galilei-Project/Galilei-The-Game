@@ -83,6 +83,8 @@ crashlytics-build.properties
 !.vscode/extensions.json
 !.vscode/*.code-snippets
 
+.vsconfig
+
 # Local History for Visual Studio Code
 .history/
 
