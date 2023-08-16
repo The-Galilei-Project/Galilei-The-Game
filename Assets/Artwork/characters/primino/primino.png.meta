@@ -87,7 +87,7 @@ TextureImporter:
       213: 450502544928008945
     second: primino_walk_left_5
   externalObjects: {}
-  serializedVersion: 11
+  serializedVersion: 12
   mipmaps:
     mipMapMode: 0
     enableMipMap: 0
@@ -104,10 +104,12 @@ TextureImporter:
     externalNormalMap: 0
     heightScale: 0.25
     normalMapFilter: 0
+    flipGreenChannel: 0
   isReadable: 0
   streamingMipmaps: 0
   streamingMipmapsPriority: 0
   vTOnly: 0
+  ignoreMipmapLimit: 0
   grayScaleToAlpha: 0
   generateCubemap: 6
   cubemapConvolution: 0
@@ -146,6 +148,8 @@ TextureImporter:
   textureFormatSet: 0
   ignorePngGamma: 0
   applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 1
   platformSettings:
   - serializedVersion: 3
     buildTarget: DefaultTexturePlatform
@@ -157,6 +161,7 @@ TextureImporter:
     crunchedCompression: 0
     allowsAlphaSplitting: 0
     overridden: 0
+    ignorePlatformSupport: 0
     androidETC2FallbackOverride: 0
     forceMaximumCompressionQuality_BC6H_BC7: 0
   - serializedVersion: 3
@@ -169,6 +174,33 @@ TextureImporter:
     crunchedCompression: 0
     allowsAlphaSplitting: 0
     overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
     androidETC2FallbackOverride: 0
     forceMaximumCompressionQuality_BC6H_BC7: 0
   spriteSheet:
@@ -772,9 +804,37 @@ TextureImporter:
     edges: []
     weights: []
     secondaryTextures: []
-  spritePackingTag: 
+    nameFileIdTable:
+      player_idle_down: -5963527854661515306
+      player_idle_left: 2465895097513677176
+      player_idle_right: -7023156261961941744
+      player_idle_top: -8609042673697790446
+      primino_walk_down_0: 3751575764704986890
+      primino_walk_down_1: -5138831912645707393
+      primino_walk_down_2: -1233996708107653355
+      primino_walk_down_3: 5443689705864981051
+      primino_walk_down_4: 1092158357808801353
+      primino_walk_down_5: -831531808863395292
+      primino_walk_left_0: -7780028340837220896
+      primino_walk_left_1: 8625236286907081667
+      primino_walk_left_2: 773789088321743485
+      primino_walk_left_3: 5500326867882817346
+      primino_walk_left_4: -8165710996692856004
+      primino_walk_left_5: 450502544928008945
+      primino_walk_right_0: 7211658919733543526
+      primino_walk_right_1: -5643741706058401230
+      primino_walk_right_2: 8878240635769380866
+      primino_walk_right_3: -3636775480265440465
+      primino_walk_right_4: 1552677254665098684
+      primino_walk_right_5: -842826558503919835
+      primino_walk_top_0: -4294975507055646514
+      primino_walk_top_1: 3094723122090098930
+      primino_walk_top_2: 1973291347749780911
+      primino_walk_top_3: 7267122447148004037
+      primino_walk_top_4: 3812721224390844146
+      primino_walk_top_5: 5483010837504741811
+  mipmapLimitGroupName: 
   pSDRemoveMatte: 0
-  pSDShowRemoveMatteOption: 0
   userData: 
   assetBundleName: 
   assetBundleVariant: 

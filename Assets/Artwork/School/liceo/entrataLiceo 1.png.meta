@@ -3,7 +3,7 @@ guid: 15a0ebd5615ff08468ab78d348b2d236
 TextureImporter:
   internalIDToNameTable: []
   externalObjects: {}
-  serializedVersion: 11
+  serializedVersion: 12
   mipmaps:
     mipMapMode: 0
     enableMipMap: 0
@@ -20,10 +20,12 @@ TextureImporter:
     externalNormalMap: 0
     heightScale: 0.25
     normalMapFilter: 0
+    flipGreenChannel: 0
   isReadable: 0
   streamingMipmaps: 0
   streamingMipmapsPriority: 0
   vTOnly: 0
+  ignoreMipmapLimit: 0
   grayScaleToAlpha: 0
   generateCubemap: 6
   cubemapConvolution: 0
@@ -62,6 +64,8 @@ TextureImporter:
   textureFormatSet: 0
   ignorePngGamma: 0
   applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 1
   platformSettings:
   - serializedVersion: 3
     buildTarget: DefaultTexturePlatform
@@ -73,6 +77,7 @@ TextureImporter:
     crunchedCompression: 0
     allowsAlphaSplitting: 0
     overridden: 0
+    ignorePlatformSupport: 0
     androidETC2FallbackOverride: 0
     forceMaximumCompressionQuality_BC6H_BC7: 0
   - serializedVersion: 3
@@ -85,6 +90,7 @@ TextureImporter:
     crunchedCompression: 0
     allowsAlphaSplitting: 0
     overridden: 0
+    ignorePlatformSupport: 0
     androidETC2FallbackOverride: 0
     forceMaximumCompressionQuality_BC6H_BC7: 0
   - serializedVersion: 3
@@ -97,6 +103,20 @@ TextureImporter:
     crunchedCompression: 0
     allowsAlphaSplitting: 0
     overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
     androidETC2FallbackOverride: 0
     forceMaximumCompressionQuality_BC6H_BC7: 0
   spriteSheet:
@@ -889,9 +909,46 @@ TextureImporter:
     edges: []
     weights: []
     secondaryTextures: []
-  spritePackingTag: 
+    nameFileIdTable:
+      entrataLiceo 1_12: -2940708230254175243
+      entrataLiceo 1_13: -156572283409781570
+      entrataLiceo 1_14: 5017719186971052342
+      entrataLiceo 1_15: -6261755919969756283
+      entrataLiceo 1_16: 9074291124847269884
+      entrataLiceo 1_17: -3822240377198725243
+      entrataLiceo 1_18: 2388264969619264716
+      entrataLiceo 1_19: 8340442401921106
+      entrataLiceo 1_2: -2657680756945426755
+      entrataLiceo 1_20: -766395744637702056
+      entrataLiceo 1_21: -3302898236778459940
+      entrataLiceo 1_22: -512723263259197433
+      entrataLiceo 1_23: 5145486105836381817
+      entrataLiceo 1_24: -7951352654156472209
+      entrataLiceo 1_25: 541317003865302623
+      entrataLiceo 1_26: -8591517799527142645
+      entrataLiceo 1_27: 825168122288645998
+      entrataLiceo 1_28: -4443379181473254092
+      entrataLiceo 1_29: 7331505968534383623
+      entrataLiceo 1_3: -407228807002068725
+      entrataLiceo 1_31: 6326263686492265578
+      entrataLiceo 1_32: -626910174326662718
+      entrataLiceo 1_33: -4337181094484404088
+      entrataLiceo 1_34: 7338623873016212059
+      entrataLiceo 1_35: -5208600156668649216
+      entrataLiceo 1_36: -4935159313212187402
+      entrataLiceo 1_37: 4474103390980777530
+      entrataLiceo 1_38: 5857533841712987965
+      entrataLiceo 1_39: 231133778367418102
+      entrataLiceo 1_4: 8777029888359334166
+      entrataLiceo 1_41: -3456556458950556337
+      entrataLiceo 1_42: -7743920253101413063
+      entrataLiceo 1_51: -3973633699834906545
+      entrataLiceo 1_52: 3702535558808418405
+      entrataLiceo 1_7: 6112335119980749095
+      entrataLiceo 1_8: 824187261620655968
+      entrataLiceo 1_9: -5390621876773634349
+  mipmapLimitGroupName: 
   pSDRemoveMatte: 0
-  pSDShowRemoveMatteOption: 0
   userData: 
   assetBundleName: 
   assetBundleVariant: 

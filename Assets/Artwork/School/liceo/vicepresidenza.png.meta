@@ -75,7 +75,7 @@ TextureImporter:
       213: -5026869343051721138
     second: vicepresidenza_23
   externalObjects: {}
-  serializedVersion: 11
+  serializedVersion: 12
   mipmaps:
     mipMapMode: 0
     enableMipMap: 0
@@ -92,10 +92,12 @@ TextureImporter:
     externalNormalMap: 0
     heightScale: 0.25
     normalMapFilter: 0
+    flipGreenChannel: 0
   isReadable: 0
   streamingMipmaps: 0
   streamingMipmapsPriority: 0
   vTOnly: 0
+  ignoreMipmapLimit: 0
   grayScaleToAlpha: 0
   generateCubemap: 6
   cubemapConvolution: 0
@@ -134,6 +136,8 @@ TextureImporter:
   textureFormatSet: 0
   ignorePngGamma: 0
   applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 1
   platformSettings:
   - serializedVersion: 3
     buildTarget: DefaultTexturePlatform
@@ -145,6 +149,7 @@ TextureImporter:
     crunchedCompression: 0
     allowsAlphaSplitting: 0
     overridden: 0
+    ignorePlatformSupport: 0
     androidETC2FallbackOverride: 0
     forceMaximumCompressionQuality_BC6H_BC7: 0
   - serializedVersion: 3
@@ -157,6 +162,7 @@ TextureImporter:
     crunchedCompression: 0
     allowsAlphaSplitting: 0
     overridden: 0
+    ignorePlatformSupport: 0
     androidETC2FallbackOverride: 0
     forceMaximumCompressionQuality_BC6H_BC7: 0
   - serializedVersion: 3
@@ -169,6 +175,20 @@ TextureImporter:
     crunchedCompression: 0
     allowsAlphaSplitting: 0
     overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
     androidETC2FallbackOverride: 0
     forceMaximumCompressionQuality_BC6H_BC7: 0
   spriteSheet:
@@ -625,9 +645,30 @@ TextureImporter:
     edges: []
     weights: []
     secondaryTextures: []
-  spritePackingTag: 
+    nameFileIdTable:
+      vicepresidenza_0: -7825177507594778662
+      vicepresidenza_11: -758076144092876435
+      vicepresidenza_16: 5893092679343322616
+      vicepresidenza_2: 7087959967019113214
+      vicepresidenza_banco1: -1314397027047599746
+      vicepresidenza_banco2: 7840612499518068711
+      vicepresidenza_banco3: -2248750454429972828
+      vicepresidenza_banco4: 571192462223046956
+      vicepresidenza_banco5: -2353491935467208046
+      vicepresidenza_banco6: -5099973131571651178
+      vicepresidenza_banco7: -2953296574463172557
+      vicepresidenza_banco8: -6115223241711788814
+      vicepresidenza_banco9: -8835681634171703987
+      vicepresidenza_muro_1: 7519854597601599137
+      vicepresidenza_muro_2: 1374439940270397360
+      vicepresidenza_muro_3: -1970399120012295941
+      vicepresidenza_muro_4: 7254324988088227997
+      vicepresidenza_muro_5: -5640218412460552547
+      vicepresidenza_muro_6: -7822409347509136661
+      vicepresidenza_porta_clos: 3782528604519473742
+      vicepresidenza_porta_open: -7153294112883837736
+  mipmapLimitGroupName: 
   pSDRemoveMatte: 0
-  pSDShowRemoveMatteOption: 0
   userData: 
   assetBundleName: 
   assetBundleVariant: 

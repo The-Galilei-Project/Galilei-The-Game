@@ -645,7 +645,7 @@ TextureImporter:
       213: 8440540194069813974
     second: Banco-palestra-bug
   externalObjects: {}
-  serializedVersion: 11
+  serializedVersion: 12
   mipmaps:
     mipMapMode: 0
     enableMipMap: 0
@@ -662,10 +662,12 @@ TextureImporter:
     externalNormalMap: 0
     heightScale: 0.25
     normalMapFilter: 0
+    flipGreenChannel: 0
   isReadable: 0
   streamingMipmaps: 0
   streamingMipmapsPriority: 0
   vTOnly: 0
+  ignoreMipmapLimit: 0
   grayScaleToAlpha: 0
   generateCubemap: 6
   cubemapConvolution: 0
@@ -704,6 +706,8 @@ TextureImporter:
   textureFormatSet: 0
   ignorePngGamma: 0
   applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 1
   platformSettings:
   - serializedVersion: 3
     buildTarget: DefaultTexturePlatform
@@ -715,6 +719,7 @@ TextureImporter:
     crunchedCompression: 0
     allowsAlphaSplitting: 0
     overridden: 0
+    ignorePlatformSupport: 0
     androidETC2FallbackOverride: 0
     forceMaximumCompressionQuality_BC6H_BC7: 0
   - serializedVersion: 3
@@ -727,6 +732,7 @@ TextureImporter:
     crunchedCompression: 0
     allowsAlphaSplitting: 0
     overridden: 0
+    ignorePlatformSupport: 0
     androidETC2FallbackOverride: 0
     forceMaximumCompressionQuality_BC6H_BC7: 0
   - serializedVersion: 3
@@ -739,6 +745,20 @@ TextureImporter:
     crunchedCompression: 0
     allowsAlphaSplitting: 0
     overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
     androidETC2FallbackOverride: 0
     forceMaximumCompressionQuality_BC6H_BC7: 0
   spriteSheet:
@@ -1138,7 +1158,7 @@ TextureImporter:
       tessellationDetail: 0
       bones: []
       spriteID: 2b4fc0d7baf401c40800000000000000
-      internalID: 5480968344465896626
+      internalID: -7840150571955743701
       vertices: []
       indices: 
       edges: []
@@ -1348,7 +1368,7 @@ TextureImporter:
       tessellationDetail: 0
       bones: []
       spriteID: 86a9efafa34272e80800000000000000
-      internalID: -8203548360494376344
+      internalID: 8274188858298807530
       vertices: []
       indices: 
       edges: []
@@ -1411,7 +1431,7 @@ TextureImporter:
       tessellationDetail: 0
       bones: []
       spriteID: 88b8ce4506aa55150800000000000000
-      internalID: 5860777820810939272
+      internalID: -6672338352291787997
       vertices: []
       indices: 
       edges: []
@@ -2503,7 +2523,7 @@ TextureImporter:
       tessellationDetail: 0
       bones: []
       spriteID: b0cb67ae395aa4f10800000000000000
-      internalID: 2254796618164780043
+      internalID: 721754699322449745
       vertices: []
       indices: 
       edges: []
@@ -2671,7 +2691,7 @@ TextureImporter:
       tessellationDetail: 0
       bones: []
       spriteID: 8dab310b95bde6670800000000000000
-      internalID: 8533999522166323928
+      internalID: 2729495596097360152
       vertices: []
       indices: 
       edges: []
@@ -2713,7 +2733,7 @@ TextureImporter:
       tessellationDetail: 0
       bones: []
       spriteID: 09e6ef42f41d1a5b0800000000000000
-      internalID: -5358771943740903792
+      internalID: -2079032159989977811
       vertices: []
       indices: 
       edges: []
@@ -2839,7 +2859,7 @@ TextureImporter:
       tessellationDetail: 0
       bones: []
       spriteID: 4030da8da0de91110800000000000000
-      internalID: 1232276603903214340
+      internalID: 2254796618164780043
       vertices: []
       indices: 
       edges: []
@@ -5065,7 +5085,7 @@ TextureImporter:
       tessellationDetail: 0
       bones: []
       spriteID: 876fc10040b0d80c0800000000000000
-      internalID: -4571985934901512584
+      internalID: 7373937270959055918
       vertices: []
       indices: 
       edges: []
@@ -5290,9 +5310,225 @@ TextureImporter:
     edges: []
     weights: []
     secondaryTextures: []
-  spritePackingTag: 
+    nameFileIdTable:
+      2chair_n_2pc_0: 1749677962506637226
+      2chair_n_2pc_1: 2356022139265056555
+      2chair_n_2pc_2: -6603578641991862261
+      Banco-lavagnini-bug: 3579362378331020276
+      Banco-palestra-bug: 8440540194069813974
+      Drone_0: 2949860982124573540
+      Drone_1: 1029509400658941743
+      Drone_2: -3527354939412077288
+      Drone_3: -2240435512025958478
+      appendino: -6794479614435110290
+      banco_palestra_d0: 1942685481875038249
+      banco_palestra_d1: 1909965612555234805
+      banco_palestra_s0: -2644197309409174743
+      banco_palestra_s1: 7494074774459630789
+      bell_0: 4630603404082629623
+      bell_1: -6957614433953934220
+      biditable_0: 8274188858298807530
+      biditable_1: -5620387188939666342
+      biditable_2: -8561466886475041289
+      biditable_3: 5968416669948234626
+      biditable_4: -3929325389264119307
+      big_lim_0: 8818202829717178328
+      big_lim_1: 5667984554435544563
+      big_lim_2: -1318953944548148922
+      big_lim_3: -7936383749248371112
+      big_lim_4: -6698250406935354444
+      big_lim_5: -5347524966920518240
+      billboard_0: -2753235586804225326
+      billboard_1: -6672338352291787997
+      billboard_2: 8957611929761938762
+      billboard_3: -3003835804380955595
+      blue_chair_0: 4204696422778275535
+      blue_chair_1: -6870796454509167368
+      cesso_left_0: 6616301955702075199
+      cesso_left_1: 4817570974024590494
+      cesso_right_0: -128028412713132848
+      cesso_right_1: -3434953380281867532
+      cesto: -7100268093069299329
+      cesto_carta: 9133325408475911938
+      cesto_plastica: 4813643918273922611
+      chair_n_pc_0: 6779844911121241648
+      chair_n_pc_1: 2972353691098688804
+      class_desk_front_: -418869643064752969
+      class_desk_front_0: -1739175906740754099
+      class_desk_front_1: 3390213453196659416
+      class_desk_front_3: -3466685938222848329
+      class_desk_front_4: -7856371954515149558
+      class_desk_front_5: -1490803471441990841
+      class_desk_front_7: -5155903833723881162
+      class_desk_front_8: 7608661663990305923
+      class_desk_front_pc_0: -567295856507794721
+      class_desk_front_pc_1: 4092242951562095359
+      class_desk_left_0: 4077750550440557678
+      class_desk_left_1: 2460118933874665699
+      class_desk_left_2: 6281686956451713089
+      class_desk_left_3: -2557809077639053675
+      class_desk_left_4: -5599304419245543517
+      class_desk_left_5: 5385383145103295971
+      class_desk_left_6: 2709902567425487402
+      class_desk_left_7: -60635007281928185
+      class_desk_left_8: 8441129303314348674
+      class_desk_left_9: 570413254595587407
+      class_desk_right_0: 3929155735975355694
+      class_desk_right_1: 8849804572604595947
+      class_desk_right_2: -4940955219179189959
+      class_desk_right_3: -8046854688929540624
+      class_desk_right_4: 721754699322449745
+      class_desk_right_5: -1327745303858050287
+      class_desk_right_6: 2729495596097360152
+      class_desk_right_7: -9107822620241693679
+      class_desk_right_8: -2079032159989977811
+      class_desk_right_9: -2296063589037274112
+      class_desk_teacher_down_0: -8456168282085623217
+      class_desk_teacher_down_1: 3764881329156142860
+      class_desk_teacher_down_2: 1851337384583160639
+      class_desk_teacher_down_3: 7258857166618589720
+      class_desk_teacher_down_5I_0: -3399337787613252857
+      class_desk_teacher_down_5I_1: 3215651453841560494
+      class_desk_teacher_down_5I_2: 8070648882833185820
+      class_desk_teacher_down_5I_3: -1806252463365852767
+      class_desk_teacher_left_0: 5418563706308740914
+      class_desk_teacher_left_1: 6449204538354262068
+      class_desk_teacher_left_2: -6293921193700600339
+      class_desk_teacher_left_3: -7172816643422754525
+      class_desk_teacher_right_0: -275452967108260641
+      class_desk_teacher_right_1: 2254796618164780043
+      class_desk_teacher_right_2: 6111576689404898905
+      class_desk_teacher_right_3: 3130917186094019308
+      clock_0: -7395259949154378979
+      clock_1: 6274219225843550066
+      closet_0: 1126647873467048340
+      closet_1: 4601676715525581474
+      computer_biblio: 889184229624529073
+      cosone_0: 9110280980382657848
+      cosone_1: -3836054161050681227
+      cosone_2: 2021864535811253993
+      desk_front_0: -2788191475843648258
+      desk_front_1: -2010204009403174681
+      desk_front_2: -8495455986592732459
+      desk_front_3: -3706500579137491571
+      desk_lab_left_0: 5546014888998931842
+      desk_lab_left_1: -554506220834623070
+      desk_lab_left_10: -1314173728095822290
+      desk_lab_left_11: 6656378286978651548
+      desk_lab_left_12: 7457474593985678499
+      desk_lab_left_13: -169176378771466440
+      desk_lab_left_14: -5734942683557477717
+      desk_lab_left_15: -2984994904454791969
+      desk_lab_left_16: 3174260639039964412
+      desk_lab_left_17: 4384663359258971804
+      desk_lab_left_18: 2516562596004265283
+      desk_lab_left_19: -2594372751729981535
+      desk_lab_left_2: 974999010011298978
+      desk_lab_left_3: -4130424300022723932
+      desk_lab_left_4: 7773328109384100709
+      desk_lab_left_5: -3600530990891790038
+      desk_lab_left_6: 8156448622735233461
+      desk_lab_left_7: 7733794203717855405
+      desk_lab_left_8: -7414755153155273096
+      desk_lab_left_9: 5470082817877424050
+      desk_lab_right_0: 409255155166499419
+      desk_lab_right_1: 7648639481643037116
+      desk_lab_right_10: -2519265343230035490
+      desk_lab_right_11: 3539766265464374272
+      desk_lab_right_12: 2518984649022213104
+      desk_lab_right_13: -4684340436581277994
+      desk_lab_right_14: 8365925639278692179
+      desk_lab_right_15: 1275367562209782397
+      desk_lab_right_16: -1761084880238569227
+      desk_lab_right_17: -778902890943516548
+      desk_lab_right_18: -1776615607619135858
+      desk_lab_right_19: -2365021816772489910
+      desk_lab_right_2: 1468355919954659036
+      desk_lab_right_3: -7045946061128141406
+      desk_lab_right_4: -3221797372371353337
+      desk_lab_right_5: 8437923162080233724
+      desk_lab_right_6: -4974882451731626432
+      desk_lab_right_7: -7220935009955994971
+      desk_lab_right_8: 1156215714355552885
+      desk_lab_right_9: 7867618616354306335
+      desk_pc_0: -8419472696017137807
+      desk_pc_1: -1383082815144889492
+      desk_pc_lateral_left_0: -7189181700742738243
+      desk_pc_lateral_left_1: 5723203243057661384
+      estintore: 7346782140477469748
+      foglio: 3462283581740454914
+      green_chair: 5400252983111577113
+      hall_table_0: -893891318028224083
+      hall_table_1: -7304976027131130443
+      hall_table_2: -2861429987561661696
+      hall_table_3: -1668256826802161869
+      hall_table_4: -1892807465204973749
+      hall_table_5: -5188494667835149194
+      hall_table_centre: 3267047531704675001
+      hall_table_left: 1089962822948342030
+      hall_table_right: -3914537044401962469
+      lavagna_aterra_0: -5446705024814241803
+      lavagna_aterra_1: -4995911591572198810
+      lavagna_aterra_2: -685810732699707855
+      lavagna_aterra_3: 8433324972289733512
+      lim_0: 1242105093463716969
+      lim_1: -1302549989430801049
+      lim_2: 7893680926877377677
+      lim_3: -3718752153427925916
+      oggetti_213: 352499977904714230
+      pianta_a_0: -4176888722206895567
+      pianta_a_1: -342185705327769795
+      pianta_b_0: 7268160257207077740
+      pianta_b_1: -2478945560056891880
+      plant_c: 7738587166352475031
+      scaffale_0: 3154552291314109400
+      scaffale_1: 2249113968268837699
+      scaffale_2: 84096609512342893
+      scaffale_3: -6521480434184055044
+      scaffale_roba_a_0: 6955707502142409686
+      scaffale_roba_a_1: -9056418463584886622
+      scaffale_roba_b_0: -2219754131350421670
+      scaffale_roba_b_1: -3161956050601521529
+      scaffale_roba_c_0: -999810819160585732
+      scaffale_roba_c_1: -2267375168604550877
+      scaragna_left_0: 6593771676521575347
+      scaragna_left_1: 6422869725080041906
+      scaragna_right_0: -5430571513463974535
+      scaragna_right_1: 6190017416302323529
+      scatole_0: 4456263074681466250
+      scatole_1: -8945792038084069753
+      scatole_2: 4426046144000947177
+      sedia_ricky_0: 2249873877508154663
+      sedia_ricky_1: -1593959483853884877
+      sedia_v0: 7373937270959055918
+      sedia_v1: -8103359966573317217
+      sscaragna_back: -8304498165252819939
+      telone_0: -3314076454951673542
+      telone_1: -2846288725666575230
+      telone_10: -9182867543546245361
+      telone_2: 3279869026077983223
+      telone_3: 1416938359039711127
+      telone_4: -5219801958528070866
+      telone_5: -740505878061305066
+      telone_6: 1134274247496599874
+      telone_7: 6161953972998485510
+      telone_8: 7801753718166349017
+      telone_9: -3703028916694366483
+      totem_0: -6794805085908972582
+      totem_1: 7541805858448393305
+      tv_atrio_: -8519224617828938744
+      tv_atrio_0: -7840150571955743701
+      vmachine_0: 2064421970496050885
+      vmachine_1: 2076009505594487248
+      vmachine_2: -3920238356123035653
+      vmachine_3: 7457429511344318695
+      vmachine_coffe_0: 3939603616541407270
+      vmachine_coffe_1: -5499957570973955749
+      vmachine_water_0: -7564488485653630748
+      vmachine_water_1: 6393450738627626641
+      volantino: -3292661536680693128
+  mipmapLimitGroupName: 
   pSDRemoveMatte: 0
-  pSDShowRemoveMatteOption: 0
   userData: 
   assetBundleName: 
   assetBundleVariant: 

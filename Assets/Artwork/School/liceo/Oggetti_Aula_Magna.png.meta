@@ -63,7 +63,7 @@ TextureImporter:
       213: -3647522698000038073
     second: Oggetti_Aula_Magna_19
   externalObjects: {}
-  serializedVersion: 11
+  serializedVersion: 12
   mipmaps:
     mipMapMode: 0
     enableMipMap: 0
@@ -80,10 +80,12 @@ TextureImporter:
     externalNormalMap: 0
     heightScale: 0.25
     normalMapFilter: 0
+    flipGreenChannel: 0
   isReadable: 0
   streamingMipmaps: 0
   streamingMipmapsPriority: 0
   vTOnly: 0
+  ignoreMipmapLimit: 0
   grayScaleToAlpha: 0
   generateCubemap: 6
   cubemapConvolution: 0
@@ -122,6 +124,8 @@ TextureImporter:
   textureFormatSet: 0
   ignorePngGamma: 0
   applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 1
   platformSettings:
   - serializedVersion: 3
     buildTarget: DefaultTexturePlatform
@@ -133,6 +137,7 @@ TextureImporter:
     crunchedCompression: 0
     allowsAlphaSplitting: 0
     overridden: 0
+    ignorePlatformSupport: 0
     androidETC2FallbackOverride: 0
     forceMaximumCompressionQuality_BC6H_BC7: 0
   - serializedVersion: 3
@@ -145,6 +150,33 @@ TextureImporter:
     crunchedCompression: 0
     allowsAlphaSplitting: 0
     overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
     androidETC2FallbackOverride: 0
     forceMaximumCompressionQuality_BC6H_BC7: 0
   spriteSheet:
@@ -580,9 +612,29 @@ TextureImporter:
     edges: []
     weights: []
     secondaryTextures: []
-  spritePackingTag: 
+    nameFileIdTable:
+      Oggetti_Aula_Magna_0: -1061883798634040333
+      Oggetti_Aula_Magna_1: 6245128344989218841
+      Oggetti_Aula_Magna_10: -7079959410196377494
+      Oggetti_Aula_Magna_11: -8182766134910418775
+      Oggetti_Aula_Magna_12: -3224341043050590608
+      Oggetti_Aula_Magna_13: 3744473258955232195
+      Oggetti_Aula_Magna_14: -2685591186596309718
+      Oggetti_Aula_Magna_15: 9141295777969713201
+      Oggetti_Aula_Magna_16: -7904761934934099380
+      Oggetti_Aula_Magna_17: -2963706466543054896
+      Oggetti_Aula_Magna_18: -9064710953527103080
+      Oggetti_Aula_Magna_19: -3647522698000038073
+      Oggetti_Aula_Magna_2: -2421532101736781697
+      Oggetti_Aula_Magna_3: 5741761783171342806
+      Oggetti_Aula_Magna_4: -7076767687329226784
+      Oggetti_Aula_Magna_5: -612008814499316462
+      Oggetti_Aula_Magna_6: -6642228555975125899
+      Oggetti_Aula_Magna_7: 7872473474044047529
+      Oggetti_Aula_Magna_8: -9127518309528819601
+      Oggetti_Aula_Magna_9: -2510863240311858425
+  mipmapLimitGroupName: 
   pSDRemoveMatte: 0
-  pSDShowRemoveMatteOption: 0
   userData: 
   assetBundleName: 
   assetBundleVariant: 

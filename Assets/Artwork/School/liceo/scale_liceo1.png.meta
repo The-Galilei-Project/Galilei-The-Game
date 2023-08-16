@@ -255,7 +255,7 @@ TextureImporter:
       213: 6623621738253249440
     second: scale_liceo1_84
   externalObjects: {}
-  serializedVersion: 11
+  serializedVersion: 12
   mipmaps:
     mipMapMode: 0
     enableMipMap: 0
@@ -272,10 +272,12 @@ TextureImporter:
     externalNormalMap: 0
     heightScale: 0.25
     normalMapFilter: 0
+    flipGreenChannel: 0
   isReadable: 0
   streamingMipmaps: 0
   streamingMipmapsPriority: 0
   vTOnly: 0
+  ignoreMipmapLimit: 0
   grayScaleToAlpha: 0
   generateCubemap: 6
   cubemapConvolution: 0
@@ -314,6 +316,8 @@ TextureImporter:
   textureFormatSet: 0
   ignorePngGamma: 0
   applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 1
   platformSettings:
   - serializedVersion: 3
     buildTarget: DefaultTexturePlatform
@@ -325,6 +329,7 @@ TextureImporter:
     crunchedCompression: 0
     allowsAlphaSplitting: 0
     overridden: 0
+    ignorePlatformSupport: 0
     androidETC2FallbackOverride: 0
     forceMaximumCompressionQuality_BC6H_BC7: 0
   - serializedVersion: 3
@@ -337,6 +342,7 @@ TextureImporter:
     crunchedCompression: 0
     allowsAlphaSplitting: 0
     overridden: 0
+    ignorePlatformSupport: 0
     androidETC2FallbackOverride: 0
     forceMaximumCompressionQuality_BC6H_BC7: 0
   - serializedVersion: 3
@@ -349,6 +355,20 @@ TextureImporter:
     crunchedCompression: 0
     allowsAlphaSplitting: 0
     overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
     androidETC2FallbackOverride: 0
     forceMaximumCompressionQuality_BC6H_BC7: 0
   spriteSheet:
@@ -2128,9 +2148,93 @@ TextureImporter:
     edges: []
     weights: []
     secondaryTextures: []
-  spritePackingTag: 
+    nameFileIdTable:
+      scale_liceo1_0: -1611443611439886208
+      scale_liceo1_1: 89168592542885333
+      scale_liceo1_10: 7173332919848281397
+      scale_liceo1_11: 3734023362556998757
+      scale_liceo1_12: 2516440585382095397
+      scale_liceo1_13: -4557921763077850459
+      scale_liceo1_14: -7874487947397035410
+      scale_liceo1_15: -4432349968749977149
+      scale_liceo1_16: 513429053129446358
+      scale_liceo1_17: -2123675983423143842
+      scale_liceo1_18: 2995330998348198007
+      scale_liceo1_19: -8823195704411706120
+      scale_liceo1_2: -5272383031731002989
+      scale_liceo1_20: 1622183712881817278
+      scale_liceo1_21: -3051792693739850943
+      scale_liceo1_22: -4513426401817242028
+      scale_liceo1_23: 1175449829382609972
+      scale_liceo1_24: 8653273969306687876
+      scale_liceo1_25: -461380889783296270
+      scale_liceo1_26: 3159746978157878233
+      scale_liceo1_27: -9214105275336271408
+      scale_liceo1_28: -1636411978444054106
+      scale_liceo1_29: -1348498366134352318
+      scale_liceo1_3: -8610819419124782762
+      scale_liceo1_30: 3970579209377136379
+      scale_liceo1_31: -6241199149317115721
+      scale_liceo1_32: -1679939757281267814
+      scale_liceo1_33: -2706828369371367864
+      scale_liceo1_34: -5932972818753033340
+      scale_liceo1_35: 1348204570652764330
+      scale_liceo1_36: 9052560951304572703
+      scale_liceo1_37: -3297750714500654947
+      scale_liceo1_38: 3861126630184967171
+      scale_liceo1_39: -188508296614948778
+      scale_liceo1_4: 5292193533835290219
+      scale_liceo1_40: -4197362765496185161
+      scale_liceo1_41: 7634424976317372355
+      scale_liceo1_42: 455648431557067597
+      scale_liceo1_43: 4918099463256389743
+      scale_liceo1_44: -2509300129767869920
+      scale_liceo1_45: -1323209028852158234
+      scale_liceo1_46: -1340305218480491428
+      scale_liceo1_47: -8074242862770737081
+      scale_liceo1_49: -3535742382295103801
+      scale_liceo1_5: -8085519421853686081
+      scale_liceo1_50: -1008023990441666836
+      scale_liceo1_51: 4019566464147137299
+      scale_liceo1_52: 5705213294353569874
+      scale_liceo1_53: -3817604096091522375
+      scale_liceo1_54: 3077789841974024573
+      scale_liceo1_55: -2831163120564426183
+      scale_liceo1_56: 7016714295908404663
+      scale_liceo1_57: -4886791504299771798
+      scale_liceo1_58: 2440872595987431982
+      scale_liceo1_59: -93546635565030273
+      scale_liceo1_6: -520146933568013836
+      scale_liceo1_60: 1891780588868600431
+      scale_liceo1_61: -8702427037916470102
+      scale_liceo1_62: 1569039853764176482
+      scale_liceo1_63: 809844298010392665
+      scale_liceo1_64: 6792611243069482131
+      scale_liceo1_65: -9114410635578596102
+      scale_liceo1_66: -696887663886576168
+      scale_liceo1_67: 1050656233171303605
+      scale_liceo1_68: -9002550449675097048
+      scale_liceo1_69: 2825784043527140572
+      scale_liceo1_7: -6090052815619219662
+      scale_liceo1_70: 254319574271848092
+      scale_liceo1_71: -7113579692465198791
+      scale_liceo1_72: 6953915254781651187
+      scale_liceo1_73: -4412334634517650733
+      scale_liceo1_74: -2280339364810468303
+      scale_liceo1_75: 4886927612140241359
+      scale_liceo1_76: 1463689500798722676
+      scale_liceo1_77: -4739182472969626162
+      scale_liceo1_78: -3696373317014961612
+      scale_liceo1_79: -893828188774966590
+      scale_liceo1_8: -4538871281277232291
+      scale_liceo1_80: 4565589020190119567
+      scale_liceo1_81: -5194840702451862684
+      scale_liceo1_82: 4610325612828281596
+      scale_liceo1_83: 777043463047815114
+      scale_liceo1_84: 6623621738253249440
+      scale_liceo1_9: 1279616291711564383
+  mipmapLimitGroupName: 
   pSDRemoveMatte: 0
-  pSDShowRemoveMatteOption: 0
   userData: 
   assetBundleName: 
   assetBundleVariant: 
