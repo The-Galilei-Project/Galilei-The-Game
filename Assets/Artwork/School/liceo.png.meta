@@ -1,0 +1,6840 @@
+fileFormatVersion: 2
+guid: 68b51c0f9a0b7dbda8ea697d43b70b0a
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 3977462197061299381
+    second: liceo_0
+  - first:
+      213: -9185893131325324293
+    second: muro_liceo_scale1
+  - first:
+      213: -1968957894886268911
+    second: liceo_2
+  - first:
+      213: 1154153929843694096
+    second: muro_liceo_scale2
+  - first:
+      213: 2617004029196440146
+    second: muro_finestra_1
+  - first:
+      213: -2496438193429978767
+    second: muro_finestra_2
+  - first:
+      213: -8205896675961849489
+    second: liceo_6
+  - first:
+      213: 9006709205343804148
+    second: muro_finestra_3
+  - first:
+      213: 7603352450624019857
+    second: muro_finestra_4
+  - first:
+      213: 7978579228284591308
+    second: muro_segreteria1
+  - first:
+      213: 2210055752588333132
+    second: muro_segreteria2
+  - first:
+      213: 5593776287256393901
+    second: muro_segreteria3
+  - first:
+      213: 4438976385288318315
+    second: muro_segreteria4
+  - first:
+      213: 4119419382506123697
+    second: muro_segreteria5
+  - first:
+      213: -7298774002903237088
+    second: muro_segreteria6
+  - first:
+      213: 7208619204147161890
+    second: muro_segreteria7
+  - first:
+      213: -8836955679202677883
+    second: muro_segreteria8
+  - first:
+      213: -1057756479133718118
+    second: muro_segreteria9
+  - first:
+      213: -8178197466690700522
+    second: muro_segreteria10
+  - first:
+      213: -4347195283208832572
+    second: muro_segreteria11
+  - first:
+      213: 4167465394064433334
+    second: muro_segreteria12
+  - first:
+      213: 8162536152224212181
+    second: muro_segreteria13
+  - first:
+      213: 2286461398196209443
+    second: muro_segreteria14
+  - first:
+      213: -9159489841851776866
+    second: muro_segreteria15
+  - first:
+      213: 2321680585776841945
+    second: muro_segreteria16
+  - first:
+      213: 2649014593708199392
+    second: muro_segreteria17
+  - first:
+      213: 1487959154125144350
+    second: muro_finestra_5
+  - first:
+      213: -2706022617005082512
+    second: muro_finestra_6
+  - first:
+      213: -5403180297841988692
+    second: muro_segreteria18
+  - first:
+      213: 4985246067847649393
+    second: muro_segreteria19
+  - first:
+      213: 3508496468738704528
+    second: muro_segreteria20
+  - first:
+      213: 8914697897661566018
+    second: muro_segreteria21
+  - first:
+      213: 7808728639171503074
+    second: muro_segreteria22
+  - first:
+      213: 1164400457774763158
+    second: muro_segreteria23
+  - first:
+      213: -8147840058195101068
+    second: muro_segreteria24
+  - first:
+      213: 8014889070161131239
+    second: muro_segreteria25
+  - first:
+      213: -181701904276416200
+    second: borsellino_diagonale_sx1
+  - first:
+      213: 2356266174008739776
+    second: borsellino_diagonale_dx1
+  - first:
+      213: -3684066366360970521
+    second: borsellino_sx
+  - first:
+      213: -8356241590334262865
+    second: borsellino_dx
+  - first:
+      213: 5147466693362666109
+    second: porta_borsellino_close
+  - first:
+      213: -7287109967765057020
+    second: porta_borsellino_open
+  - first:
+      213: -2272300381357269450
+    second: muro_borsellino_1
+  - first:
+      213: -8268341298226734903
+    second: borsellino_diagonale_sx2
+  - first:
+      213: -4095664401261466449
+    second: borsellino_diagonale_dx2
+  - first:
+      213: 4526897172855384535
+    second: muro_borsellino_2
+  - first:
+      213: 3625557768348209899
+    second: banco_rotelle_1
+  - first:
+      213: 1144030754667998545
+    second: banco_rotelle_2
+  - first:
+      213: -6902172111159446414
+    second: banco_rotelle_3
+  - first:
+      213: 5803924900336194095
+    second: banco_rotelle_4
+  - first:
+      213: 5930412464825955920
+    second: banco_liceo_1
+  - first:
+      213: 2391099047622632669
+    second: banco_liceo_2
+  - first:
+      213: 2348556022100225033
+    second: banco_liceo_3
+  - first:
+      213: 7289504774124169626
+    second: banco_liceo_4
+  - first:
+      213: 474247920978842819
+    second: banco_liceo_5
+  - first:
+      213: -5849388002521833738
+    second: banco_liceo_6
+  - first:
+      213: -6601719056455705753
+    second: banco4_1
+  - first:
+      213: 2850644847191508797
+    second: banco4_2
+  - first:
+      213: -1630118968593795120
+    second: banco4_3
+  - first:
+      213: 5108407630412976680
+    second: banco4_4
+  - first:
+      213: -2052383062539759844
+    second: banco4_5
+  - first:
+      213: 5776943283593901778
+    second: banco4_6
+  - first:
+      213: 8954761199411685857
+    second: banco4_7
+  - first:
+      213: -2810566602935132917
+    second: banco4_8
+  - first:
+      213: 270840628276271906
+    second: banco4_9
+  - first:
+      213: 1914969373582163236
+    second: piastrella_segnaletica
+  - first:
+      213: -7724004477131598075
+    second: colonna_1
+  - first:
+      213: 4171289676540489601
+    second: colonna_2
+  - first:
+      213: 4800856269567853741
+    second: colonna_3
+  - first:
+      213: -1669924498035444835
+    second: muro_corridoio_lab1
+  - first:
+      213: 2007335864308341901
+    second: muro_corridoio_lab2
+  - first:
+      213: -5325562398964251950
+    second: muro_corridoio_lab3
+  - first:
+      213: -3353705898998284452
+    second: muro_corridoio_lab4
+  - first:
+      213: 4628378062524318625
+    second: muro_corridoio_lab5
+  - first:
+      213: 6442666899339087895
+    second: muro_corridoio_lab6
+  - first:
+      213: 8743057357569316474
+    second: muro_corridoio_lab7
+  - first:
+      213: -5019875139144961545
+    second: trave_sinistra
+  - first:
+      213: -2050083810058392087
+    second: pavimento_freccia
+  - first:
+      213: 8138297440078547639
+    second: trofei_1
+  - first:
+      213: -8253619673159068574
+    second: trofei_2
+  - first:
+      213: -1831281832508883599
+    second: muro_corridoio_fab8
+  - first:
+      213: -6108534223431584610
+    second: muro_corridoio_fab9
+  - first:
+      213: -1604731008999485456
+    second: muro_bib_obliquo2
+  - first:
+      213: 7091863166719156243
+    second: muro_bib_obliquo1
+  - first:
+      213: -1912507788004299150
+    second: liceo_84
+  - first:
+      213: 3839582142432193977
+    second: porta_biblio_1
+  - first:
+      213: 543062192726780951
+    second: porta_biblio_2
+  - first:
+      213: -7282520187370524114
+    second: porta_biblio_1_aperta
+  - first:
+      213: -5969497529166713784
+    second: porta_biblio_2_aperta
+  - first:
+      213: -9091886251490580997
+    second: corridoio_destra_1
+  - first:
+      213: -5672940355931493104
+    second: liceo_90
+  - first:
+      213: 599537958386812913
+    second: corridoio_destra_2
+  - first:
+      213: 2327754419172336445
+    second: corridoio_destra_3
+  - first:
+      213: 5921300299732100188
+    second: corridoio_destra_4
+  - first:
+      213: 382901340344542378
+    second: corridoio_destra_5
+  - first:
+      213: 5817772150963448312
+    second: muro_entrata_fab1
+  - first:
+      213: -3980295699427825955
+    second: muro_entrata_fab2
+  - first:
+      213: 6364546207631235465
+    second: muro_entrata_fab3
+  - first:
+      213: 516358383642926037
+    second: muro_entrata_fab4
+  - first:
+      213: 7543247560098836716
+    second: traversa_giu
+  - first:
+      213: -1566316231327374155
+    second: colonna_drittta
+  - first:
+      213: 3350382564089107776
+    second: trave_destra
+  - first:
+      213: 2787426507208018190
+    second: trave_centrale
+  - first:
+      213: 7713860437554957245
+    second: angolo_destra
+  - first:
+      213: 1658730259120237557
+    second: muro_infolab
+  - first:
+      213: -3691307351089812278
+    second: muro_destra
+  - first:
+      213: 2288589370507340067
+    second: muro_interno_fab1
+  - first:
+      213: 4337722200066458010
+    second: muro_interno_fab2
+  - first:
+      213: -8206512347964830293
+    second: muro_interno_fab3
+  - first:
+      213: -8843073832667191698
+    second: muro_prof1
+  - first:
+      213: 8799819646266891015
+    second: muro_prof2
+  - first:
+      213: 820536695474013702
+    second: porta_prof
+  - first:
+      213: -2362264649853810469
+    second: porta_prof2
+  - first:
+      213: 8196912762195137442
+    second: muro_Bib8
+  - first:
+      213: -6299710824935840340
+    second: muro_Bib7
+  - first:
+      213: -6850175530403893544
+    second: muro_Bib6
+  - first:
+      213: -794711173265872887
+    second: muro_Bib5
+  - first:
+      213: -748574444858802180
+    second: muro_Bib04
+  - first:
+      213: -7003059701191998919
+    second: muro_Bib3
+  - first:
+      213: -7275420204875774678
+    second: muro_Bib2
+  - first:
+      213: -2554942211317951147
+    second: muro_Bib0
+  - first:
+      213: -3613959171585992060
+    second: muro_Bib2
+  - first:
+      213: -9155158645835266999
+    second: muro_Bib9
+  - first:
+      213: -4497872406661828714
+    second: muro_Bib10
+  - first:
+      213: -5864066934521687445
+    second: muro_Bib11
+  - first:
+      213: -3895588497916462211
+    second: muro_Bib12
+  - first:
+      213: -5680949404335432252
+    second: muro_Bib13
+  - first:
+      213: 275273121931774089
+    second: muro_Bib14
+  - first:
+      213: 2579321206017894988
+    second: muro_Bib15
+  - first:
+      213: 3735949612342351065
+    second: muro_Bib16
+  - first:
+      213: 6312255313703106874
+    second: liceo_130
+  - first:
+      213: 4979030988790340875
+    second: muro_Bib17
+  - first:
+      213: 7173002423223584434
+    second: muro_Bib18
+  - first:
+      213: -5849761425314117181
+    second: muro_Bib19
+  - first:
+      213: 8734298829096304786
+    second: muro_Bib20
+  - first:
+      213: -7677924297142763090
+    second: muro_Bib21
+  - first:
+      213: -5417678634776901071
+    second: muro_Bib22
+  - first:
+      213: -1464713342598623319
+    second: muro_Bib23
+  - first:
+      213: 5710731978366231588
+    second: muro_Bib24
+  - first:
+      213: 7704910393776096330
+    second: muro_Bib25
+  - first:
+      213: -8908463735729613628
+    second: muro_Bib26
+  - first:
+      213: 3001365913796290077
+    second: muro_Bib27
+  - first:
+      213: -2466906537516755524
+    second: muro_Bib28
+  - first:
+      213: 4210275228135609591
+    second: muro_Bib29
+  - first:
+      213: 6264302958736879347
+    second: muro_Bib30
+  - first:
+      213: 6476096006909036901
+    second: muro_Bib31
+  - first:
+      213: 761224237554864936
+    second: muro_Bib32
+  - first:
+      213: -3302535091567758131
+    second: muro_Bib33
+  - first:
+      213: 5093572223078549115
+    second: muro_Bib34
+  - first:
+      213: -906126811574301315
+    second: muro_Bib35
+  - first:
+      213: -6156362016114610185
+    second: muro_Bib36
+  - first:
+      213: 7945717519432052829
+    second: muro_Bib37
+  - first:
+      213: 3300162739672871432
+    second: muro_Bib38
+  - first:
+      213: 6505097238428408194
+    second: muro_Bib39
+  - first:
+      213: -8802540965077821545
+    second: muro_Bib40
+  - first:
+      213: 5981511129633191872
+    second: muro_angb0
+  - first:
+      213: -4657090142486514042
+    second: muro_angb1
+  - first:
+      213: 1796549294963442141
+    second: muro_angb2
+  - first:
+      213: -3361587911347395017
+    second: muro_angb3
+  - first:
+      213: -8456447846356741149
+    second: muro_angb4
+  - first:
+      213: -2783541938971830950
+    second: banco_ruote_lato1
+  - first:
+      213: 7975598332451675077
+    second: banco_ruote_lato2
+  - first:
+      213: 5800734996209710184
+    second: lim1
+  - first:
+      213: 8297607485083495769
+    second: lim2
+  - first:
+      213: 4230161934382580795
+    second: lim3
+  - first:
+      213: -1227508165064690043
+    second: muro_interno_fab4
+  - first:
+      213: -7117470512806546872
+    second: incrocio_info_lab1
+  - first:
+      213: 4647679703843430103
+    second: incrocio_info_lab2
+  - first:
+      213: -6725835659206917691
+    second: muro_info_lab
+  - first:
+      213: -141471063578810757
+    second: corridoio_obliquo1
+  - first:
+      213: 320300111997658842
+    second: corridoio_obliquo2
+  - first:
+      213: -741659038267363204
+    second: corridoio_obliquo3
+  - first:
+      213: 9201272857356630152
+    second: obliquo_biblio1
+  - first:
+      213: 4974383348355907353
+    second: obliquo_biblio2
+  - first:
+      213: 8748625700569325389
+    second: angolo_biblio_s
+  - first:
+      213: 3437376436770584098
+    second: angolo_biblio_d
+  - first:
+      213: 1569113766339998271
+    second: angolo
+  - first:
+      213: 7218941826946939342
+    second: server_1
+  - first:
+      213: -1140067643036772589
+    second: server_2
+  - first:
+      213: -7098701184846852785
+    second: lab_dritto1
+  - first:
+      213: -2718105040369464164
+    second: lab_dritto2
+  - first:
+      213: -5587418861279909988
+    second: lab_dritto3
+  - first:
+      213: 6468448616868272474
+    second: lab_diagonale_d1
+  - first:
+      213: 4252695845459349745
+    second: lab_diagonale_d2
+  - first:
+      213: -6348770917015628983
+    second: lab_diagonale_d3
+  - first:
+      213: -6291305014969329817
+    second: Diagonale_lab1
+  - first:
+      213: 2626199474145005299
+    second: Diagonale_lab2
+  - first:
+      213: -5493948206474801571
+    second: Diagonale_lab3
+  - first:
+      213: -6329732443303335708
+    second: Banco_verde1
+  - first:
+      213: 9209597012581088779
+    second: Banco_verde2
+  - first:
+      213: -3127089980410337094
+    second: finestra1
+  - first:
+      213: 1128961305372986954
+    second: finestra2
+  - first:
+      213: 319588789206159640
+    second: finestra3
+  - first:
+      213: 6194838257320894144
+    second: finestra4
+  - first:
+      213: 2375150445052688275
+    second: finestra5
+  - first:
+      213: -2560349917532000482
+    second: finestra6
+  - first:
+      213: 7325194245176963522
+    second: finestra7
+  - first:
+      213: 4241179724417613257
+    second: mixer1
+  - first:
+      213: -1280747597733369399
+    second: mixer2
+  - first:
+      213: -4523081371198078495
+    second: Biblio_tavolo1
+  - first:
+      213: 3636966936116718786
+    second: Biblio_tavolo2
+  - first:
+      213: -2749326663100316575
+    second: Biblio_tavolo3
+  - first:
+      213: 5673350943101618795
+    second: aula_insegnanti_1
+  - first:
+      213: 5717423220214753643
+    second: aula_insegnanti_2
+  - first:
+      213: 2559893992367711801
+    second: aula_insegnanti_3
+  - first:
+      213: -7270654930093504885
+    second: aula_insegnanti_4
+  - first:
+      213: -5034987198156558912
+    second: aula_insegnanti_5
+  - first:
+      213: -4585059847166097530
+    second: aula_insegnanti_6
+  - first:
+      213: 7149105454488624372
+    second: aula_insegnanti_7
+  - first:
+      213: -8104305573041414683
+    second: server_3
+  - first:
+      213: 435501010547834469
+    second: Lim-1
+  - first:
+      213: 6582494858839863690
+    second: Lim-2
+  - first:
+      213: -4700521743354063854
+    second: Lim-3
+  - first:
+      213: -802190439494246516
+    second: Lim-4
+  - first:
+      213: -6972169302260532213
+    second: Lim-5
+  - first:
+      213: -3686131688513597683
+    second: Lim-6
+  - first:
+      213: -429159088676858065
+    second: Lim-7
+  - first:
+      213: 1754539553084311702
+    second: Lim-9
+  - first:
+      213: -3713516904973747937
+    second: Lim-10
+  - first:
+      213: -7205037238349677287
+    second: Lim-11
+  - first:
+      213: 8035588709171301491
+    second: Lim-12
+  - first:
+      213: -8411179076372969481
+    second: Lim-8
+  - first:
+      213: -7835054599742837730
+    second: Postazione1
+  - first:
+      213: -2502958151987204254
+    second: Postazione7
+  - first:
+      213: 7432948317346889496
+    second: Postazione13
+  - first:
+      213: -3462010627748555383
+    second: Postazione6
+  - first:
+      213: -5286971968729292413
+    second: Postazione12
+  - first:
+      213: -4995294514841350226
+    second: Postazione18
+  - first:
+      213: 1850676208267557949
+    second: Postazione2
+  - first:
+      213: -891722144544626852
+    second: Postazione8
+  - first:
+      213: -4650475890374060926
+    second: Postazione14
+  - first:
+      213: -7172923361775883828
+    second: Postazione3
+  - first:
+      213: -5064337777156578230
+    second: Postazione9
+  - first:
+      213: -6516312339376181235
+    second: Postazione15
+  - first:
+      213: -4202180995812371016
+    second: Postazione4
+  - first:
+      213: -6892520217953797715
+    second: Postazione10
+  - first:
+      213: 5527724892301187821
+    second: Postazione16
+  - first:
+      213: -570249288649358281
+    second: Postazione5
+  - first:
+      213: 1174946234436608692
+    second: Postazione11
+  - first:
+      213: -6835436390128735801
+    second: Postazione17
+  - first:
+      213: -5958419700782237731
+    second: Postazione19
+  - first:
+      213: -9215451263629393706
+    second: Postazione20
+  - first:
+      213: -8304864663433722918
+    second: Postazione21
+  - first:
+      213: 8649917772588057910
+    second: Banco_prof1
+  - first:
+      213: -1563038698304687964
+    second: Banco_prof2
+  - first:
+      213: 8608737759433808546
+    second: Banco_prof3
+  - first:
+      213: 8726283277285834117
+    second: Banco_prof4
+  - first:
+      213: 274987133594940316
+    second: Lab_mobile1
+  - first:
+      213: -3353373495294714833
+    second: Lab_mobile2
+  - first:
+      213: -6642164058375399695
+    second: Banco_prof5
+  - first:
+      213: -1951853437242807333
+    second: Banco_prof6
+  - first:
+      213: -1237140492498894162
+    second: Banco_prof7
+  - first:
+      213: -1209228346956036586
+    second: Banco_prof8
+  - first:
+      213: 1968142343647701885
+    second: Banco_prof9
+  - first:
+      213: 7504427196747233729
+    second: Banco_prof10
+  - first:
+      213: 7513673094915044932
+    second: Banco_prof11
+  - first:
+      213: 3970385200567323655
+    second: Banco_prof12
+  - first:
+      213: 7744942675933100045
+    second: libreria-1
+  - first:
+      213: -3469586454642409911
+    second: libreria-2
+  - first:
+      213: 614808807641476708
+    second: bancone1
+  - first:
+      213: -5605127764383335888
+    second: bancone2
+  - first:
+      213: 2133925761725868681
+    second: bancone3
+  - first:
+      213: -4865587019465688763
+    second: bancone4
+  - first:
+      213: 2643396613448459961
+    second: bancone5
+  - first:
+      213: -7286610150179757933
+    second: bancone6
+  - first:
+      213: 3745382161147151869
+    second: bancone7
+  - first:
+      213: 5439187212291622063
+    second: bancone8
+  - first:
+      213: -8150373319958675291
+    second: bancone9
+  - first:
+      213: -7484735212958142353
+    second: bancone10
+  - first:
+      213: -1783769413298820809
+    second: bancone11
+  - first:
+      213: -3578285005860611109
+    second: bancone12
+  - first:
+      213: 7285956142689844558
+    second: libreria-v-3
+  - first:
+      213: 6411975172683410793
+    second: libreria-v-4
+  - first:
+      213: -9097890359866661844
+    second: libreria-v-1
+  - first:
+      213: -2969236605179890390
+    second: libreria-v-2
+  - first:
+      213: -7716401968944693561
+    second: floor_black
+  - first:
+      213: 4196893304822682943
+    second: BancoUnico
+  - first:
+      213: 5691884048149126167
+    second: Banco-lab-bug
+  - first:
+      213: -6343453647412860645
+    second: Banco-corridoio-bug
+  - first:
+      213: -8798202687796929696
+    second: Banco-aulaprof-bug
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: liceo_0
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 583
+        width: 16
+        height: 16
+      alignment: 9
+      pivot: {x: 0.49999982, y: 0.48560715}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5bc22637bc8c23730800000000000000
+      internalID: 3977462197061299381
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: liceo_2
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 567
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1106a910a3bdca4e0800000000000000
+      internalID: -1968957894886268911
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: liceo_6
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 554
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f693cbd237cce1e80800000000000000
+      internalID: -8205896675961849489
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: muro_liceo_scale1
+      rect:
+        serializedVersion: 2
+        x: 229
+        y: 465
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bf347a2bdd6258080800000000000000
+      internalID: -9185893131325324293
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: muro_liceo_scale2
+      rect:
+        serializedVersion: 2
+        x: 229
+        y: 449
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 01a547c52e0640010800000000000000
+      internalID: 1154153929843694096
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: muro_finestra_1
+      rect:
+        serializedVersion: 2
+        x: 245
+        y: 465
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 25215009c47715420800000000000000
+      internalID: 2617004029196440146
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: muro_finestra_2
+      rect:
+        serializedVersion: 2
+        x: 261
+        y: 465
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 17163e490beda5dd0800000000000000
+      internalID: -2496438193429978767
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: muro_finestra_3
+      rect:
+        serializedVersion: 2
+        x: 245
+        y: 449
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4fa12cb7d424efc70800000000000000
+      internalID: 9006709205343804148
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: muro_finestra_4
+      rect:
+        serializedVersion: 2
+        x: 261
+        y: 449
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 19d5a8105c8848960800000000000000
+      internalID: 7603352450624019857
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: muro_segreteria1
+      rect:
+        serializedVersion: 2
+        x: 374
+        y: 464
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ccc963a298b99be60800000000000000
+      internalID: 7978579228284591308
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: muro_segreteria2
+      rect:
+        serializedVersion: 2
+        x: 374
+        y: 448
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c4016d26ff1bbae10800000000000000
+      internalID: 2210055752588333132
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: muro_segreteria3
+      rect:
+        serializedVersion: 2
+        x: 374
+        y: 432
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: da8bbea65e511ad40800000000000000
+      internalID: 5593776287256393901
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: muro_segreteria4
+      rect:
+        serializedVersion: 2
+        x: 390
+        y: 464
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b6d2573f0896a9d30800000000000000
+      internalID: 4438976385288318315
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: muro_segreteria5
+      rect:
+        serializedVersion: 2
+        x: 390
+        y: 448
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1b1f22f4a1e1b2930800000000000000
+      internalID: 4119419382506123697
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: muro_segreteria6
+      rect:
+        serializedVersion: 2
+        x: 390
+        y: 432
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 02eb81507bb85ba90800000000000000
+      internalID: -7298774002903237088
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: muro_segreteria7
+      rect:
+        serializedVersion: 2
+        x: 406
+        y: 464
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 22b204829f82a0460800000000000000
+      internalID: 7208619204147161890
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: muro_segreteria8
+      rect:
+        serializedVersion: 2
+        x: 406
+        y: 448
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 58be04541a3dc5580800000000000000
+      internalID: -8836955679202677883
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: muro_segreteria9
+      rect:
+        serializedVersion: 2
+        x: 422
+        y: 464
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a99ed5226181251f0800000000000000
+      internalID: -1057756479133718118
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: muro_segreteria10
+      rect:
+        serializedVersion: 2
+        x: 422
+        y: 448
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 61bb6e6ebb4318e80800000000000000
+      internalID: -8178197466690700522
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: muro_segreteria11
+      rect:
+        serializedVersion: 2
+        x: 438
+        y: 464
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4c9751f1ce8aba3c0800000000000000
+      internalID: -4347195283208832572
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: muro_segreteria12
+      rect:
+        serializedVersion: 2
+        x: 438
+        y: 448
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6b0a1fa12bfc5d930800000000000000
+      internalID: 4167465394064433334
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: muro_segreteria13
+      rect:
+        serializedVersion: 2
+        x: 454
+        y: 464
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5d4ab9b2267274170800000000000000
+      internalID: 8162536152224212181
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: muro_segreteria14
+      rect:
+        serializedVersion: 2
+        x: 454
+        y: 448
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 327c02807842bbf10800000000000000
+      internalID: 2286461398196209443
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: muro_segreteria15
+      rect:
+        serializedVersion: 2
+        x: 470
+        y: 464
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e9040a49484f2e080800000000000000
+      internalID: -9159489841851776866
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: muro_segreteria16
+      rect:
+        serializedVersion: 2
+        x: 470
+        y: 448
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9d446252134483020800000000000000
+      internalID: 2321680585776841945
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: muro_segreteria17
+      rect:
+        serializedVersion: 2
+        x: 534
+        y: 432
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0ed8dc6ecb033c420800000000000000
+      internalID: 2649014593708199392
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: muro_finestra_5
+      rect:
+        serializedVersion: 2
+        x: 277
+        y: 465
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e118be597fa46a410800000000000000
+      internalID: 1487959154125144350
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: muro_finestra_6
+      rect:
+        serializedVersion: 2
+        x: 277
+        y: 449
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0783d3754c6427ad0800000000000000
+      internalID: -2706022617005082512
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: muro_segreteria18
+      rect:
+        serializedVersion: 2
+        x: 486
+        y: 464
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cab2db9752c0405b0800000000000000
+      internalID: -5403180297841988692
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: muro_segreteria19
+      rect:
+        serializedVersion: 2
+        x: 486
+        y: 448
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 178d8ffb2e62f2540800000000000000
+      internalID: 4985246067847649393
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: muro_segreteria20
+      rect:
+        serializedVersion: 2
+        x: 502
+        y: 464
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 09402e213fea0b030800000000000000
+      internalID: 3508496468738704528
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: muro_segreteria21
+      rect:
+        serializedVersion: 2
+        x: 502
+        y: 448
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 24c0a0e718e57bb70800000000000000
+      internalID: 8914697897661566018
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: muro_segreteria22
+      rect:
+        serializedVersion: 2
+        x: 518
+        y: 464
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2e3ac3d235d2e5c60800000000000000
+      internalID: 7808728639171503074
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: muro_segreteria23
+      rect:
+        serializedVersion: 2
+        x: 518
+        y: 448
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 69c87fd0c08c82010800000000000000
+      internalID: 1164400457774763158
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: muro_segreteria24
+      rect:
+        serializedVersion: 2
+        x: 534
+        y: 464
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 47a359cd2ae0dee80800000000000000
+      internalID: -8147840058195101068
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: muro_segreteria25
+      rect:
+        serializedVersion: 2
+        x: 534
+        y: 448
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7e67d15052b9a3f60800000000000000
+      internalID: 8014889070161131239
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: borsellino_diagonale_sx1
+      rect:
+        serializedVersion: 2
+        x: 545
+        y: 72
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 839979ca4177a7df0800000000000000
+      internalID: -181701904276416200
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: borsellino_diagonale_dx1
+      rect:
+        serializedVersion: 2
+        x: 566
+        y: 72
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0c74f0ae99323b020800000000000000
+      internalID: 2356266174008739776
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: borsellino_sx
+      rect:
+        serializedVersion: 2
+        x: 545
+        y: 38
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7ea1718a8219fdcc0800000000000000
+      internalID: -3684066366360970521
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: borsellino_dx
+      rect:
+        serializedVersion: 2
+        x: 566
+        y: 38
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fa1f7cefb8aa80c80800000000000000
+      internalID: -8356241590334262865
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: porta_borsellino_close
+      rect:
+        serializedVersion: 2
+        x: 546
+        y: 5
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d7a49076fa97f6740800000000000000
+      internalID: 5147466693362666109
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: porta_borsellino_open
+      rect:
+        serializedVersion: 2
+        x: 562
+        y: 5
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 402d724d71cfeda90800000000000000
+      internalID: -7287109967765057020
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: muro_borsellino_1
+      rect:
+        serializedVersion: 2
+        x: 581
+        y: 21
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 63e1732a7da2770e0800000000000000
+      internalID: -2272300381357269450
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: borsellino_diagonale_sx2
+      rect:
+        serializedVersion: 2
+        x: 545
+        y: 56
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9c8d0859563f04d80800000000000000
+      internalID: -8268341298226734903
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: borsellino_diagonale_dx2
+      rect:
+        serializedVersion: 2
+        x: 566
+        y: 56
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: face8934de64927c0800000000000000
+      internalID: -4095664401261466449
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: muro_borsellino_2
+      rect:
+        serializedVersion: 2
+        x: 581
+        y: 5
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7d9e3c28ef4c2de30800000000000000
+      internalID: 4526897172855384535
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: banco_rotelle_1
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 144
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: be29d0fc491905230800000000000000
+      internalID: 3625557768348209899
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: banco_rotelle_2
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 160
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 15dab18f8e960ef00800000000000000
+      internalID: 1144030754667998545
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: banco_rotelle_3
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 144
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 274bbbfb80f8630a0800000000000000
+      internalID: -6902172111159446414
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: banco_rotelle_4
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 160
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f22559342feab8050800000000000000
+      internalID: 5803924900336194095
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: banco_liceo_1
+      rect:
+        serializedVersion: 2
+        x: 217
+        y: 14
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 056ff7157be0d4250800000000000000
+      internalID: 5930412464825955920
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: banco_liceo_2
+      rect:
+        serializedVersion: 2
+        x: 233
+        y: 14
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dd4625c4ae3ee2120800000000000000
+      internalID: 2391099047622632669
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: banco_liceo_3
+      rect:
+        serializedVersion: 2
+        x: 249
+        y: 14
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 90c6368424fb79020800000000000000
+      internalID: 2348556022100225033
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: banco_liceo_4
+      rect:
+        serializedVersion: 2
+        x: 217
+        y: 30
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a996f2a78f5892560800000000000000
+      internalID: 7289504774124169626
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: banco_liceo_5
+      rect:
+        serializedVersion: 2
+        x: 233
+        y: 30
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3c45961b8fdd49600800000000000000
+      internalID: 474247920978842819
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: banco_liceo_6
+      rect:
+        serializedVersion: 2
+        x: 249
+        y: 30
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6fe11446a9cc2dea0800000000000000
+      internalID: -5849388002521833738
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: banco4_1
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 75
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 76bd70dde7bf164a0800000000000000
+      internalID: -6601719056455705753
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: banco4_2
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 75
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d37c5a992668f8720800000000000000
+      internalID: 2850644847191508797
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: banco4_3
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 75
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0d7375f4f67a069e0800000000000000
+      internalID: -1630118968593795120
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: banco4_4
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 59
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 82219a2aca5b4e640800000000000000
+      internalID: 5108407630412976680
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: banco4_5
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 59
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c1f0a468a787483e0800000000000000
+      internalID: -2052383062539759844
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: banco4_6
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 59
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2d671321f43db2050800000000000000
+      internalID: 5776943283593901778
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: banco4_7
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 43
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1e96263ddd3b54c70800000000000000
+      internalID: 8954761199411685857
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: banco4_8
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 43
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b0d997ec09cdef8d0800000000000000
+      internalID: -2810566602935132917
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: banco4_9
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 43
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 22b962fcd1832c300800000000000000
+      internalID: 270840628276271906
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: piastrella_segnaletica
+      rect:
+        serializedVersion: 2
+        x: 292
+        y: 196
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 42dfd14df76539a10800000000000000
+      internalID: 1914969373582163236
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: colonna_1
+      rect:
+        serializedVersion: 2
+        x: 555
+        y: 464
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5075b010ad2dec490800000000000000
+      internalID: -7724004477131598075
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: colonna_2
+      rect:
+        serializedVersion: 2
+        x: 555
+        y: 448
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 18f23714cd563e930800000000000000
+      internalID: 4171289676540489601
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: colonna_3
+      rect:
+        serializedVersion: 2
+        x: 555
+        y: 432
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: da48c45575110a240800000000000000
+      internalID: 4800856269567853741
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: muro_corridoio_lab1
+      rect:
+        serializedVersion: 2
+        x: 498
+        y: 187
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d93ffd4448c33d8e0800000000000000
+      internalID: -1669924498035444835
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: muro_corridoio_lab2
+      rect:
+        serializedVersion: 2
+        x: 498
+        y: 203
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d8c1001555d7bdb10800000000000000
+      internalID: 2007335864308341901
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: muro_corridoio_lab3
+      rect:
+        serializedVersion: 2
+        x: 498
+        y: 219
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2d20f84d63dc716b0800000000000000
+      internalID: -5325562398964251950
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: muro_corridoio_lab4
+      rect:
+        serializedVersion: 2
+        x: 498
+        y: 235
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c5f3319e04e3571d0800000000000000
+      internalID: -3353705898998284452
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: muro_corridoio_lab5
+      rect:
+        serializedVersion: 2
+        x: 498
+        y: 251
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1a309fe535d4b3040800000000000000
+      internalID: 4628378062524318625
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: muro_corridoio_lab6
+      rect:
+        serializedVersion: 2
+        x: 498
+        y: 267
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 71016450963f86950800000000000000
+      internalID: 6442666899339087895
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: muro_corridoio_lab7
+      rect:
+        serializedVersion: 2
+        x: 498
+        y: 283
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a76d8c01854955970800000000000000
+      internalID: 8743057357569316474
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: trave_sinistra
+      rect:
+        serializedVersion: 2
+        x: 332
+        y: 254
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7f1337a4822d55ab0800000000000000
+      internalID: -5019875139144961545
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pavimento_freccia
+      rect:
+        serializedVersion: 2
+        x: 292
+        y: 214
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9eda0b5f2a3ac83e0800000000000000
+      internalID: -2050083810058392087
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: trofei_1
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 159
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7ba4a58376a01f070800000000000000
+      internalID: 8138297440078547639
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: trofei_2
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 143
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2649d2603a0457d80800000000000000
+      internalID: -8253619673159068574
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: muro_corridoio_fab8
+      rect:
+        serializedVersion: 2
+        x: 498
+        y: 299
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 17d7ea930eaf596e0800000000000000
+      internalID: -1831281832508883599
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: muro_corridoio_fab9
+      rect:
+        serializedVersion: 2
+        x: 498
+        y: 315
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e943b0afc702a3ba0800000000000000
+      internalID: -6108534223431584610
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: muro_bib_obliquo2
+      rect:
+        serializedVersion: 2
+        x: 543
+        y: 404
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0ff088846a9dab9e0800000000000000
+      internalID: -1604731008999485456
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: muro_bib_obliquo1
+      rect:
+        serializedVersion: 2
+        x: 543
+        y: 388
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 310e8ffc9fb5b6260800000000000000
+      internalID: 7091863166719156243
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: liceo_84
+      rect:
+        serializedVersion: 2
+        x: 565
+        y: 368
+        width: 1
+        height: 1
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 27ee5d9bc486575e0800000000000000
+      internalID: -1912507788004299150
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: porta_biblio_1
+      rect:
+        serializedVersion: 2
+        x: 568
+        y: 298
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9bdaa959d9fe84530800000000000000
+      internalID: 3839582142432193977
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: porta_biblio_2
+      rect:
+        serializedVersion: 2
+        x: 584
+        y: 298
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 71cac60ef28598700800000000000000
+      internalID: 543062192726780951
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: porta_biblio_1_aperta
+      rect:
+        serializedVersion: 2
+        x: 536
+        y: 298
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e223b2a597a4fea90800000000000000
+      internalID: -7282520187370524114
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: porta_biblio_2_aperta
+      rect:
+        serializedVersion: 2
+        x: 552
+        y: 298
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 84c227eff95182da0800000000000000
+      internalID: -5969497529166713784
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: corridoio_destra_1
+      rect:
+        serializedVersion: 2
+        x: 444
+        y: 160
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bf565a900a123d180800000000000000
+      internalID: -9091886251490580997
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: liceo_90
+      rect:
+        serializedVersion: 2
+        x: 484
+        y: 137
+        width: 7
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 01da9b48dcaa541b0800000000000000
+      internalID: -5672940355931493104
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: corridoio_destra_2
+      rect:
+        serializedVersion: 2
+        x: 444
+        y: 144
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1f7420fb89cf15800800000000000000
+      internalID: 599537958386812913
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: corridoio_destra_3
+      rect:
+        serializedVersion: 2
+        x: 444
+        y: 127
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d33ec1faf48dd4020800000000000000
+      internalID: 2327754419172336445
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: corridoio_destra_4
+      rect:
+        serializedVersion: 2
+        x: 483
+        y: 159
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c5422fd004fac2250800000000000000
+      internalID: 5921300299732100188
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: corridoio_destra_5
+      rect:
+        serializedVersion: 2
+        x: 483
+        y: 143
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aa4e1478db6505500800000000000000
+      internalID: 382901340344542378
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: muro_entrata_fab1
+      rect:
+        serializedVersion: 2
+        x: 507
+        y: 159
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8f9265a82f0ecb050800000000000000
+      internalID: 5817772150963448312
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: muro_entrata_fab2
+      rect:
+        serializedVersion: 2
+        x: 507
+        y: 143
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dd6e69e562623c8c0800000000000000
+      internalID: -3980295699427825955
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: muro_entrata_fab3
+      rect:
+        serializedVersion: 2
+        x: 525
+        y: 159
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9895b661e09635850800000000000000
+      internalID: 6364546207631235465
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: muro_entrata_fab4
+      rect:
+        serializedVersion: 2
+        x: 525
+        y: 143
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5dbd4d1d6397a2700800000000000000
+      internalID: 516358383642926037
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: traversa_giu
+      rect:
+        serializedVersion: 2
+        x: 507
+        y: 126
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ce0f588a0bffea860800000000000000
+      internalID: 7543247560098836716
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: colonna_drittta
+      rect:
+        serializedVersion: 2
+        x: 507
+        y: 120
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5b4adc1bfa3534ae0800000000000000
+      internalID: -1566316231327374155
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: trave_destra
+      rect:
+        serializedVersion: 2
+        x: 388
+        y: 254
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0459132e033fe7e20800000000000000
+      internalID: 3350382564089107776
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: trave_centrale
+      rect:
+        serializedVersion: 2
+        x: 348
+        y: 254
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e0944afc3adeea620800000000000000
+      internalID: 2787426507208018190
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: angolo_destra
+      rect:
+        serializedVersion: 2
+        x: 322
+        y: 254
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dbb076bb2332d0b60800000000000000
+      internalID: 7713860437554957245
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: muro_infolab
+      rect:
+        serializedVersion: 2
+        x: 444
+        y: 106
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5fbad01e16ef40710800000000000000
+      internalID: 1658730259120237557
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: muro_destra
+      rect:
+        serializedVersion: 2
+        x: 378
+        y: 254
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: acce0858587d5ccc0800000000000000
+      internalID: -3691307351089812278
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: muro_interno_fab1
+      rect:
+        serializedVersion: 2
+        x: 426
+        y: 106
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 32923d138e3b2cf10800000000000000
+      internalID: 2288589370507340067
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: muro_interno_fab2
+      rect:
+        serializedVersion: 2
+        x: 426
+        y: 90
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a918945db5fa23c30800000000000000
+      internalID: 4337722200066458010
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: muro_interno_fab3
+      rect:
+        serializedVersion: 2
+        x: 426
+        y: 74
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bad03bedf7c9c1e80800000000000000
+      internalID: -8206512347964830293
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: muro_prof1
+      rect:
+        serializedVersion: 2
+        x: 468
+        y: 100
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e66e159a337174580800000000000000
+      internalID: -8843073832667191698
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: muro_prof2
+      rect:
+        serializedVersion: 2
+        x: 468
+        y: 84
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 70bdd37485d3f1a70800000000000000
+      internalID: 8799819646266891015
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: porta_prof
+      rect:
+        serializedVersion: 2
+        x: 398
+        y: 90
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 606c6e2f6c1236b00800000000000000
+      internalID: 820536695474013702
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: porta_prof2
+      rect:
+        serializedVersion: 2
+        x: 398
+        y: 74
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bd8400811dc873fd0800000000000000
+      internalID: -2362264649853810469
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: muro_Bib8
+      rect:
+        serializedVersion: 2
+        x: 415
+        y: 313
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2a3d1856ab841c170800000000000000
+      internalID: 8196912762195137442
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: muro_Bib7
+      rect:
+        serializedVersion: 2
+        x: 415
+        y: 297
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ca5240cc16ee298a0800000000000000
+      internalID: -6299710824935840340
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: muro_Bib6
+      rect:
+        serializedVersion: 2
+        x: 415
+        y: 281
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8dee33d16a94fe0a0800000000000000
+      internalID: -6850175530403893544
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: muro_Bib5
+      rect:
+        serializedVersion: 2
+        x: 415
+        y: 265
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9082472066e98f4f0800000000000000
+      internalID: -794711173265872887
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: muro_Bib04
+      rect:
+        serializedVersion: 2
+        x: 415
+        y: 249
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cff714e22878c95f0800000000000000
+      internalID: -748574444858802180
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: muro_Bib3
+      rect:
+        serializedVersion: 2
+        x: 415
+        y: 233
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 93209993e4220de90800000000000000
+      internalID: -7003059701191998919
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: muro_Bib2
+      rect:
+        serializedVersion: 2
+        x: 415
+        y: 217
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a250ea8ded3880b90800000000000000
+      internalID: -7275420204875774678
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: muro_Bib0
+      rect:
+        serializedVersion: 2
+        x: 406
+        y: 165
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5551eb078950b8cd0800000000000000
+      internalID: -2554942211317951147
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: muro_Bib1
+      rect:
+        serializedVersion: 2
+        x: 415
+        y: 233
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 48a1ad0f743a8ddc0800000000000000
+      internalID: -3613959171585992060
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: muro_Bib9
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 363
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 94484acb7b752f080800000000000000
+      internalID: -9155158645835266999
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: muro_Bib10
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 347
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 69fe3eb70e85491c0800000000000000
+      internalID: -4497872406661828714
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: muro_Bib11
+      rect:
+        serializedVersion: 2
+        x: 296
+        y: 363
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b6298b43136ae9ea0800000000000000
+      internalID: -5864066934521687445
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: muro_Bib12
+      rect:
+        serializedVersion: 2
+        x: 296
+        y: 347
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d7b779e96e610f9c0800000000000000
+      internalID: -3895588497916462211
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: muro_Bib13
+      rect:
+        serializedVersion: 2
+        x: 312
+        y: 363
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4cd9e9f9d963921b0800000000000000
+      internalID: -5680949404335432252
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: muro_Bib14
+      rect:
+        serializedVersion: 2
+        x: 312
+        y: 347
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 988c4f82277f1d300800000000000000
+      internalID: 275273121931774089
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: muro_Bib15
+      rect:
+        serializedVersion: 2
+        x: 328
+        y: 363
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c4a245698f69bc320800000000000000
+      internalID: 2579321206017894988
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: muro_Bib16
+      rect:
+        serializedVersion: 2
+        x: 328
+        y: 347
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9d49c66e062c8d330800000000000000
+      internalID: 3735949612342351065
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: liceo_130
+      rect:
+        serializedVersion: 2
+        x: 437
+        y: 341
+        width: 5
+        height: 1
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a3978d893c2a99750800000000000000
+      internalID: 6312255313703106874
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: muro_Bib17
+      rect:
+        serializedVersion: 2
+        x: 344
+        y: 363
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b0d9284ed42191540800000000000000
+      internalID: 4979030988790340875
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: muro_Bib18
+      rect:
+        serializedVersion: 2
+        x: 344
+        y: 347
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2b6024123bf9b8360800000000000000
+      internalID: 7173002423223584434
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: muro_Bib19
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 363
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3c98e5f1af871dea0800000000000000
+      internalID: -5849761425314117181
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: muro_Bib20
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 347
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 290456e3286763970800000000000000
+      internalID: 8734298829096304786
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: muro_Bib21
+      rect:
+        serializedVersion: 2
+        x: 376
+        y: 363
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ea10778f788827590800000000000000
+      internalID: -7677924297142763090
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: muro_Bib22
+      rect:
+        serializedVersion: 2
+        x: 376
+        y: 347
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 13a46ea5cf980d4b0800000000000000
+      internalID: -5417678634776901071
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: muro_Bib23
+      rect:
+        serializedVersion: 2
+        x: 392
+        y: 363
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9af42aca9fa4cabe0800000000000000
+      internalID: -1464713342598623319
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: muro_Bib24
+      rect:
+        serializedVersion: 2
+        x: 392
+        y: 347
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 424abf14a78904f40800000000000000
+      internalID: 5710731978366231588
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: muro_Bib25
+      rect:
+        serializedVersion: 2
+        x: 408
+        y: 363
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a444d374e275dea60800000000000000
+      internalID: 7704910393776096330
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: muro_Bib26
+      rect:
+        serializedVersion: 2
+        x: 408
+        y: 347
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4c413617e67ce5480800000000000000
+      internalID: -8908463735729613628
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: muro_Bib27
+      rect:
+        serializedVersion: 2
+        x: 424
+        y: 363
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d162bcc856ef6a920800000000000000
+      internalID: 3001365913796290077
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: muro_Bib28
+      rect:
+        serializedVersion: 2
+        x: 424
+        y: 347
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cb599390399c3cdd0800000000000000
+      internalID: -2466906537516755524
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: muro_Bib29
+      rect:
+        serializedVersion: 2
+        x: 440
+        y: 363
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7f456a35307ed6a30800000000000000
+      internalID: 4210275228135609591
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: muro_Bib30
+      rect:
+        serializedVersion: 2
+        x: 440
+        y: 347
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3fea0fce9564fe650800000000000000
+      internalID: 6264302958736879347
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: muro_Bib31
+      rect:
+        serializedVersion: 2
+        x: 456
+        y: 363
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5698327a107bfd950800000000000000
+      internalID: 6476096006909036901
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: muro_Bib32
+      rect:
+        serializedVersion: 2
+        x: 456
+        y: 347
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 82310e13969609a00800000000000000
+      internalID: 761224237554864936
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: muro_Bib33
+      rect:
+        serializedVersion: 2
+        x: 472
+        y: 363
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dc477d0f4d90b22d0800000000000000
+      internalID: -3302535091567758131
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: muro_Bib34
+      rect:
+        serializedVersion: 2
+        x: 472
+        y: 347
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b76c46233f000b640800000000000000
+      internalID: 5093572223078549115
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: muro_Bib35
+      rect:
+        serializedVersion: 2
+        x: 488
+        y: 363
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d7d08aa377acc63f0800000000000000
+      internalID: -906126811574301315
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: muro_Bib36
+      rect:
+        serializedVersion: 2
+        x: 488
+        y: 347
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7ffe7c83d55309aa0800000000000000
+      internalID: -6156362016114610185
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: muro_Bib37
+      rect:
+        serializedVersion: 2
+        x: 504
+        y: 363
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d5078575cfbd44e60800000000000000
+      internalID: 7945717519432052829
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: muro_Bib38
+      rect:
+        serializedVersion: 2
+        x: 504
+        y: 347
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8027e27d6888ccd20800000000000000
+      internalID: 3300162739672871432
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: muro_Bib39
+      rect:
+        serializedVersion: 2
+        x: 520
+        y: 363
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 28956ed097fb64a50800000000000000
+      internalID: 6505097238428408194
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: muro_Bib40
+      rect:
+        serializedVersion: 2
+        x: 520
+        y: 347
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 79756bf41a717d580800000000000000
+      internalID: -8802540965077821545
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: muro_angb0
+      rect:
+        serializedVersion: 2
+        x: 259
+        y: 363
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0c7f4d55ea8920350800000000000000
+      internalID: 5981511129633191872
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: muro_angb1
+      rect:
+        serializedVersion: 2
+        x: 259
+        y: 347
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6863e129031be5fb0800000000000000
+      internalID: -4657090142486514042
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: muro_angb2
+      rect:
+        serializedVersion: 2
+        x: 239
+        y: 363
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dd146c3b010aee810800000000000000
+      internalID: 1796549294963442141
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: muro_angb3
+      rect:
+        serializedVersion: 2
+        x: 239
+        y: 347
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 73624e6ea9d3951d0800000000000000
+      internalID: -3361587911347395017
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: muro_angb4
+      rect:
+        serializedVersion: 2
+        x: 239
+        y: 315
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3e31a48ec79a4aa80800000000000000
+      internalID: -8456447846356741149
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: banco_ruote_lato1
+      rect:
+        serializedVersion: 2
+        x: 58
+        y: 184
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a559e26ba5fde59d0800000000000000
+      internalID: -2783541938971830950
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: banco_ruote_lato2
+      rect:
+        serializedVersion: 2
+        x: 58
+        y: 200
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5cbdaf44d640fae60800000000000000
+      internalID: 7975598332451675077
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lim1
+      rect:
+        serializedVersion: 2
+        x: 93
+        y: 184
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 864b145deb9508050800000000000000
+      internalID: 5800734996209710184
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lim2
+      rect:
+        serializedVersion: 2
+        x: 93
+        y: 200
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 95d260a8b06072370800000000000000
+      internalID: 8297607485083495769
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lim3
+      rect:
+        serializedVersion: 2
+        x: 93
+        y: 216
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b34c041fddd84ba30800000000000000
+      internalID: 4230161934382580795
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: muro_interno_fab4
+      rect:
+        serializedVersion: 2
+        x: 426
+        y: 58
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5867d66d3d307fee0800000000000000
+      internalID: -1227508165064690043
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: incrocio_info_lab1
+      rect:
+        serializedVersion: 2
+        x: 518
+        y: 315
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 84239d0574aa93d90800000000000000
+      internalID: -7117470512806546872
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: incrocio_info_lab2
+      rect:
+        serializedVersion: 2
+        x: 518
+        y: 299
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7de5161f010ef7040800000000000000
+      internalID: 4647679703843430103
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: muro_info_lab
+      rect:
+        serializedVersion: 2
+        x: 518
+        y: 283
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5c1015b5a1809a2a0800000000000000
+      internalID: -6725835659206917691
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: corridoio_obliquo1
+      rect:
+        serializedVersion: 2
+        x: 551
+        y: 157
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b76636531d4690ef0800000000000000
+      internalID: -141471063578810757
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: corridoio_obliquo2
+      rect:
+        serializedVersion: 2
+        x: 551
+        y: 141
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ad6632d314fe17400800000000000000
+      internalID: 320300111997658842
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: corridoio_obliquo3
+      rect:
+        serializedVersion: 2
+        x: 551
+        y: 125
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c70bd9fb80915b5f0800000000000000
+      internalID: -741659038267363204
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: obliquo_biblio1
+      rect:
+        serializedVersion: 2
+        x: 551
+        y: 205
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8887f20d9ec71bf70800000000000000
+      internalID: 9201272857356630152
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: obliquo_biblio2
+      rect:
+        serializedVersion: 2
+        x: 551
+        y: 189
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 91f3f57cc4f880540800000000000000
+      internalID: 4974383348355907353
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: angolo_biblio_s
+      rect:
+        serializedVersion: 2
+        x: 354
+        y: 214
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d4f9943f8bc596970800000000000000
+      internalID: 8748625700569325389
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: angolo_biblio_d
+      rect:
+        serializedVersion: 2
+        x: 377
+        y: 214
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 226320148a304bf20800000000000000
+      internalID: 3437376436770584098
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: angolo
+      rect:
+        serializedVersion: 2
+        x: 354
+        y: 192
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f32fede28ac96c510800000000000000
+      internalID: 1569113766339998271
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: server_1
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 7
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ec9b1611855de2460800000000000000
+      internalID: 7218941826946939342
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: server_2
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 23
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 31750ecd48aad20f0800000000000000
+      internalID: -1140067643036772589
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lab_dritto1
+      rect:
+        serializedVersion: 2
+        x: 466
+        y: 251
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f4d0f8602e85c7d90800000000000000
+      internalID: -7098701184846852785
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lab_dritto2
+      rect:
+        serializedVersion: 2
+        x: 466
+        y: 235
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c9c449eedd9574ad0800000000000000
+      internalID: -2718105040369464164
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lab_dritto3
+      rect:
+        serializedVersion: 2
+        x: 466
+        y: 219
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c97e71a26208572b0800000000000000
+      internalID: -5587418861279909988
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lab_diagonale_d1
+      rect:
+        serializedVersion: 2
+        x: 549
+        y: 257
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a59dc48eebb84c950800000000000000
+      internalID: 6468448616868272474
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lab_diagonale_d2
+      rect:
+        serializedVersion: 2
+        x: 549
+        y: 241
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1f05266f65c940b30800000000000000
+      internalID: 4252695845459349745
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lab_diagonale_d3
+      rect:
+        serializedVersion: 2
+        x: 549
+        y: 225
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 943d3fafc72a4e7a0800000000000000
+      internalID: -6348770917015628983
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Diagonale_lab1
+      rect:
+        serializedVersion: 2
+        x: 532
+        y: 257
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7679e11fb6bc0b8a0800000000000000
+      internalID: -6291305014969329817
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Diagonale_lab2
+      rect:
+        serializedVersion: 2
+        x: 532
+        y: 241
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3fe0bbde182227420800000000000000
+      internalID: 2626199474145005299
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Diagonale_lab3
+      rect:
+        serializedVersion: 2
+        x: 532
+        y: 225
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d5ecca2e63391c3b0800000000000000
+      internalID: -5493948206474801571
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Banco_verde1
+      rect:
+        serializedVersion: 2
+        x: 110
+        y: 187
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4e8a3a111e54828a0800000000000000
+      internalID: -6329732443303335708
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Banco_verde2
+      rect:
+        serializedVersion: 2
+        x: 110
+        y: 203
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b0ef46b30bf0fcf70800000000000000
+      internalID: 9209597012581088779
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: finestra1
+      rect:
+        serializedVersion: 2
+        x: 214
+        y: 162
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ab865f81b385a94d0800000000000000
+      internalID: -3127089980410337094
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: finestra2
+      rect:
+        serializedVersion: 2
+        x: 214
+        y: 178
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a4e0be36350eaaf00800000000000000
+      internalID: 1128961305372986954
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: finestra3
+      rect:
+        serializedVersion: 2
+        x: 214
+        y: 194
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 81194de7f486f6400800000000000000
+      internalID: 319588789206159640
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: finestra4
+      rect:
+        serializedVersion: 2
+        x: 214
+        y: 210
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0ce9c98c29c78f550800000000000000
+      internalID: 6194838257320894144
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: finestra5
+      rect:
+        serializedVersion: 2
+        x: 214
+        y: 226
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 397f975eeba36f020800000000000000
+      internalID: 2375150445052688275
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: finestra6
+      rect:
+        serializedVersion: 2
+        x: 214
+        y: 242
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e1fedc8b05fc77cd0800000000000000
+      internalID: -2560349917532000482
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: finestra7
+      rect:
+        serializedVersion: 2
+        x: 214
+        y: 258
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2c1328efa5158a560800000000000000
+      internalID: 7325194245176963522
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mixer1
+      rect:
+        serializedVersion: 2
+        x: 138
+        y: 150
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9cd30861d72bbda30800000000000000
+      internalID: 4241179724417613257
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mixer2
+      rect:
+        serializedVersion: 2
+        x: 122
+        y: 150
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9c9ea2678ded93ee0800000000000000
+      internalID: -1280747597733369399
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Biblio_tavolo1
+      rect:
+        serializedVersion: 2
+        x: 119
+        y: 114
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1e14d8b0579ca31c0800000000000000
+      internalID: -4523081371198078495
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Biblio_tavolo2
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 114
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2cce31fa82a197230800000000000000
+      internalID: 3636966936116718786
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Biblio_tavolo3
+      rect:
+        serializedVersion: 2
+        x: 151
+        y: 114
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 164456a67fd68d9d0800000000000000
+      internalID: -2749326663100316575
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: aula_insegnanti_1
+      rect:
+        serializedVersion: 2
+        x: 329
+        y: 198
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b6a03b1cf9acbbe40800000000000000
+      internalID: 5673350943101618795
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: aula_insegnanti_2
+      rect:
+        serializedVersion: 2
+        x: 329
+        y: 182
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b696877602e585f40800000000000000
+      internalID: 5717423220214753643
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: aula_insegnanti_3
+      rect:
+        serializedVersion: 2
+        x: 329
+        y: 166
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 936ebbde502968320800000000000000
+      internalID: 2559893992367711801
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: aula_insegnanti_4
+      rect:
+        serializedVersion: 2
+        x: 329
+        y: 150
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b868557dcd1791b90800000000000000
+      internalID: -7270654930093504885
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: aula_insegnanti_5
+      rect:
+        serializedVersion: 2
+        x: 329
+        y: 134
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0cd2d3dd1d1202ab0800000000000000
+      internalID: -5034987198156558912
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: aula_insegnanti_6
+      rect:
+        serializedVersion: 2
+        x: 329
+        y: 118
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 68702c79c589e50c0800000000000000
+      internalID: -4585059847166097530
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: aula_insegnanti_7
+      rect:
+        serializedVersion: 2
+        x: 329
+        y: 102
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4fc1a948889b63360800000000000000
+      internalID: 7149105454488624372
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: server_3
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 39
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5edd5af0509b78f80800000000000000
+      internalID: -8104305573041414683
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lim-1
+      rect:
+        serializedVersion: 2
+        x: 235
+        y: 97
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 56ef6099cd53b0600800000000000000
+      internalID: 435501010547834469
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lim-2
+      rect:
+        serializedVersion: 2
+        x: 251
+        y: 97
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a813cf4d238b95b50800000000000000
+      internalID: 6582494858839863690
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lim-3
+      rect:
+        serializedVersion: 2
+        x: 267
+        y: 97
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 214916cf06464ceb0800000000000000
+      internalID: -4700521743354063854
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lim-4
+      rect:
+        serializedVersion: 2
+        x: 283
+        y: 97
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c8f1bb3ab0c0ed4f0800000000000000
+      internalID: -802190439494246516
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lim-5
+      rect:
+        serializedVersion: 2
+        x: 235
+        y: 81
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b0cb0e0b5f0ed3f90800000000000000
+      internalID: -6972169302260532213
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lim-6
+      rect:
+        serializedVersion: 2
+        x: 251
+        y: 81
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d0f06de52ca38dcc0800000000000000
+      internalID: -3686131688513597683
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lim-7
+      rect:
+        serializedVersion: 2
+        x: 267
+        y: 81
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f27194725125b0af0800000000000000
+      internalID: -429159088676858065
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lim-9
+      rect:
+        serializedVersion: 2
+        x: 235
+        y: 65
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 69886f57d60695810800000000000000
+      internalID: 1754539553084311702
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lim-10
+      rect:
+        serializedVersion: 2
+        x: 251
+        y: 65
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f19b1abcc00f67cc0800000000000000
+      internalID: -3713516904973747937
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lim-11
+      rect:
+        serializedVersion: 2
+        x: 267
+        y: 65
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 91db4be3ec0920c90800000000000000
+      internalID: -7205037238349677287
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lim-12
+      rect:
+        serializedVersion: 2
+        x: 283
+        y: 65
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 37c8b4b4b55248f60800000000000000
+      internalID: 8035588709171301491
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lim-8
+      rect:
+        serializedVersion: 2
+        x: 283
+        y: 81
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7f74792c13d754b80800000000000000
+      internalID: -8411179076372969481
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Postazione1
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 32
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e1ca98a7a5b444390800000000000000
+      internalID: -7835054599742837730
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Postazione7
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 16
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 26f622f62d4b34dd0800000000000000
+      internalID: -2502958151987204254
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Postazione13
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 0
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 81f7c49fc13272760800000000000000
+      internalID: 7432948317346889496
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Postazione6
+      rect:
+        serializedVersion: 2
+        x: 151
+        y: 32
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9859b643da774ffc0800000000000000
+      internalID: -3462010627748555383
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Postazione12
+      rect:
+        serializedVersion: 2
+        x: 151
+        y: 16
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 381617a8107e0a6b0800000000000000
+      internalID: -5286971968729292413
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Postazione18
+      rect:
+        serializedVersion: 2
+        x: 151
+        y: 0
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eaf8c6eda162daab0800000000000000
+      internalID: -4995294514841350226
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Postazione2
+      rect:
+        serializedVersion: 2
+        x: 87
+        y: 32
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d3cfd04c43ceea910800000000000000
+      internalID: 1850676208267557949
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Postazione8
+      rect:
+        serializedVersion: 2
+        x: 87
+        y: 16
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c5761102f67ff93f0800000000000000
+      internalID: -891722144544626852
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Postazione14
+      rect:
+        serializedVersion: 2
+        x: 87
+        y: 0
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2845cb521d0367fb0800000000000000
+      internalID: -4650475890374060926
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Postazione3
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 32
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cc96f3cc438a47c90800000000000000
+      internalID: -7172923361775883828
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Postazione9
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 16
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a44adf9af9bd7b9b0800000000000000
+      internalID: -5064337777156578230
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Postazione15
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 0
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d00fcf5c3786195a0800000000000000
+      internalID: -6516312339376181235
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Postazione4
+      rect:
+        serializedVersion: 2
+        x: 119
+        y: 32
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8b5d4bef5aadea5c0800000000000000
+      internalID: -4202180995812371016
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Postazione10
+      rect:
+        serializedVersion: 2
+        x: 119
+        y: 16
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: da97aa14169d850a0800000000000000
+      internalID: -6892520217953797715
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Postazione16
+      rect:
+        serializedVersion: 2
+        x: 119
+        y: 0
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dea52bd908c66bc40800000000000000
+      internalID: 5527724892301187821
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Postazione5
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 32
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 734c2a41b411618f0800000000000000
+      internalID: -570249288649358281
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Postazione11
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 16
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4b2e6c5006f3e4010800000000000000
+      internalID: 1174946234436608692
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Postazione17
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 0
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7c92991a1d6a321a0800000000000000
+      internalID: -6835436390128735801
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Postazione19
+      rect:
+        serializedVersion: 2
+        x: 157
+        y: 32
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dd77f28e9d07f4da0800000000000000
+      internalID: -5958419700782237731
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Postazione20
+      rect:
+        serializedVersion: 2
+        x: 157
+        y: 16
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6d0027ab6e32c1080800000000000000
+      internalID: -9215451263629393706
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Postazione21
+      rect:
+        serializedVersion: 2
+        x: 157
+        y: 0
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ad3c654f6913fbc80800000000000000
+      internalID: -8304864663433722918
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Banco_prof1
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 73
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 635037b826eaa0870800000000000000
+      internalID: 8649917772588057910
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Banco_prof2
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 73
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4a03c51d598fe4ae0800000000000000
+      internalID: -1563038698304687964
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Banco_prof3
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 57
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2aa5b839161687770800000000000000
+      internalID: 8608737759433808546
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Banco_prof4
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 57
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 58dbd08286cf91970800000000000000
+      internalID: 8726283277285834117
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lab_mobile1
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 110
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c93babf4753f0d300800000000000000
+      internalID: 274987133594940316
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lab_mobile2
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 126
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f2c9fbda29c6671d0800000000000000
+      internalID: -3353373495294714833
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Banco_prof5
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 73
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1f6daa80bfa42d3a0800000000000000
+      internalID: -6642164058375399695
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Banco_prof6
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 57
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bdb6483e3af99e4e0800000000000000
+      internalID: -1951853437242807333
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Banco_prof7
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 73
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ea20a57d64bc4dee0800000000000000
+      internalID: -1237140492498894162
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Banco_prof8
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 57
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6164a57a935f73fe0800000000000000
+      internalID: -1209228346956036586
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Banco_prof9
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 73
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d7ba68ca80f305b10800000000000000
+      internalID: 1968142343647701885
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Banco_prof10
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 57
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1c936e876c4152860800000000000000
+      internalID: 7504427196747233729
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Banco_prof11
+      rect:
+        serializedVersion: 2
+        x: 87
+        y: 73
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 44632d4eedde54860800000000000000
+      internalID: 7513673094915044932
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Banco_prof12
+      rect:
+        serializedVersion: 2
+        x: 87
+        y: 57
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 70c884dcd44a91730800000000000000
+      internalID: 3970385200567323655
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: libreria-1
+      rect:
+        serializedVersion: 2
+        x: 116
+        y: 310
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d0871cc44509b7b60800000000000000
+      internalID: 7744942675933100045
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: libreria-2
+      rect:
+        serializedVersion: 2
+        x: 116
+        y: 326
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 94e388d808d89dfc0800000000000000
+      internalID: -3469586454642409911
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bancone1
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 327
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 46e60486a5d388800800000000000000
+      internalID: 614808807641476708
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bancone2
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 327
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 03a704bdef59632b0800000000000000
+      internalID: -5605127764383335888
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bancone3
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 327
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 98aa9bc9c2a3d9d10800000000000000
+      internalID: 2133925761725868681
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bancone4
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 327
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 549fef08266f97cb0800000000000000
+      internalID: -4865587019465688763
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bancone5
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 311
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9b6e011f63b3fa420800000000000000
+      internalID: 2643396613448459961
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bancone6
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 311
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 390a7cdaca2c0ea90800000000000000
+      internalID: -7286610150179757933
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bancone7
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 311
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: df5c24f4b354af330800000000000000
+      internalID: 3745382161147151869
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bancone8
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 311
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fa44d7793ffdb7b40800000000000000
+      internalID: 5439187212291622063
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bancone9
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 302
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5a0ca05e5ae04ee80800000000000000
+      internalID: -8150373319958675291
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bancone10
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 302
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f60b5c9caf0e02890800000000000000
+      internalID: -7484735212958142353
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bancone11
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 302
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 739ed1f5b27ce37e0800000000000000
+      internalID: -1783769413298820809
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bancone12
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 302
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bdb5298eeb0675ec0800000000000000
+      internalID: -3578285005860611109
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: libreria-v-3
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 109
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e4d7a16528aec1560800000000000000
+      internalID: 7285956142689844558
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: libreria-v-4
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 109
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 96d2b6c8279ebf850800000000000000
+      internalID: 6411975172683410793
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: libreria-v-1
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 125
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c2462be9beccdb180800000000000000
+      internalID: -9097890359866661844
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: libreria-v-2
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 125
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a257a2e0a072bc6d0800000000000000
+      internalID: -2969236605179890390
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: floor_black
+      rect:
+        serializedVersion: 2
+        x: 436
+        y: 572
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7ce3de0ea45d9e490800000000000000
+      internalID: -7716401968944693561
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BancoUnico
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 54
+        width: 42
+        height: 37
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f35db22893c5e3a30800000000000000
+      internalID: 4196893304822682943
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Banco-lab-bug
+      rect:
+        serializedVersion: 2
+        x: 121
+        y: 58
+        width: 40
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 71c14a88262adfe40800000000000000
+      internalID: 5691884048149126167
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Banco-corridoio-bug
+      rect:
+        serializedVersion: 2
+        x: 228
+        y: 14
+        width: 37
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b19ecc8448687f7a0800000000000000
+      internalID: -6343453647412860645
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Banco-aulaprof-bug
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 302
+        width: 63
+        height: 41
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 06b1af3354186e580800000000000000
+      internalID: -8798202687796929696
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,756 @@
+fileFormatVersion: 2
+guid: 82e969f185139df4e94d3a7b5255c9c7
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 4665648825001125322
+    second: wall_blue_0_A
+  - first:
+      213: 5342556004494280089
+    second: wall_blue_1_A
+  - first:
+      213: 530626310669529767
+    second: wall_blue_2_A
+  - first:
+      213: 2974660810268235101
+    second: wall_blue_3_A
+  - first:
+      213: -6863419110828348868
+    second: wall_blue_4_A
+  - first:
+      213: 3669476873933464143
+    second: wall_blue_5_A
+  - first:
+      213: 1733015137219734952
+    second: wall_blue_6_A
+  - first:
+      213: 2955463793184289911
+    second: wall_blue_7
+  - first:
+      213: 8941211735781873041
+    second: wall_blue_8
+  - first:
+      213: 3195951724448958816
+    second: wall_blue_9
+  - first:
+      213: -2019621078331020703
+    second: wall_blue_10
+  - first:
+      213: 416031945021065076
+    second: wall_blue_0_B
+  - first:
+      213: -4346463085822756241
+    second: wall_blue_0_C
+  - first:
+      213: 5487973087816447793
+    second: wall_blue_0_D
+  - first:
+      213: 4711206423482659551
+    second: wall_blue_1_B
+  - first:
+      213: 2966168184557419403
+    second: wall_blue_1_C
+  - first:
+      213: 6879803506449598805
+    second: wall_blue_1_D
+  - first:
+      213: -738701183454018071
+    second: wall_blue_2_B
+  - first:
+      213: -415704366194135885
+    second: wall_blue_3_B
+  - first:
+      213: -5903508652263033522
+    second: wall_blue_4_B
+  - first:
+      213: 4137104707950472748
+    second: wall_blue_4_C
+  - first:
+      213: 4693749168065887333
+    second: wall_blue_4_D
+  - first:
+      213: 5704323328701656890
+    second: wall_blue_5_B
+  - first:
+      213: 550245916231470024
+    second: wall_blue_6_B
+  - first:
+      213: 8181990512818522661
+    second: wall_blue_11
+  - first:
+      213: -1359567971039468872
+    second: wall_blue_13
+  - first:
+      213: 1297425387164571362
+    second: wall_blue_12
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: wall_blue_0_A
+      rect:
+        serializedVersion: 2
+        x: 286
+        y: 99
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ac529ecf2e6bfb040800000000000000
+      internalID: 4665648825001125322
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wall_blue_1_A
+      rect:
+        serializedVersion: 2
+        x: 338
+        y: 108
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 99503884162942a40800000000000000
+      internalID: 5342556004494280089
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wall_blue_2_A
+      rect:
+        serializedVersion: 2
+        x: 308
+        y: 42
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7a2fee371d92d5700800000000000000
+      internalID: 530626310669529767
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wall_blue_3_A
+      rect:
+        serializedVersion: 2
+        x: 283
+        y: 42
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d55505b1f3e184920800000000000000
+      internalID: 2974660810268235101
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wall_blue_4_A
+      rect:
+        serializedVersion: 2
+        x: 252
+        y: 88
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c3ae272ceac30c0a0800000000000000
+      internalID: -6863419110828348868
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wall_blue_5_A
+      rect:
+        serializedVersion: 2
+        x: 225
+        y: 56
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f42a05e66c99ce230800000000000000
+      internalID: 3669476873933464143
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wall_blue_6_A
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 19
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8ad6b5cd518ec0810800000000000000
+      internalID: 1733015137219734952
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wall_blue_7
+      rect:
+        serializedVersion: 2
+        x: 193
+        y: 40
+        width: 16
+        height: 33
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 774374349aae30920800000000000000
+      internalID: 2955463793184289911
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wall_blue_8
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 40
+        width: 16
+        height: 33
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 19515dc73b0951c70800000000000000
+      internalID: 8941211735781873041
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wall_blue_9
+      rect:
+        serializedVersion: 2
+        x: 134
+        y: 40
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 069c317192d4a5c20800000000000000
+      internalID: 3195951724448958816
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wall_blue_10
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 42
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 16a2035645dd8f3e0800000000000000
+      internalID: -2019621078331020703
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wall_blue_0_B
+      rect:
+        serializedVersion: 2
+        x: 302
+        y: 99
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 477023a89da06c500800000000000000
+      internalID: 416031945021065076
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wall_blue_0_C
+      rect:
+        serializedVersion: 2
+        x: 286
+        y: 83
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f6abf2c1ad24ea3c0800000000000000
+      internalID: -4346463085822756241
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wall_blue_0_D
+      rect:
+        serializedVersion: 2
+        x: 302
+        y: 83
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 137f3346272392c40800000000000000
+      internalID: 5487973087816447793
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wall_blue_1_B
+      rect:
+        serializedVersion: 2
+        x: 338
+        y: 92
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fd2f837f741916140800000000000000
+      internalID: 4711206423482659551
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wall_blue_1_C
+      rect:
+        serializedVersion: 2
+        x: 338
+        y: 76
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b8b3c989f32f92920800000000000000
+      internalID: 2966168184557419403
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wall_blue_1_D
+      rect:
+        serializedVersion: 2
+        x: 338
+        y: 60
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5594a6e96d8f97f50800000000000000
+      internalID: 6879803506449598805
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wall_blue_2_B
+      rect:
+        serializedVersion: 2
+        x: 308
+        y: 26
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9e5001dff2b9fb5f0800000000000000
+      internalID: -738701183454018071
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wall_blue_3_B
+      rect:
+        serializedVersion: 2
+        x: 283
+        y: 26
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3bc6b69d41f1b3af0800000000000000
+      internalID: -415704366194135885
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wall_blue_4_B
+      rect:
+        serializedVersion: 2
+        x: 252
+        y: 72
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e45ba6da826821ea0800000000000000
+      internalID: -5903508652263033522
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wall_blue_4_C
+      rect:
+        serializedVersion: 2
+        x: 252
+        y: 56
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c2eebf300d2f96930800000000000000
+      internalID: 4137104707950472748
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wall_blue_4_D
+      rect:
+        serializedVersion: 2
+        x: 252
+        y: 40
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 56c3a53fffb832140800000000000000
+      internalID: 4693749168065887333
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wall_blue_5_B
+      rect:
+        serializedVersion: 2
+        x: 225
+        y: 40
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a3f6c3b38d3d92f40800000000000000
+      internalID: 5704323328701656890
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wall_blue_6_B
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 3
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8cb0618debdd2a700800000000000000
+      internalID: 550245916231470024
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wall_blue_11
+      rect:
+        serializedVersion: 2
+        x: 342
+        y: 29
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 52a0a2875054c8170800000000000000
+      internalID: 8181990512818522661
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wall_blue_13
+      rect:
+        serializedVersion: 2
+        x: 342
+        y: 10
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8b2a1363228d12de0800000000000000
+      internalID: -1359567971039468872
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wall_blue_12
+      rect:
+        serializedVersion: 2
+        x: 367
+        y: 29
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2e6948cf381610210800000000000000
+      internalID: 1297425387164571362
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

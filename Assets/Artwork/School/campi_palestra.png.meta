@@ -1,0 +1,3594 @@
+fileFormatVersion: 2
+guid: 8cb850ca4a82ddb408086a16c2da4b47
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -6301393735859507461
+    second: campo_0_0
+  - first:
+      213: -4900337038898719423
+    second: campo_0_2
+  - first:
+      213: -3183639440758659624
+    second: campo_0_7
+  - first:
+      213: -742895226787544047
+    second: campo_8_0
+  - first:
+      213: 4329690064062152720
+    second: campo_20_0
+  - first:
+      213: -8727748519305167488
+    second: angolo_pal_dx_b
+  - first:
+      213: -7459911757192242231
+    second: campo_19_0
+  - first:
+      213: 4239474567736439477
+    second: campo_18_0
+  - first:
+      213: -6618766276415468022
+    second: campo_20_1
+  - first:
+      213: 1900541873147803497
+    second: campo_0_3
+  - first:
+      213: 2696690977261558894
+    second: campo_3_1
+  - first:
+      213: 7037765513499549872
+    second: campo_4_0
+  - first:
+      213: -3887283128880484394
+    second: campo_4_1
+  - first:
+      213: 1768263621477864888
+    second: campo_4_2
+  - first:
+      213: -6867979269958056512
+    second: campo_4_3
+  - first:
+      213: 3530763317642678502
+    second: campo_4_4
+  - first:
+      213: -355668714249301012
+    second: campo_4_5
+  - first:
+      213: -7856912463791491730
+    second: campo_4_6
+  - first:
+      213: -922402466860030167
+    second: campo_4_7
+  - first:
+      213: 2107456138945385792
+    second: campo_4_8
+  - first:
+      213: 1794414016180295041
+    second: campo_4_9
+  - first:
+      213: -2107088925636144336
+    second: campo_4_10
+  - first:
+      213: -3658816566212382924
+    second: campo_5_0
+  - first:
+      213: 5004436619266148342
+    second: campo_5_1
+  - first:
+      213: -8470280438746229307
+    second: campo_5_2
+  - first:
+      213: 1781152628751093582
+    second: campo_5_3
+  - first:
+      213: -390172797336521210
+    second: campo_5_4
+  - first:
+      213: -2008921255918663048
+    second: campo_5_5
+  - first:
+      213: 6982466481527746882
+    second: campo_5_6
+  - first:
+      213: -4314631902563523259
+    second: campo_5_7
+  - first:
+      213: -1021395040178919697
+    second: campo_5_8
+  - first:
+      213: -8433674930713355970
+    second: campo_5_9
+  - first:
+      213: 1464366994436161822
+    second: campo_5_10
+  - first:
+      213: -8389744903824175850
+    second: campo_6_0
+  - first:
+      213: -6762233643894659199
+    second: campo_6_1
+  - first:
+      213: 5682436489601217059
+    second: campo_6_2
+  - first:
+      213: 6888328154062909314
+    second: campo_6_3
+  - first:
+      213: 3038833803244235175
+    second: campo_6_4
+  - first:
+      213: -6856336757717543162
+    second: campo_6_5
+  - first:
+      213: -1687914585343190433
+    second: campo_6_6
+  - first:
+      213: 3388292818947115958
+    second: campo_6_7
+  - first:
+      213: 3638224128666397652
+    second: campo_7_0
+  - first:
+      213: -1386269167616010987
+    second: campo_7_1
+  - first:
+      213: -6305600886390230347
+    second: campo_7_2
+  - first:
+      213: 6730507237841410292
+    second: campo_7_3
+  - first:
+      213: 5813432803074683628
+    second: campo_7_4
+  - first:
+      213: 6053318428560831949
+    second: campo_7_5
+  - first:
+      213: -3295902851323667030
+    second: campo_0_
+  - first:
+      213: 1014841506890956713
+    second: campo_8_1
+  - first:
+      213: 4493788044513942911
+    second: campo_8_2
+  - first:
+      213: -3368869753276865347
+    second: campo_9_0
+  - first:
+      213: -7603551803819604762
+    second: campo_9_1
+  - first:
+      213: 6539188371481571931
+    second: campo_9_2
+  - first:
+      213: -6553471626097368832
+    second: campo_10_0
+  - first:
+      213: -3930885886729950009
+    second: campo_10_1
+  - first:
+      213: 7363287938963059940
+    second: campo_10_2
+  - first:
+      213: -4068570102247428928
+    second: campo_10_3
+  - first:
+      213: -7539784747377911525
+    second: campo_11_0
+  - first:
+      213: -4257751143787185931
+    second: campo_11_1
+  - first:
+      213: -4973763236542588708
+    second: campo_12_0
+  - first:
+      213: 2082267806863335378
+    second: campo_12_1
+  - first:
+      213: 8646326223990735027
+    second: campo_13_0
+  - first:
+      213: -6589557850614903606
+    second: campo_13_1
+  - first:
+      213: 1614743541770766349
+    second: campo_13_2
+  - first:
+      213: -2811404804346290948
+    second: campo_13_3
+  - first:
+      213: -6467704402518870706
+    second: campo_11_2
+  - first:
+      213: -4802973985548624339
+    second: campo_11_3
+  - first:
+      213: 3053142612224094628
+    second: campo_11_4
+  - first:
+      213: 582661509278522777
+    second: campo_12_2
+  - first:
+      213: -2207654026838642586
+    second: campo_12_3
+  - first:
+      213: 8298600466907381254
+    second: campo_12_4
+  - first:
+      213: -7645133057955349610
+    second: campo_14_0
+  - first:
+      213: -5299124455217246020
+    second: campo_14_1
+  - first:
+      213: 3962075954374639732
+    second: campo_14_2
+  - first:
+      213: 3830362645934326618
+    second: campo_14_3
+  - first:
+      213: 7781326081928851302
+    second: campo_14_4
+  - first:
+      213: 5597148649735139948
+    second: campo_14_5
+  - first:
+      213: -1442182473161262019
+    second: campo_15_0
+  - first:
+      213: -8455825681066701716
+    second: campo_15_1
+  - first:
+      213: 7903973144216165183
+    second: campo_15_2
+  - first:
+      213: -3730857478025893019
+    second: campo_15_3
+  - first:
+      213: -1597895120375058492
+    second: campo_15_4
+  - first:
+      213: -1189821715874175082
+    second: campo_15_5
+  - first:
+      213: -5204661774379325846
+    second: campo_15_6
+  - first:
+      213: 7672746553387018592
+    second: campo_15_7
+  - first:
+      213: 5952557309978835190
+    second: campo_15_8
+  - first:
+      213: -7741722364231139528
+    second: campo_16_0
+  - first:
+      213: 767142196809332954
+    second: campo_16_1
+  - first:
+      213: -3218823905049485184
+    second: campo_16_2
+  - first:
+      213: -491194142248062670
+    second: campo_16_3
+  - first:
+      213: 4462714737597581405
+    second: campo_16_4
+  - first:
+      213: -8014541348387447094
+    second: campo_16_5
+  - first:
+      213: 4130139515601693293
+    second: campo_16_6
+  - first:
+      213: -3731059953941504994
+    second: campo_16_7
+  - first:
+      213: -8381817892390417013
+    second: campo_16_8
+  - first:
+      213: -6375445527587961959
+    second: campo_17_0
+  - first:
+      213: 2364581913604159745
+    second: campo_17_1
+  - first:
+      213: 8169551984375452544
+    second: campo_17_2
+  - first:
+      213: -8956367278591092550
+    second: campo_17_3
+  - first:
+      213: 1851606990573779448
+    second: campo_17_4
+  - first:
+      213: -5969384721990822805
+    second: campo_17_5
+  - first:
+      213: -7914733097805250405
+    second: campo_17_6
+  - first:
+      213: 4120964101827386501
+    second: campo_17_7
+  - first:
+      213: 8772835966499633171
+    second: campo_17_8
+  - first:
+      213: 7822463031304842845
+    second: campo_17_9
+  - first:
+      213: -2862028386599044694
+    second: campo_17_10
+  - first:
+      213: -3073384935695393847
+    second: campo_18_1
+  - first:
+      213: -7433412650540831538
+    second: campo_19_1
+  - first:
+      213: -8286157550618095455
+    second: campo_19_2
+  - first:
+      213: -1657252928926801547
+    second: campo_19_3
+  - first:
+      213: 8876674152495137143
+    second: campo_20_2
+  - first:
+      213: 5369744919249676272
+    second: campo_18_2
+  - first:
+      213: -8985786413210815709
+    second: campo_20_3
+  - first:
+      213: 7778005012449653046
+    second: campo_20_4
+  - first:
+      213: -3145351521170588913
+    second: campo_21_0
+  - first:
+      213: 2365860690357043401
+    second: campo_21_1
+  - first:
+      213: 3248712573828513089
+    second: campo_21_2
+  - first:
+      213: 4461699757429254520
+    second: campo_21_3
+  - first:
+      213: 6321090608798971620
+    second: campo_20_5
+  - first:
+      213: -9021934537545652980
+    second: campo_20_6
+  - first:
+      213: 1296293055027919519
+    second: campo_20_7
+  - first:
+      213: 2438584876809560756
+    second: campo_20_8
+  - first:
+      213: 8885792723414062223
+    second: campo_21_4
+  - first:
+      213: -8922471217695477811
+    second: campo_21_5
+  - first:
+      213: -693383038797854120
+    second: campi_palestra_142
+  - first:
+      213: -5446395203008085093
+    second: pavimento_lo_s
+  - first:
+      213: -4658296614223615346
+    second: pavimento_o_as
+  - first:
+      213: 5731657728522379604
+    second: pavimento_o_su
+  - first:
+      213: 6742302144628558080
+    second: pavimento_ombra
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: campo_0_0
+      rect:
+        serializedVersion: 2
+        x: 220
+        y: 461
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bfee83098c3fc88a0800000000000000
+      internalID: -6301393735859507461
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: campo_0_7
+      rect:
+        serializedVersion: 2
+        x: 444
+        y: 461
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8d528a8dbc071d3d0800000000000000
+      internalID: -3183639440758659624
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: campo_20_0
+      rect:
+        serializedVersion: 2
+        x: 220
+        y: 61
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 01086ff6c26261c30800000000000000
+      internalID: 4329690064062152720
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: angolo_pal_dx_b
+      rect:
+        serializedVersion: 2
+        x: 460
+        y: 61
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 08dbfd996fec0e680800000000000000
+      internalID: -8727748519305167488
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: campo_19_0
+      rect:
+        serializedVersion: 2
+        x: 236
+        y: 93
+        width: 16
+        height: 16
+      alignment: 9
+      pivot: {x: 0.50000286, y: 0.5000067}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9cbdbc8f7c1197890800000000000000
+      internalID: -7459911757192242231
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: campo_18_0
+      rect:
+        serializedVersion: 2
+        x: 268
+        y: 109
+        width: 16
+        height: 16
+      alignment: 9
+      pivot: {x: 0.5082493, y: 0.47151518}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5b2bb3c58a3a5da30800000000000000
+      internalID: 4239474567736439477
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: campo_20_1
+      rect:
+        serializedVersion: 2
+        x: 460
+        y: 61
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a0ecbeaa32b6524a0800000000000000
+      internalID: -6618766276415468022
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: campo_0_2
+      rect:
+        serializedVersion: 2
+        x: 252
+        y: 461
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 14590cc1d618efbb0800000000000000
+      internalID: -4900337038898719423
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: campo_0_3
+      rect:
+        serializedVersion: 2
+        x: 268
+        y: 461
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 967fabd93c4106a10800000000000000
+      internalID: 1900541873147803497
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: campo_0_4
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 461
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 571c89af821b34670800000000000000
+      internalID: 8521849709476233589
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: campo_0_5
+      rect:
+        serializedVersion: 2
+        x: 380
+        y: 461
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 72c6ae10fa3e21390800000000000000
+      internalID: -7848960859762430937
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: campo_0_6
+      rect:
+        serializedVersion: 2
+        x: 428
+        y: 461
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c17fd1362aab549d0800000000000000
+      internalID: -2790619187475777764
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: campo_0_8
+      rect:
+        serializedVersion: 2
+        x: 460
+        y: 461
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cb5e97c10aa812560800000000000000
+      internalID: 7287258092339324348
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: campo_1_0
+      rect:
+        serializedVersion: 2
+        x: 220
+        y: 445
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0c92e94e347ad1fc0800000000000000
+      internalID: -3522475423493641792
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: campo_1_1
+      rect:
+        serializedVersion: 2
+        x: 236
+        y: 445
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b54672793e3b8c2e0800000000000000
+      internalID: -2105235035720817573
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: campo_1_2
+      rect:
+        serializedVersion: 2
+        x: 252
+        y: 445
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1419f3510f5f6c730800000000000000
+      internalID: 4019170128972190017
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: campo_1_3
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 445
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 08508414402d7eb70800000000000000
+      internalID: 8928335702002238848
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: campo_1_4
+      rect:
+        serializedVersion: 2
+        x: 380
+        y: 445
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 74c164b7892c16340800000000000000
+      internalID: 4855375833441115207
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: campo_1_5
+      rect:
+        serializedVersion: 2
+        x: 428
+        y: 445
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 21a0d310d5aca51a0800000000000000
+      internalID: -6819916184897648110
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: campo_1_6
+      rect:
+        serializedVersion: 2
+        x: 444
+        y: 445
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3725bb7612b74c0d0800000000000000
+      internalID: -3403460034980785549
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: campo_1_7
+      rect:
+        serializedVersion: 2
+        x: 460
+        y: 445
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a59e3b906d7d14840800000000000000
+      internalID: 5206679958502762842
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: campo_2_0
+      rect:
+        serializedVersion: 2
+        x: 236
+        y: 429
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3fe9fadca5ca1eba0800000000000000
+      internalID: -6061374117466104077
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: campo_2_1
+      rect:
+        serializedVersion: 2
+        x: 252
+        y: 429
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8cca0c21185882660800000000000000
+      internalID: 7361280380348968136
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: campo_2_2
+      rect:
+        serializedVersion: 2
+        x: 428
+        y: 429
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 22d346ebb16d51210800000000000000
+      internalID: 1303183081840327970
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: campo_2_3
+      rect:
+        serializedVersion: 2
+        x: 444
+        y: 429
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 35e88146dcde72d90800000000000000
+      internalID: -7122462819259740589
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: campo_3_0
+      rect:
+        serializedVersion: 2
+        x: 252
+        y: 413
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4525e699ee91f1720800000000000000
+      internalID: 2819000404324274772
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: campi_palestra_27
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 409
+        width: 16
+        height: 16
+      alignment: 9
+      pivot: {x: 0.5127468, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 364923a1562eac350800000000000000
+      internalID: 6037887174302667875
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: campo_3_1
+      rect:
+        serializedVersion: 2
+        x: 428
+        y: 413
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e6c1da8f7229c6520800000000000000
+      internalID: 2696690977261558894
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: campo_4_0
+      rect:
+        serializedVersion: 2
+        x: 252
+        y: 397
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0b0a2a4627a2ba160800000000000000
+      internalID: 7037765513499549872
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: campo_4_1
+      rect:
+        serializedVersion: 2
+        x: 268
+        y: 397
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6dfa5b907989d0ac0800000000000000
+      internalID: -3887283128880484394
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: campo_4_2
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 397
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8b51f6325622a8810800000000000000
+      internalID: 1768263621477864888
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: campo_4_3
+      rect:
+        serializedVersion: 2
+        x: 316
+        y: 397
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0c54769fd3900b0a0800000000000000
+      internalID: -6867979269958056512
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: campo_4_4
+      rect:
+        serializedVersion: 2
+        x: 332
+        y: 397
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6e05216d78acff030800000000000000
+      internalID: 3530763317642678502
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: campo_4_5
+      rect:
+        serializedVersion: 2
+        x: 348
+        y: 397
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ce353755039601bf0800000000000000
+      internalID: -355668714249301012
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: campo_4_6
+      rect:
+        serializedVersion: 2
+        x: 364
+        y: 397
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e657e5cedb3a6f290800000000000000
+      internalID: -7856912463791491730
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: campo_4_7
+      rect:
+        serializedVersion: 2
+        x: 380
+        y: 397
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9272ddee7d7f233f0800000000000000
+      internalID: -922402466860030167
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: campo_4_8
+      rect:
+        serializedVersion: 2
+        x: 396
+        y: 397
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0455e8d41303f3d10800000000000000
+      internalID: 2107456138945385792
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: campo_4_9
+      rect:
+        serializedVersion: 2
+        x: 412
+        y: 397
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 185986e5a0a07e810800000000000000
+      internalID: 1794414016180295041
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: campo_4_10
+      rect:
+        serializedVersion: 2
+        x: 428
+        y: 397
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0335c4539cd12c2e0800000000000000
+      internalID: -2107088925636144336
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: campo_5_0
+      rect:
+        serializedVersion: 2
+        x: 252
+        y: 381
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 43fa890e7b5493dc0800000000000000
+      internalID: -3658816566212382924
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: campo_5_1
+      rect:
+        serializedVersion: 2
+        x: 268
+        y: 381
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6f7c0503794537540800000000000000
+      internalID: 5004436619266148342
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: campo_5_2
+      rect:
+        serializedVersion: 2
+        x: 284
+        y: 381
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5c5579481d4837a80800000000000000
+      internalID: -8470280438746229307
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: campo_5_3
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 381
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e4f467ff0ece7b810800000000000000
+      internalID: 1781152628751093582
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: campo_5_4
+      rect:
+        serializedVersion: 2
+        x: 316
+        y: 381
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6067cb578e3d59af0800000000000000
+      internalID: -390172797336521210
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: campo_5_5
+      rect:
+        serializedVersion: 2
+        x: 332
+        y: 381
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 87a8c3fe2c0ee14e0800000000000000
+      internalID: -2008921255918663048
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: campo_5_6
+      rect:
+        serializedVersion: 2
+        x: 364
+        y: 381
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 241788f2544b6e060800000000000000
+      internalID: 6982466481527746882
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: campo_5_7
+      rect:
+        serializedVersion: 2
+        x: 380
+        y: 381
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 545222ff4295f14c0800000000000000
+      internalID: -4314631902563523259
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: campo_5_8
+      rect:
+        serializedVersion: 2
+        x: 396
+        y: 381
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fe62ace5f9643d1f0800000000000000
+      internalID: -1021395040178919697
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: campo_5_9
+      rect:
+        serializedVersion: 2
+        x: 412
+        y: 381
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e3996b3855195fa80800000000000000
+      internalID: -8433674930713355970
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: campo_5_10
+      rect:
+        serializedVersion: 2
+        x: 428
+        y: 381
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e118c2cd50a725410800000000000000
+      internalID: 1464366994436161822
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: campo_6_0
+      rect:
+        serializedVersion: 2
+        x: 268
+        y: 365
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 61d8a63f573a19b80800000000000000
+      internalID: -8389744903824175850
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: campo_6_1
+      rect:
+        serializedVersion: 2
+        x: 284
+        y: 365
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 187a6772458b722a0800000000000000
+      internalID: -6762233643894659199
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: campo_6_2
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 365
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 322f56561e11cde40800000000000000
+      internalID: 5682436489601217059
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: campo_6_3
+      rect:
+        serializedVersion: 2
+        x: 316
+        y: 365
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 28fed3fc5f1489f50800000000000000
+      internalID: 6888328154062909314
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: campo_6_4
+      rect:
+        serializedVersion: 2
+        x: 364
+        y: 365
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7a962dd5e3b1c2a20800000000000000
+      internalID: 3038833803244235175
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: campo_6_5
+      rect:
+        serializedVersion: 2
+        x: 380
+        y: 365
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 607dac79b0669d0a0800000000000000
+      internalID: -6856336757717543162
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: campo_6_6
+      rect:
+        serializedVersion: 2
+        x: 396
+        y: 365
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f5a1b69a0a25398e0800000000000000
+      internalID: -1687914585343190433
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: campo_6_7
+      rect:
+        serializedVersion: 2
+        x: 412
+        y: 365
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6bb895ced52a50f20800000000000000
+      internalID: 3388292818947115958
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: campo_7_0
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 349
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4db6a62a1919d7230800000000000000
+      internalID: 3638224128666397652
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: campo_7_1
+      rect:
+        serializedVersion: 2
+        x: 316
+        y: 349
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 515db2d698bf2cce0800000000000000
+      internalID: -1386269167616010987
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: campo_7_2
+      rect:
+        serializedVersion: 2
+        x: 332
+        y: 349
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5b2725ff6610e78a0800000000000000
+      internalID: -6305600886390230347
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: campo_7_3
+      rect:
+        serializedVersion: 2
+        x: 348
+        y: 349
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4f89bbd4ca0976d50800000000000000
+      internalID: 6730507237841410292
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: campo_7_4
+      rect:
+        serializedVersion: 2
+        x: 364
+        y: 349
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ce2bed065567da050800000000000000
+      internalID: 5813432803074683628
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: campo_7_5
+      rect:
+        serializedVersion: 2
+        x: 380
+        y: 349
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dc5b1b6f905b10450800000000000000
+      internalID: 6053318428560831949
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: campo_0_
+      rect:
+        serializedVersion: 2
+        x: 236
+        y: 461
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aadd7a4b1d99242d0800000000000000
+      internalID: -3295902851323667030
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: campo_8_0
+      rect:
+        serializedVersion: 2
+        x: 252
+        y: 317
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 114cefd2ab4b0b5f0800000000000000
+      internalID: -742895226787544047
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: campo_8_1
+      rect:
+        serializedVersion: 2
+        x: 268
+        y: 317
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9afbe8149f0751e00800000000000000
+      internalID: 1014841506890956713
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: campo_8_2
+      rect:
+        serializedVersion: 2
+        x: 428
+        y: 317
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f7d9629da642d5e30800000000000000
+      internalID: 4493788044513942911
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: campo_9_0
+      rect:
+        serializedVersion: 2
+        x: 252
+        y: 301
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: db4ef55fece5f31d0800000000000000
+      internalID: -3368869753276865347
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: campo_9_1
+      rect:
+        serializedVersion: 2
+        x: 268
+        y: 301
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6e44d067be1ca7690800000000000000
+      internalID: -7603551803819604762
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: campo_9_2
+      rect:
+        serializedVersion: 2
+        x: 428
+        y: 301
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b5236818d2ddfba50800000000000000
+      internalID: 6539188371481571931
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: campo_10_0
+      rect:
+        serializedVersion: 2
+        x: 316
+        y: 285
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0016dd027446d05a0800000000000000
+      internalID: -6553471626097368832
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: campo_10_1
+      rect:
+        serializedVersion: 2
+        x: 332
+        y: 285
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7cc6ddcdc10b279c0800000000000000
+      internalID: -3930885886729950009
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: campo_10_2
+      rect:
+        serializedVersion: 2
+        x: 348
+        y: 285
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4e4bfcc3e57af2660800000000000000
+      internalID: 7363287938963059940
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: campo_10_3
+      rect:
+        serializedVersion: 2
+        x: 364
+        y: 285
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0cc64c75c098987c0800000000000000
+      internalID: -4068570102247428928
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: campo_11_0
+      rect:
+        serializedVersion: 2
+        x: 316
+        y: 269
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b1991a148bd4d5790800000000000000
+      internalID: -7539784747377911525
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: campo_11_1
+      rect:
+        serializedVersion: 2
+        x: 364
+        y: 269
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5f83d8ca4ed69e4c0800000000000000
+      internalID: -4257751143787185931
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: campo_12_0
+      rect:
+        serializedVersion: 2
+        x: 316
+        y: 253
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cd85bf040b4a9fab0800000000000000
+      internalID: -4973763236542588708
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: campo_12_1
+      rect:
+        serializedVersion: 2
+        x: 364
+        y: 253
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2df125bb983b5ec10800000000000000
+      internalID: 2082267806863335378
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: campo_13_0
+      rect:
+        serializedVersion: 2
+        x: 316
+        y: 237
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3b0cc19f3ebedf770800000000000000
+      internalID: 8646326223990735027
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: campo_13_1
+      rect:
+        serializedVersion: 2
+        x: 332
+        y: 237
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: acc463f3c003d84a0800000000000000
+      internalID: -6589557850614903606
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: campo_13_2
+      rect:
+        serializedVersion: 2
+        x: 348
+        y: 237
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d084a9a22b8b86610800000000000000
+      internalID: 1614743541770766349
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: campo_13_3
+      rect:
+        serializedVersion: 2
+        x: 364
+        y: 237
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cfcdc15d932ebf8d0800000000000000
+      internalID: -2811404804346290948
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: campo_11_2
+      rect:
+        serializedVersion: 2
+        x: 444
+        y: 269
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e45f1affc191e36a0800000000000000
+      internalID: -6467704402518870706
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: campo_11_3
+      rect:
+        serializedVersion: 2
+        x: 460
+        y: 269
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d2e9eed7b98685db0800000000000000
+      internalID: -4802973985548624339
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: campo_11_4
+      rect:
+        serializedVersion: 2
+        x: 220
+        y: 269
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4a1b9329701fe5a20800000000000000
+      internalID: 3053142612224094628
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: campo_12_2
+      rect:
+        serializedVersion: 2
+        x: 220
+        y: 253
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 99dd6dc3e87061800800000000000000
+      internalID: 582661509278522777
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: campo_12_3
+      rect:
+        serializedVersion: 2
+        x: 460
+        y: 253
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6607257fb56dc51e0800000000000000
+      internalID: -2207654026838642586
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: campo_12_4
+      rect:
+        serializedVersion: 2
+        x: 444
+        y: 253
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 60eb7e2282d8a2370800000000000000
+      internalID: 8298600466907381254
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: campo_14_0
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 173
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 69bb9fb4df707e590800000000000000
+      internalID: -7645133057955349610
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: campo_14_1
+      rect:
+        serializedVersion: 2
+        x: 316
+        y: 173
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cb0d03a426ab576b0800000000000000
+      internalID: -5299124455217246020
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: campo_14_2
+      rect:
+        serializedVersion: 2
+        x: 332
+        y: 173
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4700e99a61f1cf630800000000000000
+      internalID: 3962075954374639732
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: campo_14_3
+      rect:
+        serializedVersion: 2
+        x: 348
+        y: 173
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a5347d7488e282530800000000000000
+      internalID: 3830362645934326618
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: campo_14_4
+      rect:
+        serializedVersion: 2
+        x: 364
+        y: 173
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 66fe9d228d2dcfb60800000000000000
+      internalID: 7781326081928851302
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: campo_14_5
+      rect:
+        serializedVersion: 2
+        x: 380
+        y: 173
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c62358eba011dad40800000000000000
+      internalID: 5597148649735139948
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: campo_15_0
+      rect:
+        serializedVersion: 2
+        x: 268
+        y: 157
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d3cbde18ea65cfbe0800000000000000
+      internalID: -1442182473161262019
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: campo_15_1
+      rect:
+        serializedVersion: 2
+        x: 284
+        y: 157
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c6cc46d085fd6aa80800000000000000
+      internalID: -8455825681066701716
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: campo_15_2
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 157
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f3b5b3792bd80bd60800000000000000
+      internalID: 7903973144216165183
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: campo_15_3
+      rect:
+        serializedVersion: 2
+        x: 316
+        y: 157
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 56b28a204e4593cc0800000000000000
+      internalID: -3730857478025893019
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: campo_15_4
+      rect:
+        serializedVersion: 2
+        x: 332
+        y: 157
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4cfe6b1aad223d9e0800000000000000
+      internalID: -1597895120375058492
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: campo_15_5
+      rect:
+        serializedVersion: 2
+        x: 364
+        y: 157
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 697264f0477ec7fe0800000000000000
+      internalID: -1189821715874175082
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: campo_15_6
+      rect:
+        serializedVersion: 2
+        x: 380
+        y: 157
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a66e01211b355c7b0800000000000000
+      internalID: -5204661774379325846
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: campo_15_7
+      rect:
+        serializedVersion: 2
+        x: 396
+        y: 157
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0696c3e96521b7a60800000000000000
+      internalID: 7672746553387018592
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: campo_15_8
+      rect:
+        serializedVersion: 2
+        x: 412
+        y: 157
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6f8717ed55bbb9250800000000000000
+      internalID: 5952557309978835190
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: campo_16_0
+      rect:
+        serializedVersion: 2
+        x: 268
+        y: 141
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 83f3e42f680ef8490800000000000000
+      internalID: -7741722364231139528
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: campo_16_1
+      rect:
+        serializedVersion: 2
+        x: 284
+        y: 141
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ad8780573cf65aa00800000000000000
+      internalID: 767142196809332954
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: campo_16_2
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 141
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0806df066b07453d0800000000000000
+      internalID: -3218823905049485184
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: campo_16_3
+      rect:
+        serializedVersion: 2
+        x: 316
+        y: 141
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2313d83b78dee29f0800000000000000
+      internalID: -491194142248062670
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: campo_16_4
+      rect:
+        serializedVersion: 2
+        x: 332
+        y: 141
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d58876cc86fbeed30800000000000000
+      internalID: 4462714737597581405
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: campo_16_5
+      rect:
+        serializedVersion: 2
+        x: 364
+        y: 141
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ace9fa34b11a6c090800000000000000
+      internalID: -8014541348387447094
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: campo_16_6
+      rect:
+        serializedVersion: 2
+        x: 380
+        y: 141
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d6a2e3cc104315930800000000000000
+      internalID: 4130139515601693293
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: campo_16_7
+      rect:
+        serializedVersion: 2
+        x: 396
+        y: 141
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e1c91a96dbc983cc0800000000000000
+      internalID: -3731059953941504994
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: campo_16_8
+      rect:
+        serializedVersion: 2
+        x: 412
+        y: 141
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b8d4e00290dcdab80800000000000000
+      internalID: -8381817892390417013
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: campo_17_0
+      rect:
+        serializedVersion: 2
+        x: 252
+        y: 125
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 993444b321ed587a0800000000000000
+      internalID: -6375445527587961959
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: campo_17_1
+      rect:
+        serializedVersion: 2
+        x: 268
+        y: 125
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 10970bae8bea0d020800000000000000
+      internalID: 2364581913604159745
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: campo_17_2
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 125
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 08359c2ee34106170800000000000000
+      internalID: 8169551984375452544
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: campo_17_3
+      rect:
+        serializedVersion: 2
+        x: 316
+        y: 125
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ab855a9b96794b380800000000000000
+      internalID: -8956367278591092550
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: campo_17_4
+      rect:
+        serializedVersion: 2
+        x: 332
+        y: 125
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8f9b7c86fba32b910800000000000000
+      internalID: 1851606990573779448
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: campo_17_5
+      rect:
+        serializedVersion: 2
+        x: 348
+        y: 125
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b64d716f83c782da0800000000000000
+      internalID: -5969384721990822805
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: campo_17_6
+      rect:
+        serializedVersion: 2
+        x: 364
+        y: 125
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b908a4d7e28392290800000000000000
+      internalID: -7914733097805250405
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: campo_17_7
+      rect:
+        serializedVersion: 2
+        x: 380
+        y: 125
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 58cde8d440b903930800000000000000
+      internalID: 4120964101827386501
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: campo_17_8
+      rect:
+        serializedVersion: 2
+        x: 396
+        y: 125
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3183bffb4df5fb970800000000000000
+      internalID: 8772835966499633171
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: campo_17_9
+      rect:
+        serializedVersion: 2
+        x: 412
+        y: 125
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d5eec898ea8fe8c60800000000000000
+      internalID: 7822463031304842845
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: campo_17_10
+      rect:
+        serializedVersion: 2
+        x: 428
+        y: 125
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aa9fda798580848d0800000000000000
+      internalID: -2862028386599044694
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: campo_18_1
+      rect:
+        serializedVersion: 2
+        x: 428
+        y: 109
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9cbd6d93fa42955d0800000000000000
+      internalID: -3073384935695393847
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: campo_19_1
+      rect:
+        serializedVersion: 2
+        x: 252
+        y: 93
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ecc6e97049637d890800000000000000
+      internalID: -7433412650540831538
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: campo_19_2
+      rect:
+        serializedVersion: 2
+        x: 428
+        y: 93
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1a0dc721c97a10d80800000000000000
+      internalID: -8286157550618095455
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: campo_19_3
+      rect:
+        serializedVersion: 2
+        x: 444
+        y: 93
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 571a75cdd314009e0800000000000000
+      internalID: -1657252928926801547
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: campo_20_2
+      rect:
+        serializedVersion: 2
+        x: 268
+        y: 61
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7714d5e6c18403b70800000000000000
+      internalID: 8876674152495137143
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: campo_18_2
+      rect:
+        serializedVersion: 2
+        x: 252
+        y: 109
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0f7e55ecd8a258a40800000000000000
+      internalID: 5369744919249676272
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: campo_20_3
+      rect:
+        serializedVersion: 2
+        x: 252
+        y: 61
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 323b90dadd21c4380800000000000000
+      internalID: -8985786413210815709
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: campo_20_4
+      rect:
+        serializedVersion: 2
+        x: 428
+        y: 61
+        width: 17
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 631f444695601fb60800000000000000
+      internalID: 7778005012449653046
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: campo_21_0
+      rect:
+        serializedVersion: 2
+        x: 252
+        y: 77
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f0b74eec4777954d0800000000000000
+      internalID: -3145351521170588913
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: campo_21_1
+      rect:
+        serializedVersion: 2
+        x: 428
+        y: 77
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9c0cac453c935d020800000000000000
+      internalID: 2365860690357043401
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: campo_21_2
+      rect:
+        serializedVersion: 2
+        x: 380
+        y: 77
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 14db46c9fdeb51d20800000000000000
+      internalID: 3248712573828513089
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: campo_21_3
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 77
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 87964005a442bed30800000000000000
+      internalID: 4461699757429254520
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: campo_20_5
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 61
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4e6358a0b6609b750800000000000000
+      internalID: 6321090608798971620
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: campo_20_6
+      rect:
+        serializedVersion: 2
+        x: 380
+        y: 61
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c0563ce9656abc280800000000000000
+      internalID: -9021934537545652980
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: campo_20_7
+      rect:
+        serializedVersion: 2
+        x: 236
+        y: 61
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f9abebd5aab5df110800000000000000
+      internalID: 1296293055027919519
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: campo_20_8
+      rect:
+        serializedVersion: 2
+        x: 444
+        y: 61
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4b2afd8760897d120800000000000000
+      internalID: 2438584876809560756
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: campo_21_4
+      rect:
+        serializedVersion: 2
+        x: 236
+        y: 77
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f8498da276da05b70800000000000000
+      internalID: 8885792723414062223
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: campo_21_5
+      rect:
+        serializedVersion: 2
+        x: 444
+        y: 77
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dcf2d9663b30d2480800000000000000
+      internalID: -8922471217695477811
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: campi_palestra_142
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 275
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 85a4c27cccb9066f0800000000000000
+      internalID: -693383038797854120
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pavimento_lo_s
+      rect:
+        serializedVersion: 2
+        x: 167
+        y: 275
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b93cf4a4b648a64b0800000000000000
+      internalID: -5446395203008085093
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pavimento_o_as
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 259
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e8aebcaf8e76a5fb0800000000000000
+      internalID: -4658296614223615346
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pavimento_o_su
+      rect:
+        serializedVersion: 2
+        x: 151
+        y: 275
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 451e2b22650fa8f40800000000000000
+      internalID: 5731657728522379604
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pavimento_ombra
+      rect:
+        serializedVersion: 2
+        x: 167
+        y: 259
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 00980fa0418719d50800000000000000
+      internalID: 6742302144628558080
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

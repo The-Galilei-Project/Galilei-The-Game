@@ -1,0 +1,1620 @@
+fileFormatVersion: 2
+guid: 5029353c592c9b12fa0ad65c4e220d2f
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 6875085651680130973
+    second: finestra_pal 0
+  - first:
+      213: 1323307282853800857
+    second: finestra_pal 1
+  - first:
+      213: 2250570093239660455
+    second: finestra_pal 2
+  - first:
+      213: 1887045243778957532
+    second: canestro-dietro-s0
+  - first:
+      213: 6972026461487647321
+    second: palestra_front_0
+  - first:
+      213: -5844269770304932645
+    second: palestra_front_2
+  - first:
+      213: -2808596832870135934
+    second: palestra_front_1
+  - first:
+      213: 7437276345348421613
+    second: palestra_dx
+  - first:
+      213: 1765153445057708137
+    second: palestra_sx
+  - first:
+      213: -7910368714612223153
+    second: materasso_5
+  - first:
+      213: 1265085571959118012
+    second: materasso_4
+  - first:
+      213: 4738100881185510806
+    second: materasso_3
+  - first:
+      213: 5577180657727275042
+    second: materasso_2
+  - first:
+      213: -7577582260337848511
+    second: materasso_1
+  - first:
+      213: -2061108709397902635
+    second: materasso_0
+  - first:
+      213: -5604234364801318026
+    second: palestra_15
+  - first:
+      213: 5740453140869645842
+    second: muro_dx_0
+  - first:
+      213: 1032032690571643107
+    second: muro_dx_1
+  - first:
+      213: 8672353922072747351
+    second: muro_dx_2
+  - first:
+      213: -7232698902892338193
+    second: muro_dx_3
+  - first:
+      213: -1104920470625209107
+    second: muro_sx_0
+  - first:
+      213: -3673065944748233948
+    second: muro_sx_1
+  - first:
+      213: 6555195370236913131
+    second: muro_sx_2
+  - first:
+      213: 8530397331733949724
+    second: muro_sx_3
+  - first:
+      213: -1528204486598782457
+    second: qsr0-4
+  - first:
+      213: -4203207842740364844
+    second: qsr0-5
+  - first:
+      213: 6933754151064251321
+    second: qsr1-0
+  - first:
+      213: 1165717648618265320
+    second: qsr1-1
+  - first:
+      213: 7099525312301749228
+    second: qsr1-2
+  - first:
+      213: -2599689002157652704
+    second: qsr1-3
+  - first:
+      213: 9040517186126632844
+    second: qsr1-4
+  - first:
+      213: -6388960148108459952
+    second: qsr1-5
+  - first:
+      213: 897541596512823301
+    second: qsr2-0
+  - first:
+      213: 532900840960210861
+    second: qsr2-1
+  - first:
+      213: 1792735013707072605
+    second: qsr2-2
+  - first:
+      213: 6244285491911318240
+    second: qsr2-3
+  - first:
+      213: -5912207096108302202
+    second: qsr2-4
+  - first:
+      213: 3198151742550744188
+    second: qsr2-5
+  - first:
+      213: -5643926117745010357
+    second: qsr3-0
+  - first:
+      213: 980131812366489168
+    second: qsr3-1
+  - first:
+      213: 4354590526828663557
+    second: qsr3-2
+  - first:
+      213: 4205935412663336949
+    second: qsr3-3
+  - first:
+      213: -3402513063188310306
+    second: qsr3-4
+  - first:
+      213: -8690109632024291329
+    second: qsr3-5
+  - first:
+      213: 4997226102390560282
+    second: canestro-dietro-d0
+  - first:
+      213: 1174739588193166353
+    second: canestro-dietro-s1
+  - first:
+      213: 2763102994387731062
+    second: canestro-dietro-s2
+  - first:
+      213: 829104137053197063
+    second: canestro-dietro-d1
+  - first:
+      213: 2737749927362952216
+    second: canestro-dietro-d2
+  - first:
+      213: -1764203836772398815
+    second: canestro_1
+  - first:
+      213: -3311331651567087346
+    second: canestro_2
+  - first:
+      213: 1485476530884678330
+    second: canestro_3
+  - first:
+      213: -5973783389922707208
+    second: canestro_4
+  - first:
+      213: 7823443157092760340
+    second: canestro_5
+  - first:
+      213: 6825516798430129498
+    second: canestro_6
+  - first:
+      213: 5766943359323221273
+    second: canestro_7
+  - first:
+      213: -5779564283769850512
+    second: canestro_8
+  - first:
+      213: 7120031180402678812
+    second: porta_palestra_aperta1
+  - first:
+      213: 7635100811670435022
+    second: porta_palestra_aperta2
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: finestra_pal 0
+      rect:
+        serializedVersion: 2
+        x: 408
+        y: 482
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d9777c479f5396f50800000000000000
+      internalID: 6875085651680130973
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: finestra_pal 1
+      rect:
+        serializedVersion: 2
+        x: 408
+        y: 465
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 99b203b66f45d5210800000000000000
+      internalID: 1323307282853800857
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: finestra_pal 2
+      rect:
+        serializedVersion: 2
+        x: 408
+        y: 448
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7afeaa56391ab3f10800000000000000
+      internalID: 2250570093239660455
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: palestra_front_0
+      rect:
+        serializedVersion: 2
+        x: 445
+        y: 482
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 95a4899902d91c060800000000000000
+      internalID: 6972026461487647321
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: palestra_front_2
+      rect:
+        serializedVersion: 2
+        x: 445
+        y: 466
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bd4bb61bb9bf4eea0800000000000000
+      internalID: -5844269770304932645
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: palestra_front_1
+      rect:
+        serializedVersion: 2
+        x: 445
+        y: 449
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2870d73af0cd509d0800000000000000
+      internalID: -2808596832870135934
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: palestra_dx
+      rect:
+        serializedVersion: 2
+        x: 427
+        y: 482
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: de778e48e63863760800000000000000
+      internalID: 7437276345348421613
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: palestra_sx
+      rect:
+        serializedVersion: 2
+        x: 427
+        y: 466
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 960c8b2c4b51f7810800000000000000
+      internalID: 1765153445057708137
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: materasso_4
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 452
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cb8581fff9c7e8110800000000000000
+      internalID: 1265085571959118012
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: materasso_5
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 452
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f43dc23a099b83290800000000000000
+      internalID: -7910368714612223153
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: materasso_3
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 452
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 695170dd5ad11c140800000000000000
+      internalID: 4738100881185510806
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: materasso_2
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 468
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 22083005240266d40800000000000000
+      internalID: 5577180657727275042
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: materasso_1
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 468
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 14fc24cf41507d690800000000000000
+      internalID: -7577582260337848511
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: materasso_0
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 468
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5dacfdc8c887563e0800000000000000
+      internalID: -2061108709397902635
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: palestra_15
+      rect:
+        serializedVersion: 2
+        x: 291
+        y: 444
+        width: 16
+        height: 1
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6730bf7a982c932b0800000000000000
+      internalID: -5604234364801318026
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: muro_dx_0
+      rect:
+        serializedVersion: 2
+        x: 381
+        y: 466
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2168f47a7bf2aaf40800000000000000
+      internalID: 5740453140869645842
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: muro_dx_1
+      rect:
+        serializedVersion: 2
+        x: 381
+        y: 450
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3e80d1e9344825e00800000000000000
+      internalID: 1032032690571643107
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: muro_dx_2
+      rect:
+        serializedVersion: 2
+        x: 381
+        y: 434
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 75d9c9ba1f36a5870800000000000000
+      internalID: 8672353922072747351
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: muro_dx_3
+      rect:
+        serializedVersion: 2
+        x: 381
+        y: 418
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fe3aeb51baa40ab90800000000000000
+      internalID: -7232698902892338193
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: muro_sx_0
+      rect:
+        serializedVersion: 2
+        x: 362
+        y: 466
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: de4b353afa88aa0f0800000000000000
+      internalID: -1104920470625209107
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: muro_sx_1
+      rect:
+        serializedVersion: 2
+        x: 362
+        y: 450
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 42b62b6ebf5a60dc0800000000000000
+      internalID: -3673065944748233948
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: muro_sx_2
+      rect:
+        serializedVersion: 2
+        x: 362
+        y: 434
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: be5a144557bb8fa50800000000000000
+      internalID: 6555195370236913131
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: muro_sx_3
+      rect:
+        serializedVersion: 2
+        x: 362
+        y: 418
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c1d21fe5d2f026670800000000000000
+      internalID: 8530397331733949724
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: qsr0-3
+      rect:
+        serializedVersion: 2
+        x: 214
+        y: 431
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8b9c1ed9fafb9aea0800000000000000
+      internalID: -5860942679056987720
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: qsr0-0
+      rect:
+        serializedVersion: 2
+        x: 166
+        y: 431
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6d25fc5a7ae66fec0800000000000000
+      internalID: -3533515191305153834
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: qsr0-1
+      rect:
+        serializedVersion: 2
+        x: 182
+        y: 431
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8da64b529a3739830800000000000000
+      internalID: 4076729258019678936
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: qsr0-2
+      rect:
+        serializedVersion: 2
+        x: 198
+        y: 431
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5998d466e94c96ce0800000000000000
+      internalID: -1411380823603705451
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: qsr0-4
+      rect:
+        serializedVersion: 2
+        x: 230
+        y: 431
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7021f10cd1abacae0800000000000000
+      internalID: -1528204486598782457
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: qsr0-5
+      rect:
+        serializedVersion: 2
+        x: 246
+        y: 431
+        width: 16
+        height: 16
+      alignment: 9
+      pivot: {x: 0.53346634, y: -0.4370346}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4d913509cb43ba5c0800000000000000
+      internalID: -4203207842740364844
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: qsr1-0
+      rect:
+        serializedVersion: 2
+        x: 166
+        y: 415
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9bb231ee9a4a93060800000000000000
+      internalID: 6933754151064251321
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: qsr1-1
+      rect:
+        serializedVersion: 2
+        x: 182
+        y: 415
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8ea9b4276067d2010800000000000000
+      internalID: 1165717648618265320
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: qsr1-2
+      rect:
+        serializedVersion: 2
+        x: 198
+        y: 415
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ce3d3a918a4968260800000000000000
+      internalID: 7099525312301749228
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: qsr1-3
+      rect:
+        serializedVersion: 2
+        x: 214
+        y: 415
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 02547e350ac0cebd0800000000000000
+      internalID: -2599689002157652704
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: qsr1-4
+      rect:
+        serializedVersion: 2
+        x: 230
+        y: 415
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c8754e86b7e567d70800000000000000
+      internalID: 9040517186126632844
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: qsr1-5
+      rect:
+        serializedVersion: 2
+        x: 246
+        y: 415
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0504edf689ad557a0800000000000000
+      internalID: -6388960148108459952
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: qsr2-0
+      rect:
+        serializedVersion: 2
+        x: 166
+        y: 399
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 508a84f9355b47c00800000000000000
+      internalID: 897541596512823301
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: qsr2-1
+      rect:
+        serializedVersion: 2
+        x: 182
+        y: 399
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: da7b0fdcd7e356700800000000000000
+      internalID: 532900840960210861
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: qsr2-2
+      rect:
+        serializedVersion: 2
+        x: 198
+        y: 399
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d544a642ff211e810800000000000000
+      internalID: 1792735013707072605
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: qsr2-3
+      rect:
+        serializedVersion: 2
+        x: 214
+        y: 399
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0eadf7d329828a650800000000000000
+      internalID: 6244285491911318240
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: qsr2-4
+      rect:
+        serializedVersion: 2
+        x: 230
+        y: 399
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 680cbe568fe93fda0800000000000000
+      internalID: -5912207096108302202
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: qsr2-5
+      rect:
+        serializedVersion: 2
+        x: 246
+        y: 399
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c7c9888b01e126c20800000000000000
+      internalID: 3198151742550744188
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: qsr3-0
+      rect:
+        serializedVersion: 2
+        x: 166
+        y: 383
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b495245491fbca1b0800000000000000
+      internalID: -5643926117745010357
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: qsr3-1
+      rect:
+        serializedVersion: 2
+        x: 182
+        y: 383
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0561a2db0b02a9d00800000000000000
+      internalID: 980131812366489168
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: qsr3-2
+      rect:
+        serializedVersion: 2
+        x: 198
+        y: 383
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 50357e5330d9e6c30800000000000000
+      internalID: 4354590526828663557
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: qsr3-3
+      rect:
+        serializedVersion: 2
+        x: 214
+        y: 383
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5ffb80c49fb7e5a30800000000000000
+      internalID: 4205935412663336949
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: qsr3-4
+      rect:
+        serializedVersion: 2
+        x: 230
+        y: 383
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ed6d8057568d7c0d0800000000000000
+      internalID: -3402513063188310306
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: qsr3-5
+      rect:
+        serializedVersion: 2
+        x: 246
+        y: 383
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ff7ddf3f457866780800000000000000
+      internalID: -8690109632024291329
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: canestro-dietro-s0
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 328
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cd00986b6a1203a10800000000000000
+      internalID: 1887045243778957532
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: canestro-dietro-d0
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 328
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a169c47e9a6b95540800000000000000
+      internalID: 4997226102390560282
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: canestro-dietro-s1
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 344
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 114a7d17e638d4010800000000000000
+      internalID: 1174739588193166353
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: canestro-dietro-s2
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 360
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6728c4aa883885620800000000000000
+      internalID: 2763102994387731062
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: canestro-dietro-d1
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 344
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 703dcd2e1d1918b00800000000000000
+      internalID: 829104137053197063
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: canestro-dietro-d2
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 360
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 81cf150cd017ef520800000000000000
+      internalID: 2737749927362952216
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: canestro_1
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 395
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 129ccc525f94487e0800000000000000
+      internalID: -1764203836772398815
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: canestro_2
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 395
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e0116d63869cb02d0800000000000000
+      internalID: -3311331651567087346
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: canestro_3
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 379
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ab29f81d8097d9410800000000000000
+      internalID: 1485476530884678330
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: canestro_4
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 379
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8f8378648abd81da0800000000000000
+      internalID: -5973783389922707208
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: canestro_5
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 363
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 41b79fad914729c60800000000000000
+      internalID: 7823443157092760340
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: canestro_6
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 363
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a5da3e27d5b19be50800000000000000
+      internalID: 6825516798430129498
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: canestro_7
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 347
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 91d22444e6c480050800000000000000
+      internalID: 5766943359323221273
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: canestro_8
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 347
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 075fc55c7ecdacfa0800000000000000
+      internalID: -5779564283769850512
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: porta_palestra_aperta1
+      rect:
+        serializedVersion: 2
+        x: 234
+        y: 261
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c1c5b9192ae6fc260800000000000000
+      internalID: 7120031180402678812
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: porta_palestra_aperta2
+      rect:
+        serializedVersion: 2
+        x: 250
+        y: 261
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ec4b9e75cb355f960800000000000000
+      internalID: 7635100811670435022
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
