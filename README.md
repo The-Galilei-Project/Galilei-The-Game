@@ -10,7 +10,7 @@
     <a href="https://github.com/The-Galilei-Project/Galilei-The-Game/graphs/contributors"> 
         <img alt="GitHub contributors" src="https://img.shields.io/github/contributors/The-Galilei-Project/Galilei-The-Game">
     </a>
-    <img alt="GitHub contributors" src="https://img.shields.io/github/languages/top/The-Galilei-Project/Galilei-The-Game?color=green">
+    <img alt="GitHub contributors" src="https://img.shields.io/github/languages/top/The-Galilei-Project/Galilei-The-Game">
 </p>
 
 Galilei: The Game è un progetto creato dagli studenti della scuola secondaria di secondo grado IISS Galileo Galilei di Ostiglia (MN).
