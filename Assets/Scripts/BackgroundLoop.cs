@@ -4,9 +4,9 @@ using UnityEngine;
 
 public class BackgroundLoop : MonoBehaviour
 {
-    float velocity = -200;
-    float startPosition = 1245f;
-    float endPosition = -500f;
+    float velocity = -2;
+    float startPosition = 13.50f;
+    float endPosition = -13.75f;
 
     void Update()
     {

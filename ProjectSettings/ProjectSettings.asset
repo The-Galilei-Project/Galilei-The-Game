@@ -471,7 +471,9 @@ PlayerSettings:
   switchPlayerConnectionEnabled: 1
   switchUseNewStyleFilepaths: 0
   switchUseMicroSleepForYield: 1
+  switchEnableRamDiskSupport: 0
   switchMicroSleepForYieldTime: 25
+  switchRamDiskSpaceSize: 12
   ps4NPAgeRating: 12
   ps4NPTitleSecret: 
   ps4NPTrophyPackPath: 
@@ -644,8 +646,9 @@ PlayerSettings:
   cloudServicesEnabled:
     Analytics: 0
     Build: 0
-    Collab: 1
+    Collab: 0
     Game Performance: 0
+    Legacy Analytics: 0
     Purchasing: 0
     UDP: 0
     Unity Ads: 0
@@ -662,11 +665,11 @@ PlayerSettings:
     m_VersionName: 
   apiCompatibilityLevel: 6
   activeInputHandler: 0
-  cloudProjectId: b47d50d4-c9c7-42ad-90f0-f18ea5f5ff04
+  cloudProjectId: 9af31424-dfdd-4f13-a06e-fc4205116395
   framebufferDepthMemorylessMode: 0
   qualitySettingsNames: []
-  projectName: Progetto_Informatica
-  organizationId: provadirpg
+  projectName: GREG
+  organizationId: unity_f8f17c2d4226b2b22dae
   cloudEnabled: 0
   legacyClampBlendShapeWeights: 0
   virtualTexturingSupportEnabled: 0

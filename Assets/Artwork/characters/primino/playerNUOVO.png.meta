@@ -122,8 +122,11 @@ TextureImporter:
   - first:
       213: -4954011656894315859
     second: playerNUOVO_39
+  - first:
+      213: 8732891292130540451
+    second: playerNUOVO_40
   externalObjects: {}
-  serializedVersion: 11
+  serializedVersion: 12
   mipmaps:
     mipMapMode: 0
     enableMipMap: 0
@@ -144,6 +147,7 @@ TextureImporter:
   streamingMipmaps: 0
   streamingMipmapsPriority: 0
   vTOnly: 0
+  ignoreMasterTextureLimit: 0
   grayScaleToAlpha: 0
   generateCubemap: 6
   cubemapConvolution: 0
@@ -182,6 +186,7 @@ TextureImporter:
   textureFormatSet: 0
   ignorePngGamma: 0
   applyGammaDecoding: 0
+  cookieLightType: 1
   platformSettings:
   - serializedVersion: 3
     buildTarget: DefaultTexturePlatform
@@ -197,6 +202,18 @@ TextureImporter:
     forceMaximumCompressionQuality_BC6H_BC7: 0
   - serializedVersion: 3
     buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
     maxTextureSize: 2048
     resizeAlgorithm: 0
     textureFormat: -1
@@ -1050,6 +1067,27 @@ TextureImporter:
       indices: 
       edges: []
       weights: []
+    - serializedVersion: 2
+      name: playerNUOVO_40
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 154
+        width: 17
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 1, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3abfa818c56713970800000000000000
+      internalID: 8732891292130540451
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     outline: []
     physicsShape: []
     bones: []
@@ -1060,6 +1098,48 @@ TextureImporter:
     edges: []
     weights: []
     secondaryTextures: []
+    nameFileIdTable:
+      playerNUOVO_28: 6771688494716928371
+      playerNUOVO_29: 4737010265677096590
+      playerNUOVO_30: -2739802989427554542
+      playerNUOVO_31: -870045682367304439
+      playerNUOVO_32: -1980275656185833480
+      playerNUOVO_33: -3754776949202184160
+      playerNUOVO_34: -6668090066622231271
+      playerNUOVO_35: 3100208286604941474
+      playerNUOVO_36: -9001978482420009206
+      playerNUOVO_37: 5999285997863986542
+      playerNUOVO_38: 8299919170256306245
+      playerNUOVO_39: -4954011656894315859
+      playerNUOVO_40: 8732891292130540451
+      player_idle_down: 3312069043786697031
+      player_idle_left: -8482748290149039828
+      player_idle_right: -4593469229865343718
+      player_idle_top: -9058727078706024414
+      player_walk_down_0: -6114780132521444980
+      player_walk_down_1: -800698873067445609
+      player_walk_down_2: 6054820696870531256
+      player_walk_down_3: 6856929611557993071
+      player_walk_down_4: 3566005884436362079
+      player_walk_down_5: -5519224326614648979
+      player_walk_left_0: -7298327380062668530
+      player_walk_left_1: -8870357194423662628
+      player_walk_left_2: 3312510828202304281
+      player_walk_left_3: 8139258775448346507
+      player_walk_left_4: -7738951853440074546
+      player_walk_left_5: 2260271857264375130
+      player_walk_right_0: 7667613094023386439
+      player_walk_right_1: 218974476172844442
+      player_walk_right_2: -4563251023045618020
+      player_walk_right_3: -7479651547012433323
+      player_walk_right_4: -7856709524936449331
+      player_walk_right_5: -7261894388264467515
+      player_walk_top_0: 5961328219540438954
+      player_walk_top_1: 7773285939745002912
+      player_walk_top_2: -256736207011718616
+      player_walk_top_3: 136271284686175696
+      player_walk_top_4: 8422126242845062337
+      player_walk_top_5: 8579317747795088467
   spritePackingTag: 
   pSDRemoveMatte: 0
   pSDShowRemoveMatteOption: 0

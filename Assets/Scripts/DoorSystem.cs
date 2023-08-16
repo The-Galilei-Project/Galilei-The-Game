@@ -7,7 +7,7 @@ public class DoorSystem : MonoBehaviour
     private SpriteRenderer current;
 
 
-    private void Awake()
+    private void Start()
     {
         current = GetComponent<SpriteRenderer>();
     }
