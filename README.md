@@ -1,6 +1,6 @@
 ﻿<p align="center">
     <img width="100px" src="https://raw.githubusercontent.com/The-Galilei-Project/Galilei-The-Game/main/Assets/Artwork/galilei-the-game-logo.jpg?raw=true"/>
-    <h2 align="center">Galilei: The Game</h2>
+    <h1 align="center">Galilei: The Game</h1>
 </p>
 
 <p align="center">
@@ -10,10 +10,6 @@
     <a href="https://opensource.org/license/mit/"> 
         <img src="https://img.shields.io/github/license/The-Galilei-Project/Galilei-The-Game" alt=""> 
     </a>
-</p>
-
-<p  align="center"  style="margin: 100px">
-    <img  src="https://raw.githubusercontent.com/The-Galilei-Project/Galilei-The-Game/main/Assets/Artwork/Menu/galilei-the-game-title.png?raw=true"/>
 </p>
 
 Galilei: The Game è un progetto creato dagli studenti della scuola secondaria di secondo grado IISS Galileo Galilei di Ostiglia (MN).
@@ -30,9 +26,9 @@ Lo scopo del progetto era sviluppare un gioco in 8-bit che potesse dare l'opport
 
 ##  Strumenti Utilizzati
 
-[<img class="img-fluid" src="https://assets.stickpng.com/images/62e131b97fe3599fdd46ecb1.png" width="17%" style="margin: 0; padding: 0;">](https://unity.com/)&nbsp;&nbsp;&nbsp;&nbsp;
-[<img class="img-fluid" src="https://visualstudio.microsoft.com/wp-content/uploads/2021/10/Product-Icon.svg" width="15%">](https://visualstudio.microsoft.com/)&nbsp;&nbsp;&nbsp;&nbsp;
-[<img class="img-fluid" src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/The_GIMP_icon_-_gnome.svg/1024px-The_GIMP_icon_-_gnome.svg.png" width="15%">](https://www.gimp.org/)&nbsp;&nbsp;&nbsp;&nbsp;
+[<img class="img-fluid" width="100px" src="https://cdn-icons-png.flaticon.com/512/5969/5969294.png" width="17%" style="margin: 0; padding: 0;">](https://unity.com/)&nbsp;&nbsp;&nbsp;&nbsp;
+[<img class="img-fluid" width="100px" src="https://visualstudio.microsoft.com/wp-content/uploads/2021/10/Product-Icon.svg" width="15%">](https://visualstudio.microsoft.com/)&nbsp;&nbsp;&nbsp;&nbsp;
+[<img class="img-fluid" width="100px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/The_GIMP_icon_-_gnome.svg/1024px-The_GIMP_icon_-_gnome.svg.png" width="15%">](https://www.gimp.org/)&nbsp;&nbsp;&nbsp;&nbsp;
 
 ##  Contributors
 
