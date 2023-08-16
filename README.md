@@ -1,5 +1,5 @@
 ﻿<p align="center">
-    <img width="100px" src="https://raw.githubusercontent.com/The-Galilei-Project/Galilei-The-Game/main/Assets/Artwork/galilei-the-game-logo.png?raw=true"/>
+    <img width="100px" src="https://raw.githubusercontent.com/The-Galilei-Project/Galilei-The-Game/main/Assets/Artwork/galilei-the-game-logo.jpg?raw=true"/>
     <h2 align="center">Galilei: The Game</h2>
 </p>
 
