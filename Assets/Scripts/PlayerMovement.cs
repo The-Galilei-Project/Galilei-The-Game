@@ -9,7 +9,7 @@ public class PlayerMovement : MonoBehaviour
     private float speed;
     private bool isMove;
     private int speedBoost = 0;
-    public float shiftDownSpeed = 2f;
+    public float shiftDownSpeed;
 
     Vector2 oldPos;
 
@@ -35,22 +35,17 @@ public class PlayerMovement : MonoBehaviour
             speedBoost = 0;
         }
 
-        if (speedBoost == 1)
-        {
-            x = Input.GetAxisRaw("Horizontal") * shiftDownSpeed;
-            y = Input.GetAxisRaw("Vertical") * shiftDownSpeed;
-        }
-        else
-        {
-            x = Input.GetAxisRaw("Horizontal");
-            y = Input.GetAxisRaw("Vertical");
-        }
+        x = Input.GetAxisRaw("Horizontal");
+        y = Input.GetAxisRaw("Vertical");
     }
 
     private void FixedUpdate()
     {
         // reset moveDelta
-        moveDelta = new Vector2(x, y);
+        if (Input.GetAxisRaw("Horizontal") != 0 && Input.GetAxisRaw("Vertical") != 0)
+            moveDelta = new Vector2(x, y).normalized;
+        else
+            moveDelta = new Vector2(x, y);
 
         this.Move();
         this.Animate();
@@ -58,6 +53,17 @@ public class PlayerMovement : MonoBehaviour
 
     private void Move()
     {
+        if (speedBoost == 1)
+        {
+            moveDelta.x *= shiftDownSpeed;
+            moveDelta.y *= shiftDownSpeed;
+        }
+        if ((moveDelta.x == 1 || moveDelta.x == -1) && (moveDelta.y == 1 || moveDelta.y == -1))
+        {
+            moveDelta.x *= (float)0.5;
+            moveDelta.y *= (float)0.5;
+        }
+
         rb.velocity = moveDelta * speed;
     }
 

@@ -14,7 +14,7 @@ public class Dialogue : MonoBehaviour
     // serve per il pop-up di interazione
     public bool isActive;
 
-    // serve per sapere se un dialogo è aperto
+    // serve per sapere se un dialogo ï¿½ aperto
     public bool isPlaying;
 
     private Vector2 playerPosition;
@@ -22,7 +22,7 @@ public class Dialogue : MonoBehaviour
 
     /**<summary>
      *  serve per trasformare l'array di stringe in una coda,
-     *  che potrà essere utilizzata dal DialogueManager
+     *  che potrï¿½ essere utilizzata dal DialogueManager
      * </summary>
      */
 
@@ -44,6 +44,7 @@ public class Dialogue : MonoBehaviour
 
         return result;
     }
+
 
     private void Update()
     {

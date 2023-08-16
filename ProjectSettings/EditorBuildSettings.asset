@@ -18,15 +18,18 @@ EditorBuildSettings:
     path: Assets/Scenes/Atrio.unity
     guid: f630abac36f24224693c16dcc9e966bd
   - enabled: 1
-    path: Assets/Scenes/Primo_piano.unity
+    path: Assets/Scenes/IISS_pianoUno.unity
     guid: e2684e6cf7fd5d74294958f84beeb50a
   - enabled: 1
-    path: Assets/Scenes/Secondo_piano.unity
+    path: Assets/Scenes/IISS_pianoDue.unity
     guid: 403f806db415d4741829a1387957fa43
   - enabled: 1
-    path: Assets/Scenes/Piano_terra_liceo.unity
+    path: Assets/Scenes/IISS_Secret_room.unity
+    guid: c7ebc463473126b44b7516f12a17adfa
+  - enabled: 1
+    path: Assets/Scenes/Liceo_pianoTerra.unity
     guid: b444af3ace23e5f1d8e9a784d9465401
   - enabled: 1
-    path: Assets/Scenes/Secret_room1.unity
-    guid: c7ebc463473126b44b7516f12a17adfa
+    path: Assets/Scenes/Liceo_pianoMenoUno.unity
+    guid: 3882996277bd91442b455760ad0f6034
   m_configObjects: {}

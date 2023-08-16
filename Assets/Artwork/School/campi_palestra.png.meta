@@ -390,7 +390,7 @@ TextureImporter:
       213: 6742302144628558080
     second: pavimento_ombra
   externalObjects: {}
-  serializedVersion: 12
+  serializedVersion: 11
   mipmaps:
     mipMapMode: 0
     enableMipMap: 0
@@ -411,7 +411,6 @@ TextureImporter:
   streamingMipmaps: 0
   streamingMipmapsPriority: 0
   vTOnly: 0
-  ignoreMasterTextureLimit: 0
   grayScaleToAlpha: 0
   generateCubemap: 6
   cubemapConvolution: 0
@@ -450,7 +449,6 @@ TextureImporter:
   textureFormatSet: 0
   ignorePngGamma: 0
   applyGammaDecoding: 0
-  cookieLightType: 1
   platformSettings:
   - serializedVersion: 3
     buildTarget: DefaultTexturePlatform
@@ -478,18 +476,6 @@ TextureImporter:
     forceMaximumCompressionQuality_BC6H_BC7: 0
   - serializedVersion: 3
     buildTarget: WebGL
-    maxTextureSize: 2048
-    resizeAlgorithm: 0
-    textureFormat: -1
-    textureCompression: 0
-    compressionQuality: 50
-    crunchedCompression: 0
-    allowsAlphaSplitting: 0
-    overridden: 0
-    androidETC2FallbackOverride: 0
-    forceMaximumCompressionQuality_BC6H_BC7: 0
-  - serializedVersion: 3
-    buildTarget: Server
     maxTextureSize: 2048
     resizeAlgorithm: 0
     textureFormat: -1
@@ -708,7 +694,7 @@ TextureImporter:
       tessellationDetail: 0
       bones: []
       spriteID: 571c89af821b34670800000000000000
-      internalID: 4783635524684662698
+      internalID: 8521849709476233589
       vertices: []
       indices: 
       edges: []
@@ -729,7 +715,7 @@ TextureImporter:
       tessellationDetail: 0
       bones: []
       spriteID: 72c6ae10fa3e21390800000000000000
-      internalID: 7582603638261596246
+      internalID: -7848960859762430937
       vertices: []
       indices: 
       edges: []
@@ -750,7 +736,7 @@ TextureImporter:
       tessellationDetail: 0
       bones: []
       spriteID: c17fd1362aab549d0800000000000000
-      internalID: 1108879791689841232
+      internalID: -2790619187475777764
       vertices: []
       indices: 
       edges: []
@@ -771,7 +757,7 @@ TextureImporter:
       tessellationDetail: 0
       bones: []
       spriteID: cb5e97c10aa812560800000000000000
-      internalID: -5056307552671506854
+      internalID: 7287258092339324348
       vertices: []
       indices: 
       edges: []
@@ -792,7 +778,7 @@ TextureImporter:
       tessellationDetail: 0
       bones: []
       spriteID: 0c92e94e347ad1fc0800000000000000
-      internalID: -2475821297542616916
+      internalID: -3522475423493641792
       vertices: []
       indices: 
       edges: []
@@ -813,7 +799,7 @@ TextureImporter:
       tessellationDetail: 0
       bones: []
       spriteID: b54672793e3b8c2e0800000000000000
-      internalID: -3025258608787275204
+      internalID: -2105235035720817573
       vertices: []
       indices: 
       edges: []
@@ -834,7 +820,7 @@ TextureImporter:
       tessellationDetail: 0
       bones: []
       spriteID: 1419f3510f5f6c730800000000000000
-      internalID: -3765438036424893787
+      internalID: 4019170128972190017
       vertices: []
       indices: 
       edges: []
@@ -855,7 +841,7 @@ TextureImporter:
       tessellationDetail: 0
       bones: []
       spriteID: 08508414402d7eb70800000000000000
-      internalID: 8122101322306506393
+      internalID: 8928335702002238848
       vertices: []
       indices: 
       edges: []
@@ -876,7 +862,7 @@ TextureImporter:
       tessellationDetail: 0
       bones: []
       spriteID: 74c164b7892c16340800000000000000
-      internalID: 4719297917528062509
+      internalID: 4855375833441115207
       vertices: []
       indices: 
       edges: []
@@ -897,7 +883,7 @@ TextureImporter:
       tessellationDetail: 0
       bones: []
       spriteID: 21a0d310d5aca51a0800000000000000
-      internalID: -1058325315365050613
+      internalID: -6819916184897648110
       vertices: []
       indices: 
       edges: []
@@ -918,7 +904,7 @@ TextureImporter:
       tessellationDetail: 0
       bones: []
       spriteID: 3725bb7612b74c0d0800000000000000
-      internalID: -5560666294139670855
+      internalID: -3403460034980785549
       vertices: []
       indices: 
       edges: []
@@ -939,7 +925,7 @@ TextureImporter:
       tessellationDetail: 0
       bones: []
       spriteID: a59e3b906d7d14840800000000000000
-      internalID: 5356200864270889316
+      internalID: 5206679958502762842
       vertices: []
       indices: 
       edges: []
@@ -960,7 +946,7 @@ TextureImporter:
       tessellationDetail: 0
       bones: []
       spriteID: 3fe9fadca5ca1eba0800000000000000
-      internalID: 2044041129144136448
+      internalID: -6061374117466104077
       vertices: []
       indices: 
       edges: []
@@ -981,7 +967,7 @@ TextureImporter:
       tessellationDetail: 0
       bones: []
       spriteID: 8cca0c21185882660800000000000000
-      internalID: 8965220802129231016
+      internalID: 7361280380348968136
       vertices: []
       indices: 
       edges: []
@@ -1002,7 +988,7 @@ TextureImporter:
       tessellationDetail: 0
       bones: []
       spriteID: 22d346ebb16d51210800000000000000
-      internalID: 4069987743438210678
+      internalID: 1303183081840327970
       vertices: []
       indices: 
       edges: []
@@ -1023,7 +1009,7 @@ TextureImporter:
       tessellationDetail: 0
       bones: []
       spriteID: 35e88146dcde72d90800000000000000
-      internalID: 623111724189674014
+      internalID: -7122462819259740589
       vertices: []
       indices: 
       edges: []
@@ -1044,7 +1030,7 @@ TextureImporter:
       tessellationDetail: 0
       bones: []
       spriteID: 4525e699ee91f1720800000000000000
-      internalID: -4732913461378225099
+      internalID: 2819000404324274772
       vertices: []
       indices: 
       edges: []
@@ -3600,154 +3586,6 @@ TextureImporter:
     edges: []
     weights: []
     secondaryTextures: []
-    nameFileIdTable:
-      angolo_pal_dx_b: -8727748519305167488
-      campi_palestra_142: -693383038797854120
-      campi_palestra_27: 6037887174302667875
-      campo_0_: -3295902851323667030
-      campo_0_0: -6301393735859507461
-      campo_0_2: -4900337038898719423
-      campo_0_3: 1900541873147803497
-      campo_0_4: 4783635524684662698
-      campo_0_5: 7582603638261596246
-      campo_0_6: 1108879791689841232
-      campo_0_7: -3183639440758659624
-      campo_0_8: -5056307552671506854
-      campo_10_0: -6553471626097368832
-      campo_10_1: -3930885886729950009
-      campo_10_2: 7363287938963059940
-      campo_10_3: -4068570102247428928
-      campo_11_0: -7539784747377911525
-      campo_11_1: -4257751143787185931
-      campo_11_2: -6467704402518870706
-      campo_11_3: -4802973985548624339
-      campo_11_4: 3053142612224094628
-      campo_12_0: -4973763236542588708
-      campo_12_1: 2082267806863335378
-      campo_12_2: 582661509278522777
-      campo_12_3: -2207654026838642586
-      campo_12_4: 8298600466907381254
-      campo_13_0: 8646326223990735027
-      campo_13_1: -6589557850614903606
-      campo_13_2: 1614743541770766349
-      campo_13_3: -2811404804346290948
-      campo_14_0: -7645133057955349610
-      campo_14_1: -5299124455217246020
-      campo_14_2: 3962075954374639732
-      campo_14_3: 3830362645934326618
-      campo_14_4: 7781326081928851302
-      campo_14_5: 5597148649735139948
-      campo_15_0: -1442182473161262019
-      campo_15_1: -8455825681066701716
-      campo_15_2: 7903973144216165183
-      campo_15_3: -3730857478025893019
-      campo_15_4: -1597895120375058492
-      campo_15_5: -1189821715874175082
-      campo_15_6: -5204661774379325846
-      campo_15_7: 7672746553387018592
-      campo_15_8: 5952557309978835190
-      campo_16_0: -7741722364231139528
-      campo_16_1: 767142196809332954
-      campo_16_2: -3218823905049485184
-      campo_16_3: -491194142248062670
-      campo_16_4: 4462714737597581405
-      campo_16_5: -8014541348387447094
-      campo_16_6: 4130139515601693293
-      campo_16_7: -3731059953941504994
-      campo_16_8: -8381817892390417013
-      campo_17_0: -6375445527587961959
-      campo_17_1: 2364581913604159745
-      campo_17_10: -2862028386599044694
-      campo_17_2: 8169551984375452544
-      campo_17_3: -8956367278591092550
-      campo_17_4: 1851606990573779448
-      campo_17_5: -5969384721990822805
-      campo_17_6: -7914733097805250405
-      campo_17_7: 4120964101827386501
-      campo_17_8: 8772835966499633171
-      campo_17_9: 7822463031304842845
-      campo_18_0: 4239474567736439477
-      campo_18_1: -3073384935695393847
-      campo_18_2: 5369744919249676272
-      campo_19_0: -7459911757192242231
-      campo_19_1: -7433412650540831538
-      campo_19_2: -8286157550618095455
-      campo_19_3: -1657252928926801547
-      campo_1_0: -2475821297542616916
-      campo_1_1: -3025258608787275204
-      campo_1_2: -3765438036424893787
-      campo_1_3: 8122101322306506393
-      campo_1_4: 4719297917528062509
-      campo_1_5: -1058325315365050613
-      campo_1_6: -5560666294139670855
-      campo_1_7: 5356200864270889316
-      campo_20_0: 4329690064062152720
-      campo_20_1: -6618766276415468022
-      campo_20_2: 8876674152495137143
-      campo_20_3: -8985786413210815709
-      campo_20_4: 7778005012449653046
-      campo_20_5: 6321090608798971620
-      campo_20_6: -9021934537545652980
-      campo_20_7: 1296293055027919519
-      campo_20_8: 2438584876809560756
-      campo_21_0: -3145351521170588913
-      campo_21_1: 2365860690357043401
-      campo_21_2: 3248712573828513089
-      campo_21_3: 4461699757429254520
-      campo_21_4: 8885792723414062223
-      campo_21_5: -8922471217695477811
-      campo_2_0: 2044041129144136448
-      campo_2_1: 8965220802129231016
-      campo_2_2: 4069987743438210678
-      campo_2_3: 623111724189674014
-      campo_3_0: -4732913461378225099
-      campo_3_1: 2696690977261558894
-      campo_4_0: 7037765513499549872
-      campo_4_1: -3887283128880484394
-      campo_4_10: -2107088925636144336
-      campo_4_2: 1768263621477864888
-      campo_4_3: -6867979269958056512
-      campo_4_4: 3530763317642678502
-      campo_4_5: -355668714249301012
-      campo_4_6: -7856912463791491730
-      campo_4_7: -922402466860030167
-      campo_4_8: 2107456138945385792
-      campo_4_9: 1794414016180295041
-      campo_5_0: -3658816566212382924
-      campo_5_1: 5004436619266148342
-      campo_5_10: 1464366994436161822
-      campo_5_2: -8470280438746229307
-      campo_5_3: 1781152628751093582
-      campo_5_4: -390172797336521210
-      campo_5_5: -2008921255918663048
-      campo_5_6: 6982466481527746882
-      campo_5_7: -4314631902563523259
-      campo_5_8: -1021395040178919697
-      campo_5_9: -8433674930713355970
-      campo_6_0: -8389744903824175850
-      campo_6_1: -6762233643894659199
-      campo_6_2: 5682436489601217059
-      campo_6_3: 6888328154062909314
-      campo_6_4: 3038833803244235175
-      campo_6_5: -6856336757717543162
-      campo_6_6: -1687914585343190433
-      campo_6_7: 3388292818947115958
-      campo_7_0: 3638224128666397652
-      campo_7_1: -1386269167616010987
-      campo_7_2: -6305600886390230347
-      campo_7_3: 6730507237841410292
-      campo_7_4: 5813432803074683628
-      campo_7_5: 6053318428560831949
-      campo_8_0: -742895226787544047
-      campo_8_1: 1014841506890956713
-      campo_8_2: 4493788044513942911
-      campo_9_0: -3368869753276865347
-      campo_9_1: -7603551803819604762
-      campo_9_2: 6539188371481571931
-      pavimento_lo_s: -5446395203008085093
-      pavimento_o_as: -4658296614223615346
-      pavimento_o_su: 5731657728522379604
-      pavimento_ombra: 6742302144628558080
   spritePackingTag: 
   pSDRemoveMatte: 0
   pSDShowRemoveMatteOption: 0

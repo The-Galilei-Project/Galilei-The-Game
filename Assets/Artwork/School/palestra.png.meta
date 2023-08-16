@@ -180,7 +180,7 @@ TextureImporter:
       213: 7635100811670435022
     second: porta_palestra_aperta2
   externalObjects: {}
-  serializedVersion: 12
+  serializedVersion: 11
   mipmaps:
     mipMapMode: 0
     enableMipMap: 0
@@ -201,7 +201,6 @@ TextureImporter:
   streamingMipmaps: 0
   streamingMipmapsPriority: 0
   vTOnly: 0
-  ignoreMasterTextureLimit: 0
   grayScaleToAlpha: 0
   generateCubemap: 6
   cubemapConvolution: 0
@@ -240,7 +239,6 @@ TextureImporter:
   textureFormatSet: 0
   ignorePngGamma: 0
   applyGammaDecoding: 0
-  cookieLightType: 1
   platformSettings:
   - serializedVersion: 3
     buildTarget: DefaultTexturePlatform
@@ -268,18 +266,6 @@ TextureImporter:
     forceMaximumCompressionQuality_BC6H_BC7: 0
   - serializedVersion: 3
     buildTarget: WebGL
-    maxTextureSize: 2048
-    resizeAlgorithm: 0
-    textureFormat: -1
-    textureCompression: 0
-    compressionQuality: 50
-    crunchedCompression: 0
-    allowsAlphaSplitting: 0
-    overridden: 0
-    androidETC2FallbackOverride: 0
-    forceMaximumCompressionQuality_BC6H_BC7: 0
-  - serializedVersion: 3
-    buildTarget: Server
     maxTextureSize: 2048
     resizeAlgorithm: 0
     textureFormat: -1
@@ -792,7 +778,7 @@ TextureImporter:
       tessellationDetail: 0
       bones: []
       spriteID: 8b9c1ed9fafb9aea0800000000000000
-      internalID: -548877367849616605
+      internalID: -5860942679056987720
       vertices: []
       indices: 
       edges: []
@@ -813,7 +799,7 @@ TextureImporter:
       tessellationDetail: 0
       bones: []
       spriteID: 6d25fc5a7ae66fec0800000000000000
-      internalID: -5262676686438872592
+      internalID: -3533515191305153834
       vertices: []
       indices: 
       edges: []
@@ -834,7 +820,7 @@ TextureImporter:
       tessellationDetail: 0
       bones: []
       spriteID: 8da64b529a3739830800000000000000
-      internalID: -8781834790371040464
+      internalID: 4076729258019678936
       vertices: []
       indices: 
       edges: []
@@ -855,7 +841,7 @@ TextureImporter:
       tessellationDetail: 0
       bones: []
       spriteID: 5998d466e94c96ce0800000000000000
-      internalID: -3448517075131317808
+      internalID: -1411380823603705451
       vertices: []
       indices: 
       edges: []
@@ -1626,70 +1612,6 @@ TextureImporter:
     edges: []
     weights: []
     secondaryTextures: []
-    nameFileIdTable:
-      canestro-dietro-d0: 4997226102390560282
-      canestro-dietro-d1: 829104137053197063
-      canestro-dietro-d2: 2737749927362952216
-      canestro-dietro-s0: 1887045243778957532
-      canestro-dietro-s1: 1174739588193166353
-      canestro-dietro-s2: 2763102994387731062
-      canestro_1: -1764203836772398815
-      canestro_2: -3311331651567087346
-      canestro_3: 1485476530884678330
-      canestro_4: -5973783389922707208
-      canestro_5: 7823443157092760340
-      canestro_6: 6825516798430129498
-      canestro_7: 5766943359323221273
-      canestro_8: -5779564283769850512
-      finestra_pal 0: 6875085651680130973
-      finestra_pal 1: 1323307282853800857
-      finestra_pal 2: 2250570093239660455
-      materasso_0: -2061108709397902635
-      materasso_1: -7577582260337848511
-      materasso_2: 5577180657727275042
-      materasso_3: 4738100881185510806
-      materasso_4: 1265085571959118012
-      materasso_5: -7910368714612223153
-      muro_dx_0: 5740453140869645842
-      muro_dx_1: 1032032690571643107
-      muro_dx_2: 8672353922072747351
-      muro_dx_3: -7232698902892338193
-      muro_sx_0: -1104920470625209107
-      muro_sx_1: -3673065944748233948
-      muro_sx_2: 6555195370236913131
-      muro_sx_3: 8530397331733949724
-      palestra_15: -5604234364801318026
-      palestra_dx: 7437276345348421613
-      palestra_front_0: 6972026461487647321
-      palestra_front_1: -2808596832870135934
-      palestra_front_2: -5844269770304932645
-      palestra_sx: 1765153445057708137
-      porta_palestra_aperta1: 7120031180402678812
-      porta_palestra_aperta2: 7635100811670435022
-      qsr0-0: -5262676686438872592
-      qsr0-1: -8781834790371040464
-      qsr0-2: -3448517075131317808
-      qsr0-3: -548877367849616605
-      qsr0-4: -1528204486598782457
-      qsr0-5: -4203207842740364844
-      qsr1-0: 6933754151064251321
-      qsr1-1: 1165717648618265320
-      qsr1-2: 7099525312301749228
-      qsr1-3: -2599689002157652704
-      qsr1-4: 9040517186126632844
-      qsr1-5: -6388960148108459952
-      qsr2-0: 897541596512823301
-      qsr2-1: 532900840960210861
-      qsr2-2: 1792735013707072605
-      qsr2-3: 6244285491911318240
-      qsr2-4: -5912207096108302202
-      qsr2-5: 3198151742550744188
-      qsr3-0: -5643926117745010357
-      qsr3-1: 980131812366489168
-      qsr3-2: 4354590526828663557
-      qsr3-3: 4205935412663336949
-      qsr3-4: -3402513063188310306
-      qsr3-5: -8690109632024291329
   spritePackingTag: 
   pSDRemoveMatte: 0
   pSDShowRemoveMatteOption: 0

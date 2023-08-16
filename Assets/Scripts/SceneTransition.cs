@@ -13,33 +13,36 @@ public class SceneTransition : MonoBehaviour
             // mi memorizzo Index della scena
             int indexFloor = SceneManager.GetActiveScene().buildIndex;
 
-            // se nell'opggetto contiene licero, vado a selezionare iil piano per quanto riguarda il liceo
+            //Debug.Log(name);
+
+            // se l'oggetto contiene liceo, vado a selezionare il piano per quanto riguarda il liceo
             // in caso contrario spostarsi sul piano dell'itis
-            if (!name.Contains("liceo")) // ramo non liceo
+            if (!name.Contains("Liceo")) // ramo non liceo
             {
                 if (name.Contains("up"))
                     indexFloor++;
                 else if (name.Contains("down"))
                     indexFloor--;
                 else if (name.Contains("dSP"))
-                    indexFloor=7;
+                    indexFloor = 6; // secret room
                 else if (name.Contains("uSP"))
-                    indexFloor=3;
+                    indexFloor = 3;
                 else if (name.Contains("menu"))
-                    indexFloor=0;
+                    indexFloor = 0;
             }
-            else // ramo lice 
+
+            else // ramo liceo
             {
-                indexFloor = 6;
-                if (name.Contains("up"))
-                    indexFloor++;
-                else if (name.Contains("down"))
-                    indexFloor--;
+                if (name.Contains("pianoTerra"))
+                    indexFloor = 7;
+                else if (name.Contains("pianoMenoUno"))
+                    indexFloor = 8;
             }
 
             if (name.Contains("ITI"))
                 indexFloor = 3;
 
+            Debug.Log(indexFloor);
 
             PlayerState.setPosition(initialPosition);
             LevelSystem.current.ChangeScene(indexFloor);
