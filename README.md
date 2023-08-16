@@ -4,12 +4,13 @@
 </p>
 
 <p align="center">
+    <a href="https://opensource.org/license/mit/"> 
+        <img src="https://img.shields.io/github/license/The-Galilei-Project/Galilei-The-Game?color=yellow" alt=""> 
+    </a>
     <a href="https://github.com/The-Galilei-Project/Galilei-The-Game/graphs/contributors"> 
         <img alt="GitHub contributors" src="https://img.shields.io/github/contributors/The-Galilei-Project/Galilei-The-Game">
     </a>
-    <a href="https://opensource.org/license/mit/"> 
-        <img src="https://img.shields.io/github/license/The-Galilei-Project/Galilei-The-Game" alt=""> 
-    </a>
+    <img alt="GitHub contributors" src="https://img.shields.io/github/languages/top/The-Galilei-Project/Galilei-The-Game?color=green">
 </p>
 
 Galilei: The Game è un progetto creato dagli studenti della scuola secondaria di secondo grado IISS Galileo Galilei di Ostiglia (MN).
