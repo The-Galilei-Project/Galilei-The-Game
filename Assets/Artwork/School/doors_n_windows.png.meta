@@ -138,7 +138,7 @@ TextureImporter:
       213: 4749257438693197166
     second: door_brown_right_close
   externalObjects: {}
-  serializedVersion: 11
+  serializedVersion: 12
   mipmaps:
     mipMapMode: 0
     enableMipMap: 0
@@ -159,6 +159,7 @@ TextureImporter:
   streamingMipmaps: 0
   streamingMipmapsPriority: 0
   vTOnly: 0
+  ignoreMasterTextureLimit: 0
   grayScaleToAlpha: 0
   generateCubemap: 6
   cubemapConvolution: 0
@@ -197,6 +198,7 @@ TextureImporter:
   textureFormatSet: 0
   ignorePngGamma: 0
   applyGammaDecoding: 0
+  cookieLightType: 1
   platformSettings:
   - serializedVersion: 3
     buildTarget: DefaultTexturePlatform
@@ -212,6 +214,18 @@ TextureImporter:
     forceMaximumCompressionQuality_BC6H_BC7: 0
   - serializedVersion: 3
     buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
     maxTextureSize: 2048
     resizeAlgorithm: 0
     textureFormat: -1
@@ -808,7 +822,7 @@ TextureImporter:
       tessellationDetail: 0
       bones: []
       spriteID: 617760763dbf40600800000000000000
-      internalID: 433748349519558422
+      internalID: 1876198086780805549
       vertices: []
       indices: 
       edges: []
@@ -1180,6 +1194,52 @@ TextureImporter:
     edges: []
     weights: []
     secondaryTextures: []
+    nameFileIdTable:
+      Porta_emergenza1: -2437508175588858173
+      Porta_emergenza2: 8213310957532874548
+      door_brown_lat_0: -1965260484754428274
+      door_brown_lat_1: 3920497846585879036
+      door_brown_left_0: 2724678343298630751
+      door_brown_left_1: 4479432949024882888
+      door_brown_left_close: -1030007334802734756
+      door_brown_left_open: -8083190934595661193
+      door_brown_right_0: 6609483125065025674
+      door_brown_right_1: -1819587109484320509
+      door_brown_right_close: 4749257438693197166
+      door_brown_right_open: 2735202800994032516
+      door_close_top_0: -7285698182125576292
+      door_close_top_1: 5858384203945538652
+      door_closed_0: 2813068599399484002
+      door_closed_1: -7312541844503028696
+      door_closed_LONG_0: -4982204227303039540
+      door_closed_LONG_1: 8888110631125169342
+      door_lat_sing_d_1: 9187171879002852099
+      door_lat_sing_dx_0: 8193337691955075637
+      door_lat_sing_sx_0: -8098954350033166484
+      door_lat_sing_sx_1: 1390625708111391725
+      door_open_top_0: 8802099252775069255
+      door_open_top_1: 8761313467689122138
+      door_tunnel_cosed_0: -3071119909176989897
+      door_tunnel_cosed_1: -2247410002230714476
+      door_tunnel_open_0: 7289354489394467729
+      door_tunnel_open_1: 7220049067039230218
+      door_window_0: 4493248301806539888
+      door_window_1: 1773377687062920107
+      door_windows_lat_doppia_0: -5729053468039356292
+      door_windows_lat_doppia_1: 1876198086780805549
+      door_windows_lat_sing_0: 4495393643598494072
+      door_windows_lat_sing_1: -7936541803107095062
+      porte_mistiche: -6948198005567371602
+      window_2x3_0: 2539714175003896466
+      window_2x3_1: 246666808462646722
+      window_2x3_2: 6780695996104797708
+      window_2x3_3: 1385607687800937249
+      window_2x3_lateral_left_0: 3015737309790146147
+      window_2x3_lateral_left_1: -6556665592613801213
+      window_2x3_lateral_left_2: -246396580993383448
+      window_2x3_lateral_right_0: -8843068887220059993
+      window_2x3_lateral_right_1: 6887700238322090309
+      window_2x3_lateral_right_2: -2794091644876510675
   spritePackingTag: 
   pSDRemoveMatte: 0
   pSDShowRemoveMatteOption: 0

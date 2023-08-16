@@ -843,7 +843,7 @@ TextureImporter:
       213: -8798202687796929696
     second: Banco-aulaprof-bug
   externalObjects: {}
-  serializedVersion: 11
+  serializedVersion: 12
   mipmaps:
     mipMapMode: 0
     enableMipMap: 0
@@ -864,6 +864,7 @@ TextureImporter:
   streamingMipmaps: 0
   streamingMipmapsPriority: 0
   vTOnly: 0
+  ignoreMasterTextureLimit: 0
   grayScaleToAlpha: 0
   generateCubemap: 6
   cubemapConvolution: 0
@@ -902,6 +903,7 @@ TextureImporter:
   textureFormatSet: 0
   ignorePngGamma: 0
   applyGammaDecoding: 0
+  cookieLightType: 1
   platformSettings:
   - serializedVersion: 3
     buildTarget: DefaultTexturePlatform
@@ -929,6 +931,18 @@ TextureImporter:
     forceMaximumCompressionQuality_BC6H_BC7: 0
   - serializedVersion: 3
     buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
     maxTextureSize: 2048
     resizeAlgorithm: 0
     textureFormat: -1
@@ -3499,7 +3513,7 @@ TextureImporter:
       tessellationDetail: 0
       bones: []
       spriteID: 48a1ad0f743a8ddc0800000000000000
-      internalID: -3613959171585992060
+      internalID: 4562820939466112678
       vertices: []
       indices: 
       edges: []
@@ -6832,6 +6846,287 @@ TextureImporter:
     edges: []
     weights: []
     secondaryTextures: []
+    nameFileIdTable:
+      Banco-aulaprof-bug: -8798202687796929696
+      Banco-corridoio-bug: -6343453647412860645
+      Banco-lab-bug: 5691884048149126167
+      BancoUnico: 4196893304822682943
+      Banco_prof1: 8649917772588057910
+      Banco_prof10: 7504427196747233729
+      Banco_prof11: 7513673094915044932
+      Banco_prof12: 3970385200567323655
+      Banco_prof2: -1563038698304687964
+      Banco_prof3: 8608737759433808546
+      Banco_prof4: 8726283277285834117
+      Banco_prof5: -6642164058375399695
+      Banco_prof6: -1951853437242807333
+      Banco_prof7: -1237140492498894162
+      Banco_prof8: -1209228346956036586
+      Banco_prof9: 1968142343647701885
+      Banco_verde1: -6329732443303335708
+      Banco_verde2: 9209597012581088779
+      Biblio_tavolo1: -4523081371198078495
+      Biblio_tavolo2: 3636966936116718786
+      Biblio_tavolo3: -2749326663100316575
+      Diagonale_lab1: -6291305014969329817
+      Diagonale_lab2: 2626199474145005299
+      Diagonale_lab3: -5493948206474801571
+      Lab_mobile1: 274987133594940316
+      Lab_mobile2: -3353373495294714833
+      Lim-1: 435501010547834469
+      Lim-10: -3713516904973747937
+      Lim-11: -7205037238349677287
+      Lim-12: 8035588709171301491
+      Lim-2: 6582494858839863690
+      Lim-3: -4700521743354063854
+      Lim-4: -802190439494246516
+      Lim-5: -6972169302260532213
+      Lim-6: -3686131688513597683
+      Lim-7: -429159088676858065
+      Lim-8: -8411179076372969481
+      Lim-9: 1754539553084311702
+      Postazione1: -7835054599742837730
+      Postazione10: -6892520217953797715
+      Postazione11: 1174946234436608692
+      Postazione12: -5286971968729292413
+      Postazione13: 7432948317346889496
+      Postazione14: -4650475890374060926
+      Postazione15: -6516312339376181235
+      Postazione16: 5527724892301187821
+      Postazione17: -6835436390128735801
+      Postazione18: -4995294514841350226
+      Postazione19: -5958419700782237731
+      Postazione2: 1850676208267557949
+      Postazione20: -9215451263629393706
+      Postazione21: -8304864663433722918
+      Postazione3: -7172923361775883828
+      Postazione4: -4202180995812371016
+      Postazione5: -570249288649358281
+      Postazione6: -3462010627748555383
+      Postazione7: -2502958151987204254
+      Postazione8: -891722144544626852
+      Postazione9: -5064337777156578230
+      angolo: 1569113766339998271
+      angolo_biblio_d: 3437376436770584098
+      angolo_biblio_s: 8748625700569325389
+      angolo_destra: 7713860437554957245
+      aula_insegnanti_1: 5673350943101618795
+      aula_insegnanti_2: 5717423220214753643
+      aula_insegnanti_3: 2559893992367711801
+      aula_insegnanti_4: -7270654930093504885
+      aula_insegnanti_5: -5034987198156558912
+      aula_insegnanti_6: -4585059847166097530
+      aula_insegnanti_7: 7149105454488624372
+      banco4_1: -6601719056455705753
+      banco4_2: 2850644847191508797
+      banco4_3: -1630118968593795120
+      banco4_4: 5108407630412976680
+      banco4_5: -2052383062539759844
+      banco4_6: 5776943283593901778
+      banco4_7: 8954761199411685857
+      banco4_8: -2810566602935132917
+      banco4_9: 270840628276271906
+      banco_liceo_1: 5930412464825955920
+      banco_liceo_2: 2391099047622632669
+      banco_liceo_3: 2348556022100225033
+      banco_liceo_4: 7289504774124169626
+      banco_liceo_5: 474247920978842819
+      banco_liceo_6: -5849388002521833738
+      banco_rotelle_1: 3625557768348209899
+      banco_rotelle_2: 1144030754667998545
+      banco_rotelle_3: -6902172111159446414
+      banco_rotelle_4: 5803924900336194095
+      banco_ruote_lato1: -2783541938971830950
+      banco_ruote_lato2: 7975598332451675077
+      bancone1: 614808807641476708
+      bancone10: -7484735212958142353
+      bancone11: -1783769413298820809
+      bancone12: -3578285005860611109
+      bancone2: -5605127764383335888
+      bancone3: 2133925761725868681
+      bancone4: -4865587019465688763
+      bancone5: 2643396613448459961
+      bancone6: -7286610150179757933
+      bancone7: 3745382161147151869
+      bancone8: 5439187212291622063
+      bancone9: -8150373319958675291
+      borsellino_diagonale_dx1: 2356266174008739776
+      borsellino_diagonale_dx2: -4095664401261466449
+      borsellino_diagonale_sx1: -181701904276416200
+      borsellino_diagonale_sx2: -8268341298226734903
+      borsellino_dx: -8356241590334262865
+      borsellino_sx: -3684066366360970521
+      colonna_1: -7724004477131598075
+      colonna_2: 4171289676540489601
+      colonna_3: 4800856269567853741
+      colonna_drittta: -1566316231327374155
+      corridoio_destra_1: -9091886251490580997
+      corridoio_destra_2: 599537958386812913
+      corridoio_destra_3: 2327754419172336445
+      corridoio_destra_4: 5921300299732100188
+      corridoio_destra_5: 382901340344542378
+      corridoio_obliquo1: -141471063578810757
+      corridoio_obliquo2: 320300111997658842
+      corridoio_obliquo3: -741659038267363204
+      finestra1: -3127089980410337094
+      finestra2: 1128961305372986954
+      finestra3: 319588789206159640
+      finestra4: 6194838257320894144
+      finestra5: 2375150445052688275
+      finestra6: -2560349917532000482
+      finestra7: 7325194245176963522
+      floor_black: -7716401968944693561
+      incrocio_info_lab1: -7117470512806546872
+      incrocio_info_lab2: 4647679703843430103
+      lab_diagonale_d1: 6468448616868272474
+      lab_diagonale_d2: 4252695845459349745
+      lab_diagonale_d3: -6348770917015628983
+      lab_dritto1: -7098701184846852785
+      lab_dritto2: -2718105040369464164
+      lab_dritto3: -5587418861279909988
+      libreria-1: 7744942675933100045
+      libreria-2: -3469586454642409911
+      libreria-v-1: -9097890359866661844
+      libreria-v-2: -2969236605179890390
+      libreria-v-3: 7285956142689844558
+      libreria-v-4: 6411975172683410793
+      liceo_0: 3977462197061299381
+      liceo_130: 6312255313703106874
+      liceo_2: -1968957894886268911
+      liceo_6: -8205896675961849489
+      liceo_84: -1912507788004299150
+      liceo_90: -5672940355931493104
+      lim1: 5800734996209710184
+      lim2: 8297607485083495769
+      lim3: 4230161934382580795
+      mixer1: 4241179724417613257
+      mixer2: -1280747597733369399
+      muro_Bib0: -2554942211317951147
+      muro_Bib04: -748574444858802180
+      muro_Bib1: 4562820939466112678
+      muro_Bib10: -4497872406661828714
+      muro_Bib11: -5864066934521687445
+      muro_Bib12: -3895588497916462211
+      muro_Bib13: -5680949404335432252
+      muro_Bib14: 275273121931774089
+      muro_Bib15: 2579321206017894988
+      muro_Bib16: 3735949612342351065
+      muro_Bib17: 4979030988790340875
+      muro_Bib18: 7173002423223584434
+      muro_Bib19: -5849761425314117181
+      muro_Bib2: -7275420204875774678
+      muro_Bib20: 8734298829096304786
+      muro_Bib21: -7677924297142763090
+      muro_Bib22: -5417678634776901071
+      muro_Bib23: -1464713342598623319
+      muro_Bib24: 5710731978366231588
+      muro_Bib25: 7704910393776096330
+      muro_Bib26: -8908463735729613628
+      muro_Bib27: 3001365913796290077
+      muro_Bib28: -2466906537516755524
+      muro_Bib29: 4210275228135609591
+      muro_Bib3: -7003059701191998919
+      muro_Bib30: 6264302958736879347
+      muro_Bib31: 6476096006909036901
+      muro_Bib32: 761224237554864936
+      muro_Bib33: -3302535091567758131
+      muro_Bib34: 5093572223078549115
+      muro_Bib35: -906126811574301315
+      muro_Bib36: -6156362016114610185
+      muro_Bib37: 7945717519432052829
+      muro_Bib38: 3300162739672871432
+      muro_Bib39: 6505097238428408194
+      muro_Bib40: -8802540965077821545
+      muro_Bib5: -794711173265872887
+      muro_Bib6: -6850175530403893544
+      muro_Bib7: -6299710824935840340
+      muro_Bib8: 8196912762195137442
+      muro_Bib9: -9155158645835266999
+      muro_angb0: 5981511129633191872
+      muro_angb1: -4657090142486514042
+      muro_angb2: 1796549294963442141
+      muro_angb3: -3361587911347395017
+      muro_angb4: -8456447846356741149
+      muro_bib_obliquo1: 7091863166719156243
+      muro_bib_obliquo2: -1604731008999485456
+      muro_borsellino_1: -2272300381357269450
+      muro_borsellino_2: 4526897172855384535
+      muro_corridoio_fab8: -1831281832508883599
+      muro_corridoio_fab9: -6108534223431584610
+      muro_corridoio_lab1: -1669924498035444835
+      muro_corridoio_lab2: 2007335864308341901
+      muro_corridoio_lab3: -5325562398964251950
+      muro_corridoio_lab4: -3353705898998284452
+      muro_corridoio_lab5: 4628378062524318625
+      muro_corridoio_lab6: 6442666899339087895
+      muro_corridoio_lab7: 8743057357569316474
+      muro_destra: -3691307351089812278
+      muro_entrata_fab1: 5817772150963448312
+      muro_entrata_fab2: -3980295699427825955
+      muro_entrata_fab3: 6364546207631235465
+      muro_entrata_fab4: 516358383642926037
+      muro_finestra_1: 2617004029196440146
+      muro_finestra_2: -2496438193429978767
+      muro_finestra_3: 9006709205343804148
+      muro_finestra_4: 7603352450624019857
+      muro_finestra_5: 1487959154125144350
+      muro_finestra_6: -2706022617005082512
+      muro_info_lab: -6725835659206917691
+      muro_infolab: 1658730259120237557
+      muro_interno_fab1: 2288589370507340067
+      muro_interno_fab2: 4337722200066458010
+      muro_interno_fab3: -8206512347964830293
+      muro_interno_fab4: -1227508165064690043
+      muro_liceo_scale1: -9185893131325324293
+      muro_liceo_scale2: 1154153929843694096
+      muro_prof1: -8843073832667191698
+      muro_prof2: 8799819646266891015
+      muro_segreteria1: 7978579228284591308
+      muro_segreteria10: -8178197466690700522
+      muro_segreteria11: -4347195283208832572
+      muro_segreteria12: 4167465394064433334
+      muro_segreteria13: 8162536152224212181
+      muro_segreteria14: 2286461398196209443
+      muro_segreteria15: -9159489841851776866
+      muro_segreteria16: 2321680585776841945
+      muro_segreteria17: 2649014593708199392
+      muro_segreteria18: -5403180297841988692
+      muro_segreteria19: 4985246067847649393
+      muro_segreteria2: 2210055752588333132
+      muro_segreteria20: 3508496468738704528
+      muro_segreteria21: 8914697897661566018
+      muro_segreteria22: 7808728639171503074
+      muro_segreteria23: 1164400457774763158
+      muro_segreteria24: -8147840058195101068
+      muro_segreteria25: 8014889070161131239
+      muro_segreteria3: 5593776287256393901
+      muro_segreteria4: 4438976385288318315
+      muro_segreteria5: 4119419382506123697
+      muro_segreteria6: -7298774002903237088
+      muro_segreteria7: 7208619204147161890
+      muro_segreteria8: -8836955679202677883
+      muro_segreteria9: -1057756479133718118
+      obliquo_biblio1: 9201272857356630152
+      obliquo_biblio2: 4974383348355907353
+      pavimento_freccia: -2050083810058392087
+      piastrella_segnaletica: 1914969373582163236
+      porta_biblio_1: 3839582142432193977
+      porta_biblio_1_aperta: -7282520187370524114
+      porta_biblio_2: 543062192726780951
+      porta_biblio_2_aperta: -5969497529166713784
+      porta_borsellino_close: 5147466693362666109
+      porta_borsellino_open: -7287109967765057020
+      porta_prof: 820536695474013702
+      porta_prof2: -2362264649853810469
+      server_1: 7218941826946939342
+      server_2: -1140067643036772589
+      server_3: -8104305573041414683
+      trave_centrale: 2787426507208018190
+      trave_destra: 3350382564089107776
+      trave_sinistra: -5019875139144961545
+      traversa_giu: 7543247560098836716
+      trofei_1: 8138297440078547639
+      trofei_2: -8253619673159068574
   spritePackingTag: 
   pSDRemoveMatte: 0
   pSDShowRemoveMatteOption: 0

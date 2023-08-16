@@ -348,7 +348,7 @@ TextureImporter:
       213: -5825034049849346876
     second: pavimento_palestra
   externalObjects: {}
-  serializedVersion: 11
+  serializedVersion: 12
   mipmaps:
     mipMapMode: 0
     enableMipMap: 0
@@ -369,6 +369,7 @@ TextureImporter:
   streamingMipmaps: 0
   streamingMipmapsPriority: 0
   vTOnly: 0
+  ignoreMasterTextureLimit: 0
   grayScaleToAlpha: 0
   generateCubemap: 6
   cubemapConvolution: 0
@@ -407,6 +408,7 @@ TextureImporter:
   textureFormatSet: 0
   ignorePngGamma: 0
   applyGammaDecoding: 0
+  cookieLightType: 1
   platformSettings:
   - serializedVersion: 3
     buildTarget: DefaultTexturePlatform
@@ -422,6 +424,18 @@ TextureImporter:
     forceMaximumCompressionQuality_BC6H_BC7: 0
   - serializedVersion: 3
     buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
     maxTextureSize: 2048
     resizeAlgorithm: 0
     textureFormat: -1
@@ -472,7 +486,7 @@ TextureImporter:
       tessellationDetail: 0
       bones: []
       spriteID: 161f346f1b311aaf0800000000000000
-      internalID: -387006437915365023
+      internalID: -4413641687807635177
       vertices: []
       indices: 
       edges: []
@@ -493,7 +507,7 @@ TextureImporter:
       tessellationDetail: 0
       bones: []
       spriteID: d6636763f17820d40800000000000000
-      internalID: 5549146259001325165
+      internalID: -134007963368232517
       vertices: []
       indices: 
       edges: []
@@ -514,7 +528,7 @@ TextureImporter:
       tessellationDetail: 0
       bones: []
       spriteID: be0ceded8d7fb6b20800000000000000
-      internalID: 3128866876963078379
+      internalID: 945536120121930963
       vertices: []
       indices: 
       edges: []
@@ -535,7 +549,7 @@ TextureImporter:
       tessellationDetail: 0
       bones: []
       spriteID: 828f8047efc79c190800000000000000
-      internalID: -7941679035580876760
+      internalID: 2704646814743173932
       vertices: []
       indices: 
       edges: []
@@ -556,7 +570,7 @@ TextureImporter:
       tessellationDetail: 0
       bones: []
       spriteID: a84488f78de218f00800000000000000
-      internalID: 1117225689952044170
+      internalID: 7878770873647723998
       vertices: []
       indices: 
       edges: []
@@ -577,7 +591,7 @@ TextureImporter:
       tessellationDetail: 0
       bones: []
       spriteID: c0897e12e6bccfaf0800000000000000
-      internalID: -361190196220815348
+      internalID: -4119482881270361457
       vertices: []
       indices: 
       edges: []
@@ -598,7 +612,7 @@ TextureImporter:
       tessellationDetail: 0
       bones: []
       spriteID: 4766c83a178cadcc0800000000000000
-      internalID: -3685412954648582540
+      internalID: 13831769740648554
       vertices: []
       indices: 
       edges: []
@@ -619,7 +633,7 @@ TextureImporter:
       tessellationDetail: 0
       bones: []
       spriteID: d28144951e6eef720800000000000000
-      internalID: 2881994667103361069
+      internalID: 1945191597188364270
       vertices: []
       indices: 
       edges: []
@@ -640,7 +654,7 @@ TextureImporter:
       tessellationDetail: 0
       bones: []
       spriteID: 36fb32605eee707a0800000000000000
-      internalID: -6410892877120684189
+      internalID: -1338317720805714010
       vertices: []
       indices: 
       edges: []
@@ -661,7 +675,7 @@ TextureImporter:
       tessellationDetail: 0
       bones: []
       spriteID: 7543484f3461f3700800000000000000
-      internalID: 522160562919191639
+      internalID: 3820093326943996674
       vertices: []
       indices: 
       edges: []
@@ -682,7 +696,7 @@ TextureImporter:
       tessellationDetail: 0
       bones: []
       spriteID: 4f153cbc2362d3e10800000000000000
-      internalID: 2178939794325983732
+      internalID: 1861492414975525909
       vertices: []
       indices: 
       edges: []
@@ -703,7 +717,7 @@ TextureImporter:
       tessellationDetail: 0
       bones: []
       spriteID: 50b8f8266baa2e170800000000000000
-      internalID: 8206309171336809221
+      internalID: -2439936093423444998
       vertices: []
       indices: 
       edges: []
@@ -724,7 +738,7 @@ TextureImporter:
       tessellationDetail: 0
       bones: []
       spriteID: 6b166e2aebc6a74a0800000000000000
-      internalID: -6594839138298076746
+      internalID: -8004501082141625241
       vertices: []
       indices: 
       edges: []
@@ -745,7 +759,7 @@ TextureImporter:
       tessellationDetail: 0
       bones: []
       spriteID: d06e697d3619f2a60800000000000000
-      internalID: 7651494149930542605
+      internalID: -6788113795954461188
       vertices: []
       indices: 
       edges: []
@@ -766,7 +780,7 @@ TextureImporter:
       tessellationDetail: 0
       bones: []
       spriteID: ab9c6088f8a393f00800000000000000
-      internalID: 1096972372378307002
+      internalID: 806654108331995141
       vertices: []
       indices: 
       edges: []
@@ -2026,7 +2040,7 @@ TextureImporter:
       tessellationDetail: 0
       bones: []
       spriteID: 7ac3b20a22b1722d0800000000000000
-      internalID: -3303641966122943321
+      internalID: -4248582913659326613
       vertices: []
       indices: 
       edges: []
@@ -2047,7 +2061,7 @@ TextureImporter:
       tessellationDetail: 0
       bones: []
       spriteID: 91ef1dc659b7d1980800000000000000
-      internalID: -8566555034482770407
+      internalID: -1370783644373616447
       vertices: []
       indices: 
       edges: []
@@ -2068,7 +2082,7 @@ TextureImporter:
       tessellationDetail: 0
       bones: []
       spriteID: e5c139a75b5162f90800000000000000
-      internalID: -6978866703374279586
+      internalID: 2355484927433027499
       vertices: []
       indices: 
       edges: []
@@ -2089,7 +2103,7 @@ TextureImporter:
       tessellationDetail: 0
       bones: []
       spriteID: 28d93d5463c252a00800000000000000
-      internalID: 731039126128926082
+      internalID: 6348709686087549685
       vertices: []
       indices: 
       edges: []
@@ -2110,7 +2124,7 @@ TextureImporter:
       tessellationDetail: 0
       bones: []
       spriteID: 191c826582f88fc00800000000000000
-      internalID: 934654326086353297
+      internalID: -3303641966122943321
       vertices: []
       indices: 
       edges: []
@@ -2131,7 +2145,7 @@ TextureImporter:
       tessellationDetail: 0
       bones: []
       spriteID: b1efcb750d8af1a60800000000000000
-      internalID: 7647016305077059099
+      internalID: -8566555034482770407
       vertices: []
       indices: 
       edges: []
@@ -2719,7 +2733,7 @@ TextureImporter:
       tessellationDetail: 0
       bones: []
       spriteID: 85a5b76420be9cf00800000000000000
-      internalID: 1137698775892712024
+      internalID: -7927648840500088839
       vertices: []
       indices: 
       edges: []
@@ -2761,7 +2775,7 @@ TextureImporter:
       tessellationDetail: 0
       bones: []
       spriteID: a375697e3476b1f20800000000000000
-      internalID: 3394420285499660090
+      internalID: 1137698775892712024
       vertices: []
       indices: 
       edges: []
@@ -3175,6 +3189,137 @@ TextureImporter:
     edges: []
     weights: []
     secondaryTextures: []
+    nameFileIdTable:
+      SCALE_PALESTRA_CENTRO: -3970637011837078050
+      angolo_bd: -4713592921529101318
+      floor_blue_0: -3391153593733148013
+      floor_blue_1: 3272439717484799063
+      floor_blue_2: -4248582913659326613
+      floor_blue_3: -1370783644373616447
+      floor_blue_4: 2355484927433027499
+      floor_blue_5: 6348709686087549685
+      floor_full_shadow: 27693839198319862
+      floor_grey_0: 806654108331995141
+      floor_grey_1: -2526198000820691204
+      floor_grey_2: -30910438469281908
+      floor_grey_3: -3800279205974593676
+      floor_grey_4: -2705100137665405410
+      floor_palestra_0: -3483407998585544973
+      floor_palestra_1: -67809517965388655
+      floor_palestra_2: 6731033783630746681
+      floor_palestra_3: 1355712457551117113
+      floor_palestra_4: -9187089166743173519
+      floor_palestra_5: -7960771818698934236
+      floor_pink_0: 8841590499288960094
+      floor_pink_1: 6543038134265542591
+      floor_pink_2: -5597167445700317463
+      floor_pink_3: -3559551610461794994
+      floor_pink_4: -1553854276197778354
+      floor_tunnel_0: -3303641966122943321
+      floor_tunnel_1: -8566555034482770407
+      floor_tunnel_2: 3948901276868349279
+      floor_tunnel_3: -5622928358660033455
+      floor_tunnel_4: -145582329669693869
+      floor_tunnel_5: -2238588711284379715
+      panorama: 6684150601568460090
+      pavimento_palestra: -5825034049849346876
+      scala_obliquo_1: -1921267233604643583
+      scala_obliquo_2: 231429817674662271
+      scala_obliquo_3: -472743036501533122
+      scale_obliquo_4: 4853995250302347761
+      scale_rosse1: -5395374894897394760
+      scale_rosse2: -759421618321026627
+      scale_rosse3: 8649759100237545204
+      scale_rosse4: -3655974689523537552
+      tunnel_wall_0: -4371156779323038531
+      tunnel_wall_1: -28652567618082925
+      tunnel_wall_10: 7711663166094381218
+      tunnel_wall_11: 4147114563649335936
+      tunnel_wall_2: 1137698775892712024
+      tunnel_wall_3: -7927648840500088839
+      tunnel_wall_4: 1464264721503304760
+      tunnel_wall_5: 6278859960429356432
+      tunnel_wall_6: -855244974579034129
+      tunnel_wall_7: 7638828041614433097
+      tunnel_wall_8: -4454124691976245020
+      tunnel_wall_9: -7940578189033641925
+      uppone_0: -22858075306480739
+      uppone_1: -3957371544286255380
+      wall_1D_angle_down_left: -8807637786246732208
+      wall_1D_angle_down_right: -7916389282504515790
+      wall_1D_angle_up_left: -3605800405957502631
+      wall_1D_angle_up_right: -8272566760074004911
+      wall_1D_left_0: -7246577273952964118
+      wall_1D_left_1: -1804128290600997474
+      wall_1D_left_2: -2337176922772924201
+      wall_1D_right_0: 3631307275678194166
+      wall_1D_right_1: 3821073932170599671
+      wall_1D_right_2: 186820885880303396
+      wall_LONG: 6190290708680128392
+      wall_LONG_left: -8411198745566378799
+      wall_LONG_right: 3367278637725195923
+      wall_back: -6788113795954461188
+      wall_back_left: -2439936093423444998
+      wall_back_right: -8004501082141625241
+      wall_color_gym_left_0: 418060270487793946
+      wall_color_gym_left_1: 6960161413796789777
+      wall_color_gym_right_0: -1041165644715127221
+      wall_color_gym_right_1: -6856502785091959622
+      wall_color_left_0: -9004147939959280988
+      wall_color_left_1: -8123593908854033899
+      wall_color_left_2: 3886803647359642878
+      wall_color_left_3: -3545625402298754580
+      wall_color_right_0: -1621302353366764567
+      wall_color_right_1: 836184312656164885
+      wall_color_right_2: 1378233390666893994
+      wall_color_right_3: -6817685593018658501
+      wall_front_0: 3399680364847118417
+      wall_front_1: -4250025119557574007
+      wall_front_left_0: 2704646814743173932
+      wall_front_left_1: 7878770873647723998
+      wall_front_left_gym_0: -4689425093176961499
+      wall_front_left_gym_1: 3204238348326785009
+      wall_front_right_0: -4119482881270361457
+      wall_front_right_1: 13831769740648554
+      wall_gym_front_0: -8218881870754553773
+      wall_gym_front_1: 637471255747406189
+      wall_gym_left_0: -5914661016593542764
+      wall_gym_left_1: -8863264490253831554
+      wall_gym_left_2: 5638777480905257159
+      wall_gym_left_3: 4792241135520696554
+      wall_gym_right_0: -4785010066649973419
+      wall_gym_right_1: 2448208375249085898
+      wall_gym_right_2: -8124867371221613926
+      wall_gym_right_3: 6126218626016879726
+      wall_in_left_0: 5463163715463447102
+      wall_in_left_1: 8995846843990090740
+      wall_in_right_0: -8344647963032863906
+      wall_in_right_1: 3869511804001879811
+      wall_incastro_LONG_left_0: 220560706457072349
+      wall_incastro_LONG_left_1: -4435980722675438802
+      wall_incastro_LONG_left_2: -4362654746061894305
+      wall_incastro_LONG_right_0: 2412940267012128058
+      wall_incastro_LONG_right_1: 1614762466977505175
+      wall_incastro_LONG_right_2: -5768290724416504940
+      wall_incastro_left_0: 1945191597188364270
+      wall_incastro_left_1: -1338317720805714010
+      wall_incastro_left_end_0: -7973997282784913362
+      wall_incastro_left_end_1: -8695567831406080319
+      wall_incastro_right_0: 3820093326943996674
+      wall_incastro_right_1: 1861492414975525909
+      wall_incastro_right_end_0: 1759282325837407840
+      wall_incastro_right_end_1: 3311861305566352424
+      wall_left: 8680717224792761869
+      wall_left_end: -4413641687807635177
+      wall_pilastro_0: -1639277372955878861
+      wall_pilastro_1: 6634411440679693062
+      wall_pilastro_2: 8650450741064180888
+      wall_right: -134007963368232517
+      wall_right_end: 945536120121930963
+      walldoor_left_0: -1731676320162474423
+      walldoor_left_1: -2263858202259838578
+      walldoor_right_0: -3971432964528484974
+      walldoor_right_1: -3125254823303951916
   spritePackingTag: 
   pSDRemoveMatte: 0
   pSDShowRemoveMatteOption: 0

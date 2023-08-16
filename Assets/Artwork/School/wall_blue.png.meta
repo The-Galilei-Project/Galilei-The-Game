@@ -84,7 +84,7 @@ TextureImporter:
       213: 1297425387164571362
     second: wall_blue_12
   externalObjects: {}
-  serializedVersion: 11
+  serializedVersion: 12
   mipmaps:
     mipMapMode: 0
     enableMipMap: 0
@@ -105,6 +105,7 @@ TextureImporter:
   streamingMipmaps: 0
   streamingMipmapsPriority: 0
   vTOnly: 0
+  ignoreMasterTextureLimit: 0
   grayScaleToAlpha: 0
   generateCubemap: 6
   cubemapConvolution: 0
@@ -143,6 +144,7 @@ TextureImporter:
   textureFormatSet: 0
   ignorePngGamma: 0
   applyGammaDecoding: 0
+  cookieLightType: 1
   platformSettings:
   - serializedVersion: 3
     buildTarget: DefaultTexturePlatform
@@ -158,6 +160,18 @@ TextureImporter:
     forceMaximumCompressionQuality_BC6H_BC7: 0
   - serializedVersion: 3
     buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
     maxTextureSize: 2048
     resizeAlgorithm: 0
     textureFormat: -1
@@ -748,6 +762,34 @@ TextureImporter:
     edges: []
     weights: []
     secondaryTextures: []
+    nameFileIdTable:
+      wall_blue_0_A: 4665648825001125322
+      wall_blue_0_B: 416031945021065076
+      wall_blue_0_C: -4346463085822756241
+      wall_blue_0_D: 5487973087816447793
+      wall_blue_10: -2019621078331020703
+      wall_blue_11: 8181990512818522661
+      wall_blue_12: 1297425387164571362
+      wall_blue_13: -1359567971039468872
+      wall_blue_1_A: 5342556004494280089
+      wall_blue_1_B: 4711206423482659551
+      wall_blue_1_C: 2966168184557419403
+      wall_blue_1_D: 6879803506449598805
+      wall_blue_2_A: 530626310669529767
+      wall_blue_2_B: -738701183454018071
+      wall_blue_3_A: 2974660810268235101
+      wall_blue_3_B: -415704366194135885
+      wall_blue_4_A: -6863419110828348868
+      wall_blue_4_B: -5903508652263033522
+      wall_blue_4_C: 4137104707950472748
+      wall_blue_4_D: 4693749168065887333
+      wall_blue_5_A: 3669476873933464143
+      wall_blue_5_B: 5704323328701656890
+      wall_blue_6_A: 1733015137219734952
+      wall_blue_6_B: 550245916231470024
+      wall_blue_7: 2955463793184289911
+      wall_blue_8: 8941211735781873041
+      wall_blue_9: 3195951724448958816
   spritePackingTag: 
   pSDRemoveMatte: 0
   pSDShowRemoveMatteOption: 0
