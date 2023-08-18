@@ -2967,27 +2967,6 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: angolo_bd
-      rect:
-        serializedVersion: 2
-        x: 132
-        y: 11
-        width: 16
-        height: 16
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: af356782634f59eb0800000000000000
-      internalID: -4713592921529101318
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
       name: SCALE_PALESTRA_CENTRO
       rect:
         serializedVersion: 2
@@ -3185,7 +3164,7 @@ TextureImporter:
         width: 16
         height: 15
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -3193,6 +3172,111 @@ TextureImporter:
       bones: []
       spriteID: 4c4bc2ed462592fa0800000000000000
       internalID: -5825034049849346876
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: floor_gradini_aulamagna_0
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 16
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fb47f1dc6f99aa84baba2a3e44b59486
+      internalID: 719375718
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: floor_gradini_aulamagna_1
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 16
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aa499a59f3a65a6478b68c45362a1bc0
+      internalID: -1913013627
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: floor_gradini_aulamagna_2
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 0
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: da247db75597867408eb2734b0c37e29
+      internalID: -307179017
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: floor_gradini_aulamagna_4
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 0
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5eec09fc192575e4abd054b854d3abcb
+      internalID: -115678841
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: floor_gradini_aulamagna_3
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 0
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f81a315f20993f843b3b20b45722a3cd
+      internalID: 1605878931
       vertices: []
       indices: 
       edges: []
@@ -3217,6 +3301,11 @@ TextureImporter:
       floor_blue_4: 2355484927433027499
       floor_blue_5: 6348709686087549685
       floor_full_shadow: 27693839198319862
+      floor_gradini_aulamagna_0: 719375718
+      floor_gradini_aulamagna_1: -1913013627
+      floor_gradini_aulamagna_2: -307179017
+      floor_gradini_aulamagna_3: 1605878931
+      floor_gradini_aulamagna_4: -115678841
       floor_grey_0: 806654108331995141
       floor_grey_1: -2526198000820691204
       floor_grey_2: -30910438469281908

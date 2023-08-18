@@ -435,11 +435,11 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Oggetti_Aula_Magna_12
+      name: cattedra_aulamagna_0
       rect:
         serializedVersion: 2
-        x: 16
-        y: 104
+        x: 0
+        y: 88
         width: 16
         height: 16
       alignment: 0
@@ -456,11 +456,11 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Oggetti_Aula_Magna_13
+      name: cattedra_aulamagna_2
       rect:
         serializedVersion: 2
         x: 32
-        y: 104
+        y: 88
         width: 16
         height: 16
       alignment: 0
@@ -498,11 +498,11 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Oggetti_Aula_Magna_15
+      name: cattedra_aulamagna_5
       rect:
         serializedVersion: 2
-        x: 16
-        y: 88
+        x: 32
+        y: 72
         width: 16
         height: 16
       alignment: 0
@@ -514,27 +514,6 @@ TextureImporter:
       bones: []
       spriteID: 130b9a0d3186cde70800000000000000
       internalID: 9141295777969713201
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Oggetti_Aula_Magna_16
-      rect:
-        serializedVersion: 2
-        x: 32
-        y: 88
-        width: 16
-        height: 16
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: c4a3932c6e4ac4290800000000000000
-      internalID: -7904761934934099380
       vertices: []
       indices: 
       edges: []
@@ -602,6 +581,69 @@ TextureImporter:
       indices: 
       edges: []
       weights: []
+    - serializedVersion: 2
+      name: cattedra_aulamagna_1
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 88
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a147ad058f96ada418c4667d8648876f
+      internalID: 1123831343
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cattedra_aulamagna_3
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 72
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 77bb1ec7ddebd334095fc3d59b0bca9c
+      internalID: -1147161905
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cattedra_aulamagna_4
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 72
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 58721d26ba1eed3479cbed6ae4525589
+      internalID: 945917503
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     outline: []
     physicsShape: []
     bones: []
@@ -617,10 +659,7 @@ TextureImporter:
       Oggetti_Aula_Magna_1: 6245128344989218841
       Oggetti_Aula_Magna_10: -7079959410196377494
       Oggetti_Aula_Magna_11: -8182766134910418775
-      Oggetti_Aula_Magna_12: -3224341043050590608
-      Oggetti_Aula_Magna_13: 3744473258955232195
       Oggetti_Aula_Magna_14: -2685591186596309718
-      Oggetti_Aula_Magna_15: 9141295777969713201
       Oggetti_Aula_Magna_16: -7904761934934099380
       Oggetti_Aula_Magna_17: -2963706466543054896
       Oggetti_Aula_Magna_18: -9064710953527103080
@@ -633,6 +672,12 @@ TextureImporter:
       Oggetti_Aula_Magna_7: 7872473474044047529
       Oggetti_Aula_Magna_8: -9127518309528819601
       Oggetti_Aula_Magna_9: -2510863240311858425
+      cattedra_aulamagna_0: -3224341043050590608
+      cattedra_aulamagna_1: 1123831343
+      cattedra_aulamagna_2: 3744473258955232195
+      cattedra_aulamagna_3: -1147161905
+      cattedra_aulamagna_4: 945917503
+      cattedra_aulamagna_5: 9141295777969713201
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 
