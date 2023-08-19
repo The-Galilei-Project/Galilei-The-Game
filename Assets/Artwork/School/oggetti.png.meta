@@ -5267,7 +5267,7 @@ TextureImporter:
         width: 28
         height: 30
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -5288,7 +5288,7 @@ TextureImporter:
         width: 19
         height: 31
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -5296,6 +5296,174 @@ TextureImporter:
       bones: []
       spriteID: 6da10fb2692d22570800000000000000
       internalID: 8440540194069813974
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: banco_down_1_1
+      rect:
+        serializedVersion: 2
+        x: 140
+        y: 120
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 30cfff3020a68aa47b22a9a0028b94ae
+      internalID: 656180350
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: banco_down_1_2
+      rect:
+        serializedVersion: 2
+        x: 140
+        y: 136
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 70abe83e230e89740801e020908cb318
+      internalID: -535002280
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: banco_down_2_1
+      rect:
+        serializedVersion: 2
+        x: 156
+        y: 120
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0c58c112475d6fb43a79a60e6d912241
+      internalID: 1682805645
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: banco_down_2_2
+      rect:
+        serializedVersion: 2
+        x: 156
+        y: 136
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2e2b2e6a8ec69134a96664fecfecaa80
+      internalID: 354216652
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: banco_down_3_2
+      rect:
+        serializedVersion: 2
+        x: 172
+        y: 136
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3c95fad5accf1684e9a17b1b881e6cf2
+      internalID: -2048049181
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: banco_down_3_1
+      rect:
+        serializedVersion: 2
+        x: 172
+        y: 120
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1d3b6e067643a724d94e7027a8445078
+      internalID: -346650647
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: banco_down_4_2
+      rect:
+        serializedVersion: 2
+        x: 188
+        y: 136
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 69020ae01ee0ef84084de49991ec9fa1
+      internalID: -675377586
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: banco_down_4_1
+      rect:
+        serializedVersion: 2
+        x: 188
+        y: 120
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5ab5a49919b847f4aa69f54b04a72580
+      internalID: 1686129170
       vertices: []
       indices: 
       edges: []
@@ -5321,6 +5489,14 @@ TextureImporter:
       Drone_2: -3527354939412077288
       Drone_3: -2240435512025958478
       appendino: -6794479614435110290
+      banco_down_1_1: 656180350
+      banco_down_1_2: -535002280
+      banco_down_2_1: 1682805645
+      banco_down_2_2: 354216652
+      banco_down_3_1: -346650647
+      banco_down_3_2: -2048049181
+      banco_down_4_1: 1686129170
+      banco_down_4_2: -675377586
       banco_palestra_d0: 1942685481875038249
       banco_palestra_d1: 1909965612555234805
       banco_palestra_s0: -2644197309409174743

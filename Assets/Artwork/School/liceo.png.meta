@@ -6866,6 +6866,90 @@ TextureImporter:
       indices: 
       edges: []
       weights: []
+    - serializedVersion: 2
+      name: ascensore_destra_1
+      rect:
+        serializedVersion: 2
+        x: 451
+        y: 21
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c59355cb9096fd346bea20e629919daf
+      internalID: 825319545
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ascensore_destra_2
+      rect:
+        serializedVersion: 2
+        x: 451
+        y: 5
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1cf1b60539b1eb74a97ce3ace3b26f7a
+      internalID: 2078052370
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ascensore_fron_1
+      rect:
+        serializedVersion: 2
+        x: 434
+        y: 21
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3b362fa2bd834cc45ac2c5a6dcc75de9
+      internalID: 501784680
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ascensore_destra_
+      rect:
+        serializedVersion: 2
+        x: 434
+        y: 5
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 86e3ff2534b843b42821b5965b85502a
+      internalID: 1828590876
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     outline: []
     physicsShape: []
     bones: []
@@ -6941,6 +7025,10 @@ TextureImporter:
       angolo_biblio_d: 3437376436770584098
       angolo_biblio_s: 8748625700569325389
       angolo_destra: 7713860437554957245
+      ascensore_destra_: 1828590876
+      ascensore_destra_1: 825319545
+      ascensore_destra_2: 2078052370
+      ascensore_fron_1: 501784680
       aula_insegnanti_1: 5673350943101618795
       aula_insegnanti_2: 5717423220214753643
       aula_insegnanti_3: 2559893992367711801
