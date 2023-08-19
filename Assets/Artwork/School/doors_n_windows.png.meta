@@ -1214,7 +1214,7 @@ TextureImporter:
         width: 16
         height: 16
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -1222,6 +1222,27 @@ TextureImporter:
       bones: []
       spriteID: 974c14740e7451e10800000000000000
       internalID: 2167717824242500729
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: doors_brown_0
+      rect:
+        serializedVersion: 2
+        x: 141
+        y: 142
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5538ea3c21bc99f4cb1661a183de3660
+      internalID: 1917446311
       vertices: []
       indices: 
       edges: []
@@ -1272,6 +1293,7 @@ TextureImporter:
       door_windows_lat_doppia_1: 1876198086780805549
       door_windows_lat_sing_0: 4495393643598494072
       door_windows_lat_sing_1: -7936541803107095062
+      doors_brown_0: 1917446311
       porte_mistiche: -6948198005567371602
       window_2x3_0: 2539714175003896466
       window_2x3_1: 246666808462646722
