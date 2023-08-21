@@ -27262,7 +27262,7 @@ GameObject:
   - component: {fileID: 498333883}
   - component: {fileID: 498333882}
   m_Layer: 0
-  m_Name: LiceoPianoUnoDestra
+  m_Name: Liceo_PianoUnodestra_down
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -35668,7 +35668,7 @@ GameObject:
   - component: {fileID: 1058327278}
   - component: {fileID: 1058327280}
   m_Layer: 0
-  m_Name: LiceoPianoUnoSinistra
+  m_Name: Liceo_PianoUnoSinistra_down
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0

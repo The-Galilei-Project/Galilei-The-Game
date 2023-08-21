@@ -24615,7 +24615,7 @@ GameObject:
   - component: {fileID: 805325140}
   - component: {fileID: 805325139}
   m_Layer: 0
-  m_Name: LiceoPianoTerraDestra
+  m_Name: Liceo_PianoTerraDestra_up
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -28735,7 +28735,7 @@ GameObject:
   - component: {fileID: 1354213976}
   - component: {fileID: 1354213975}
   m_Layer: 0
-  m_Name: LiceoPianoTerraSinistra
+  m_Name: Liceo_PianoTerraSinistra_up
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0

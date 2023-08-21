@@ -26820,7 +26820,7 @@ GameObject:
   - component: {fileID: 498333883}
   - component: {fileID: 498333882}
   m_Layer: 0
-  m_Name: LiceoPianoTerraDestra
+  m_Name: Liceo_PianoTerraDestra_down
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -35158,7 +35158,7 @@ GameObject:
   - component: {fileID: 1058327278}
   - component: {fileID: 1058327280}
   m_Layer: 0
-  m_Name: LiceoPianoTerraSinistra
+  m_Name: Liceo_PianoTerraSinistra_down
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -35809,7 +35809,7 @@ GameObject:
   - component: {fileID: 1166274566}
   - component: {fileID: 1166274565}
   m_Layer: 0
-  m_Name: LiceoPianoDueDestra
+  m_Name: Liceo_PianoDueDestra_up
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -36154,7 +36154,7 @@ GameObject:
   - component: {fileID: 1405448768}
   - component: {fileID: 1405448767}
   m_Layer: 0
-  m_Name: LiceoPianoDueSinistra
+  m_Name: Liceo_PianoDueSinistra_up
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
