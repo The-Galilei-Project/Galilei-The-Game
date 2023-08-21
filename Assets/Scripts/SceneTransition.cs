@@ -1,11 +1,22 @@
+using UnityEditor;
 using UnityEngine;
 using UnityEngine.SceneManagement;
 
 public class SceneTransition : MonoBehaviour
 {
     //public Animator transition;
-    public VectorValue initialPosition;
+    [SerializeField] public VectorValue initialPosition;
+    [SerializeField] public SceneAsset nextScene;
 
+    private void OnTriggerEnter2D(Collider2D other){
+        if(other.CompareTag("Player")){
+            string path = AssetDatabase.GetAssetOrScenePath(this.nextScene);
+            LevelSystem.current.ChangeScene(path);
+            PlayerState.setPosition(initialPosition);
+        }
+    }
+
+    /*
     private void OnTriggerEnter2D(Collider2D other)
     {
         if (other.CompareTag("Player"))
@@ -48,7 +59,5 @@ public class SceneTransition : MonoBehaviour
             LevelSystem.current.ChangeScene(indexFloor);
         }
     }
+    */
 }
-// Sessione remota test 15-04-2022 
-// ciao David 
-// ciao Marcheselli

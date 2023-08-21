@@ -15,21 +15,27 @@ EditorBuildSettings:
     path: Assets/Scenes/Crediti.unity
     guid: 765d553ffaef3fb40867d0fc6d7ad359
   - enabled: 1
-    path: Assets/Scenes/Atrio.unity
+    path: Assets/Scenes/IISS/Atrio.unity
     guid: f630abac36f24224693c16dcc9e966bd
   - enabled: 1
-    path: Assets/Scenes/IISS_pianoUno.unity
+    path: Assets/Scenes/IISS/Piano Uno.unity
     guid: e2684e6cf7fd5d74294958f84beeb50a
   - enabled: 1
-    path: Assets/Scenes/IISS_pianoDue.unity
+    path: Assets/Scenes/IISS/Piano Due.unity
     guid: 403f806db415d4741829a1387957fa43
   - enabled: 1
-    path: Assets/Scenes/IISS_Secret_room.unity
+    path: Assets/Scenes/IISS/Secret Room.unity
     guid: c7ebc463473126b44b7516f12a17adfa
   - enabled: 1
-    path: Assets/Scenes/LiceoPianoTerra.unity
+    path: Assets/Scenes/Liceo/Piano Terra.unity
     guid: b444af3ace23e5f1d8e9a784d9465401
   - enabled: 1
-    path: Assets/Scenes/LiceoPianoMenoUno.unity
+    path: Assets/Scenes/Liceo/Piano Meno Uno.unity
     guid: 3882996277bd91442b455760ad0f6034
+  - enabled: 1
+    path: Assets/Scenes/Liceo/Piano Uno.unity
+    guid: 905434b03d34a03468ebb330f37c3396
+  - enabled: 1
+    path: Assets/Scenes/Liceo/Piano Due.unity
+    guid: 30b48eb928ef14545b48ac11c6248692
   m_configObjects: {}

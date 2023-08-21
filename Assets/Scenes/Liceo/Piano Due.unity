@@ -27202,7 +27202,6 @@ GameObject:
   - component: {fileID: 498333881}
   - component: {fileID: 498333884}
   - component: {fileID: 498333883}
-  - component: {fileID: 498333882}
   m_Layer: 0
   m_Name: Liceo_PianoUnodestra_down
   m_TagString: Untagged
@@ -27225,51 +27224,6 @@ Transform:
   m_Children: []
   m_Father: {fileID: 818432633}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
---- !u!61 &498333882
-BoxCollider2D:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 498333880}
-  m_Enabled: 1
-  m_Density: 1
-  m_Material: {fileID: 0}
-  m_IncludeLayers:
-    serializedVersion: 2
-    m_Bits: 0
-  m_ExcludeLayers:
-    serializedVersion: 2
-    m_Bits: 0
-  m_LayerOverridePriority: 0
-  m_ForceSendLayers:
-    serializedVersion: 2
-    m_Bits: 4294967295
-  m_ForceReceiveLayers:
-    serializedVersion: 2
-    m_Bits: 4294967295
-  m_ContactCaptureLayers:
-    serializedVersion: 2
-    m_Bits: 4294967295
-  m_CallbackLayers:
-    serializedVersion: 2
-    m_Bits: 4294967295
-  m_IsTrigger: 0
-  m_UsedByEffector: 0
-  m_UsedByComposite: 0
-  m_Offset: {x: 0, y: 0}
-  m_SpriteTilingProperty:
-    border: {x: 0, y: 0, z: 0, w: 0}
-    pivot: {x: 0, y: 0}
-    oldSize: {x: 0, y: 0}
-    newSize: {x: 0, y: 0}
-    adaptiveTilingThreshold: 0
-    drawMode: 0
-    adaptiveTiling: 0
-  m_AutoTiling: 0
-  serializedVersion: 2
-  m_Size: {x: 1, y: 1}
-  m_EdgeRadius: 0
 --- !u!114 &498333883
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -27283,6 +27237,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   initialPosition: {fileID: 11400000, guid: 4a2a7e3289c68e748a0dc7fa6dd5a0a1, type: 2}
+  nextScene: {fileID: 102900000, guid: 905434b03d34a03468ebb330f37c3396, type: 3}
 --- !u!61 &498333884
 BoxCollider2D:
   m_ObjectHideFlags: 0
@@ -35648,7 +35603,6 @@ GameObject:
   - component: {fileID: 1058327277}
   - component: {fileID: 1058327279}
   - component: {fileID: 1058327278}
-  - component: {fileID: 1058327280}
   m_Layer: 0
   m_Name: Liceo_PianoUnoSinistra_down
   m_TagString: Untagged
@@ -35684,6 +35638,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   initialPosition: {fileID: 11400000, guid: 730f5b6151c045948a2d9a8f7f6dfc95, type: 2}
+  nextScene: {fileID: 102900000, guid: 905434b03d34a03468ebb330f37c3396, type: 3}
 --- !u!61 &1058327279
 BoxCollider2D:
   m_ObjectHideFlags: 0
@@ -35728,51 +35683,6 @@ BoxCollider2D:
   m_AutoTiling: 0
   serializedVersion: 2
   m_Size: {x: 0.41821718, y: 0.218333}
-  m_EdgeRadius: 0
---- !u!61 &1058327280
-BoxCollider2D:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 1058327276}
-  m_Enabled: 1
-  m_Density: 1
-  m_Material: {fileID: 0}
-  m_IncludeLayers:
-    serializedVersion: 2
-    m_Bits: 0
-  m_ExcludeLayers:
-    serializedVersion: 2
-    m_Bits: 0
-  m_LayerOverridePriority: 0
-  m_ForceSendLayers:
-    serializedVersion: 2
-    m_Bits: 4294967295
-  m_ForceReceiveLayers:
-    serializedVersion: 2
-    m_Bits: 4294967295
-  m_ContactCaptureLayers:
-    serializedVersion: 2
-    m_Bits: 4294967295
-  m_CallbackLayers:
-    serializedVersion: 2
-    m_Bits: 4294967295
-  m_IsTrigger: 0
-  m_UsedByEffector: 0
-  m_UsedByComposite: 0
-  m_Offset: {x: 0, y: 0}
-  m_SpriteTilingProperty:
-    border: {x: 0, y: 0, z: 0, w: 0}
-    pivot: {x: 0, y: 0}
-    oldSize: {x: 0, y: 0}
-    newSize: {x: 0, y: 0}
-    adaptiveTilingThreshold: 0
-    drawMode: 0
-    adaptiveTiling: 0
-  m_AutoTiling: 0
-  serializedVersion: 2
-  m_Size: {x: 1, y: 1}
   m_EdgeRadius: 0
 --- !u!1 &1085648179
 GameObject:

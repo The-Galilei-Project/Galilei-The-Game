@@ -38,7 +38,7 @@ public class NameMenu : MonoBehaviour
             return;
 
         canvas.sortingOrder = 0;
-        LevelSystem.current.ChangeScene(LevelSystem.baseBuildIndex);
+        LevelSystem.current.ChangeScene((int)LevelsIndex.ATRIO);
         Cursor.visible = false;
     }
 

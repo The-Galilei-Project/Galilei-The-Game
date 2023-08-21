@@ -1,7 +1,5 @@
 using UnityEngine;
 using UnityEngine.SceneManagement;
-using UnityEngine.EventSystems;
-using TMPro;
 
 public class MainMenu : MonoBehaviour
 {
@@ -22,7 +20,7 @@ public class MainMenu : MonoBehaviour
         if (PlayerState.name == null || PlayerState.name == "")
             SceneManager.LoadScene(1);
         else
-            LevelSystem.current.ChangeScene(LevelSystem.baseBuildIndex);
+            LevelSystem.current.ChangeScene((int)LevelsIndex.ATRIO);
     }
 
     public void Credits()

@@ -10840,6 +10840,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   initialPosition: {fileID: 11400000, guid: d8f8ad08ec4a3bf439cc54fd8f848193, type: 2}
+  nextScene: {fileID: 102900000, guid: 403f806db415d4741829a1387957fa43, type: 3}
 --- !u!61 &498376294
 BoxCollider2D:
   m_ObjectHideFlags: 0
@@ -13392,6 +13393,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   initialPosition: {fileID: 11400000, guid: 557f581310ec4804b9e3d1c5a89227b0, type: 2}
+  nextScene: {fileID: 102900000, guid: f630abac36f24224693c16dcc9e966bd, type: 3}
 --- !u!61 &983355768
 BoxCollider2D:
   m_ObjectHideFlags: 0
@@ -13735,6 +13737,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   initialPosition: {fileID: 11400000, guid: f5280b89c963ce947b775cc4989bb2de, type: 2}
+  nextScene: {fileID: 102900000, guid: f630abac36f24224693c16dcc9e966bd, type: 3}
 --- !u!61 &1083153941
 BoxCollider2D:
   m_ObjectHideFlags: 0
@@ -13841,6 +13844,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   initialPosition: {fileID: 11400000, guid: 494bf62d9bf533b4fa4d1944c82a73eb, type: 2}
+  nextScene: {fileID: 102900000, guid: 403f806db415d4741829a1387957fa43, type: 3}
 --- !u!61 &1179802224
 BoxCollider2D:
   m_ObjectHideFlags: 0

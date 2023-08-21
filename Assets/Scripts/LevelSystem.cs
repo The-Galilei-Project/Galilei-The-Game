@@ -3,6 +3,20 @@ using UnityEngine;
 using UnityEngine.SceneManagement;
 using TMPro;
 
+public enum LevelsIndex {
+    MENU,
+    NOME_GIOCATORE,
+    CREDITI,
+    ATRIO,
+    IISS_UNO,
+    IISS_DUE,
+    IISS_SECRET,
+    LICEO_TERRA,
+    LICEO_MENO_UNO,
+    LICEO_UNO,
+    LICEO_DUE
+}
+
 public class LevelSystem : MonoBehaviour
 {
     public static LevelSystem current;
@@ -31,6 +45,13 @@ public class LevelSystem : MonoBehaviour
         StopAllCoroutines();
         StartCoroutine(StopPlayer());
         StartCoroutine(SwitchScene(buildIndex));
+    }
+
+    public void ChangeScene(string path)
+    {
+        StopAllCoroutines();
+        StartCoroutine(StopPlayer());
+        StartCoroutine(SwitchScene(path));
     }
 
     private void HideTitle()
@@ -62,6 +83,20 @@ public class LevelSystem : MonoBehaviour
         HideTitle();
     }
 
+    IEnumerator SwitchScene(string path)
+    {
+        StartCoroutine(ShowCrossFade());
+
+        yield return new WaitForSeconds(1f);
+
+        SceneManager.LoadScene(path);
+        PrintTitleByBuildIndex(SceneUtility.GetBuildIndexByScenePath(path));
+
+        yield return new WaitForSeconds(1.5f);
+
+        HideTitle();
+    }
+
     IEnumerator StopPlayer()
     {
         PlayerState.speed = 0f;
@@ -75,19 +110,23 @@ public class LevelSystem : MonoBehaviour
     {
         string floorName = "";
 
-        if (buildIndex == baseBuildIndex)
+        if (buildIndex == (int)LevelsIndex.ATRIO)
             floorName = "Atrio";
-        else if (buildIndex == baseBuildIndex + 1)
+        else if (buildIndex == (int)LevelsIndex.IISS_UNO)
             floorName = "Primo Piano";
-        else if (buildIndex == baseBuildIndex + 2)
+        else if (buildIndex == (int)LevelsIndex.IISS_DUE)
             floorName = "Secondo Piano";
-        else if (buildIndex == 7)
-            floorName = "Piano Terra Liceo";
-        else if (buildIndex == 6)
+        else if (buildIndex == (int)LevelsIndex.IISS_SECRET)
             floorName = "Camera dei segreti";
-        else if (buildIndex == 8)
+        else if (buildIndex == (int)LevelsIndex.LICEO_MENO_UNO)
             floorName = "Piano -1 Liceo";
-
+        else if (buildIndex == (int)LevelsIndex.LICEO_TERRA)
+            floorName = "Piano Terra Liceo";
+        else if (buildIndex == (int)LevelsIndex.LICEO_UNO)
+            floorName = "Piano Uno Liceo";
+        else if (buildIndex == (int)LevelsIndex.LICEO_DUE)
+            floorName = "Piano Due Liceo";
+        else return;
         StartCoroutine(TypeWriterEffect(floorName));
     }
 

@@ -25774,6 +25774,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   initialPosition: {fileID: 11400000, guid: 4e11fea3ad03c014cb99f16f12e53d8c, type: 2}
+  nextScene: {fileID: 102900000, guid: 905434b03d34a03468ebb330f37c3396, type: 3}
 --- !u!61 &498333884
 BoxCollider2D:
   m_ObjectHideFlags: 0
@@ -26103,6 +26104,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   initialPosition: {fileID: 11400000, guid: f5280b89c963ce947b775cc4989bb2de, type: 2}
+  nextScene: {fileID: 102900000, guid: f630abac36f24224693c16dcc9e966bd, type: 3}
 --- !u!61 &596976584
 BoxCollider2D:
   m_ObjectHideFlags: 0
@@ -34095,6 +34097,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   initialPosition: {fileID: 11400000, guid: b4dbcda5d69f091489e117ce8aeb5f77, type: 2}
+  nextScene: {fileID: 102900000, guid: 905434b03d34a03468ebb330f37c3396, type: 3}
 --- !u!61 &1058327279
 BoxCollider2D:
   m_ObjectHideFlags: 0
@@ -34324,7 +34327,7 @@ GameObject:
   - component: {fileID: 1166274566}
   - component: {fileID: 1166274565}
   m_Layer: 0
-  m_Name: Liceo_Piano_Meno_Uno_Destra_up
+  m_Name: Liceo_Piano_Meno_Uno_Destra_down
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -34358,6 +34361,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   initialPosition: {fileID: 11400000, guid: 4a2a7e3289c68e748a0dc7fa6dd5a0a1, type: 2}
+  nextScene: {fileID: 102900000, guid: 3882996277bd91442b455760ad0f6034, type: 3}
 --- !u!61 &1166274566
 BoxCollider2D:
   m_ObjectHideFlags: 0
@@ -34846,7 +34850,7 @@ GameObject:
   - component: {fileID: 1405448768}
   - component: {fileID: 1405448767}
   m_Layer: 0
-  m_Name: Liceo_Piano_Meno_Uno_Sinistra_up
+  m_Name: Liceo_Piano_Meno_Uno_Sinistra_down
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -34880,6 +34884,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   initialPosition: {fileID: 11400000, guid: 730f5b6151c045948a2d9a8f7f6dfc95, type: 2}
+  nextScene: {fileID: 102900000, guid: 3882996277bd91442b455760ad0f6034, type: 3}
 --- !u!61 &1405448768
 BoxCollider2D:
   m_ObjectHideFlags: 0
