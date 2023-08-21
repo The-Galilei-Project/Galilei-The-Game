@@ -12,4 +12,4 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: efaea356d8e90394ba1ae3225ee9eabc, type: 3}
   m_Name: liceo_piano_terra
   m_EditorClassIdentifier: 
-  initialValue: {x: 6.834, y: 2.77}
+  initialValue: {x: 6.835, y: 2.77}

@@ -10,6 +10,6 @@ MonoBehaviour:
   m_Enabled: 1
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: efaea356d8e90394ba1ae3225ee9eabc, type: 3}
-  m_Name: LiceoPianoTerraRight
+  m_Name: ITIPianoDueRight
   m_EditorClassIdentifier: 
   initialValue: {x: 15.896, y: 1.986}
