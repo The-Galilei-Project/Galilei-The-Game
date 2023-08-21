@@ -3428,6 +3428,153 @@ TextureImporter:
       indices: 
       edges: []
       weights: []
+    - serializedVersion: 2
+      name: wall_left_red
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 184
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a1e63adb6240587429f5eb43771ecdb6
+      internalID: -203421303
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: collision_1
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 24
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8565bd7b00d04c0449f071dabf0a8d1a
+      internalID: -845846553
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: collision_2
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 15
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 79146d9378e1c3849a344e6863ac0679
+      internalID: 1014236839
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: collision_3
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 8
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 400f4dcee2b25e34fae97bdd807f5657
+      internalID: -1247589295
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: collision_4
+      rect:
+        serializedVersion: 2
+        x: 137
+        y: 94
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 67815bb7d34367b428ab7d950e84196c
+      internalID: 1296588225
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wall_yellow_left_1
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 39
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8128aaac91ae34b4d80236e0da1e235f
+      internalID: 115944845
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wall_yellow_left_2
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 23
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7246788278a8c8943b16bf8ed9920e38
+      internalID: -251084690
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     outline: []
     physicsShape: []
     bones: []
@@ -3441,6 +3588,10 @@ TextureImporter:
     nameFileIdTable:
       SCALE_PALESTRA_CENTRO: -3970637011837078050
       angolo_bd: -4713592921529101318
+      collision_1: -845846553
+      collision_2: 1014236839
+      collision_3: -1247589295
+      collision_4: 1296588225
       floor_blue_0: -3391153593733148013
       floor_blue_1: 3272439717484799063
       floor_blue_2: -4248582913659326613
@@ -3566,6 +3717,7 @@ TextureImporter:
       wall_incastro_right_end_1: 3311861305566352424
       wall_left: 8680717224792761869
       wall_left_end: -4413641687807635177
+      wall_left_red: -203421303
       wall_pilastro_0: -1639277372955878861
       wall_pilastro_1: 6634411440679693062
       wall_pilastro_2: 8650450741064180888
@@ -3577,6 +3729,8 @@ TextureImporter:
       wall_segreteria_left_2: -727602231
       wall_segreteria_right_1: 1600581214
       wall_segreteria_right_2: 769352579
+      wall_yellow_left_1: -1073217406
+      wall_yellow_left_2: -251084690
       walldoor_left_0: -1731676320162474423
       walldoor_left_1: -2263858202259838578
       walldoor_right_0: -3971432964528484974

@@ -2562,27 +2562,6 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: trave_sinistra
-      rect:
-        serializedVersion: 2
-        x: 332
-        y: 254
-        width: 16
-        height: 16
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 7f1337a4822d55ab0800000000000000
-      internalID: -5019875139144961545
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
       name: pavimento_freccia
       rect:
         serializedVersion: 2
@@ -2919,48 +2898,6 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: corridoio_destra_4
-      rect:
-        serializedVersion: 2
-        x: 483
-        y: 159
-        width: 16
-        height: 16
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: c5422fd004fac2250800000000000000
-      internalID: 5921300299732100188
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: corridoio_destra_5
-      rect:
-        serializedVersion: 2
-        x: 483
-        y: 143
-        width: 16
-        height: 16
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: aa4e1478db6505500800000000000000
-      internalID: 382901340344542378
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
       name: muro_entrata_fab1
       rect:
         serializedVersion: 2
@@ -3070,7 +3007,7 @@ TextureImporter:
       rect:
         serializedVersion: 2
         x: 507
-        y: 120
+        y: 110
         width: 16
         height: 16
       alignment: 0
@@ -3082,69 +3019,6 @@ TextureImporter:
       bones: []
       spriteID: 5b4adc1bfa3534ae0800000000000000
       internalID: -1566316231327374155
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: trave_destra
-      rect:
-        serializedVersion: 2
-        x: 388
-        y: 254
-        width: 16
-        height: 16
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 0459132e033fe7e20800000000000000
-      internalID: 3350382564089107776
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: trave_centrale
-      rect:
-        serializedVersion: 2
-        x: 348
-        y: 254
-        width: 16
-        height: 16
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: e0944afc3adeea620800000000000000
-      internalID: 2787426507208018190
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: angolo_destra
-      rect:
-        serializedVersion: 2
-        x: 322
-        y: 254
-        width: 16
-        height: 16
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: dbb076bb2332d0b60800000000000000
-      internalID: 7713860437554957245
       vertices: []
       indices: 
       edges: []
@@ -3166,27 +3040,6 @@ TextureImporter:
       bones: []
       spriteID: 5fbad01e16ef40710800000000000000
       internalID: 1658730259120237557
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: muro_destra
-      rect:
-        serializedVersion: 2
-        x: 378
-        y: 254
-        width: 16
-        height: 16
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: acce0858587d5ccc0800000000000000
-      internalID: -3691307351089812278
       vertices: []
       indices: 
       edges: []
@@ -3481,27 +3334,6 @@ TextureImporter:
       bones: []
       spriteID: a250ea8ded3880b90800000000000000
       internalID: -7275420204875774678
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: muro_Bib0
-      rect:
-        serializedVersion: 2
-        x: 406
-        y: 165
-        width: 16
-        height: 16
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 5551eb078950b8cd0800000000000000
-      internalID: -2554942211317951147
       vertices: []
       indices: 
       edges: []
@@ -4221,111 +4053,6 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: muro_angb0
-      rect:
-        serializedVersion: 2
-        x: 259
-        y: 363
-        width: 16
-        height: 16
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 0c7f4d55ea8920350800000000000000
-      internalID: 5981511129633191872
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: muro_angb1
-      rect:
-        serializedVersion: 2
-        x: 259
-        y: 347
-        width: 16
-        height: 16
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 6863e129031be5fb0800000000000000
-      internalID: -4657090142486514042
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: muro_angb2
-      rect:
-        serializedVersion: 2
-        x: 239
-        y: 363
-        width: 16
-        height: 16
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: dd146c3b010aee810800000000000000
-      internalID: 1796549294963442141
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: muro_angb3
-      rect:
-        serializedVersion: 2
-        x: 239
-        y: 347
-        width: 16
-        height: 16
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 73624e6ea9d3951d0800000000000000
-      internalID: -3361587911347395017
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: muro_angb4
-      rect:
-        serializedVersion: 2
-        x: 239
-        y: 315
-        width: 16
-        height: 16
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 3e31a48ec79a4aa80800000000000000
-      internalID: -8456447846356741149
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
       name: banco_ruote_lato1
       rect:
         serializedVersion: 2
@@ -4615,69 +4342,6 @@ TextureImporter:
       bones: []
       spriteID: 91f3f57cc4f880540800000000000000
       internalID: 4974383348355907353
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: angolo_biblio_s
-      rect:
-        serializedVersion: 2
-        x: 354
-        y: 214
-        width: 16
-        height: 16
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: d4f9943f8bc596970800000000000000
-      internalID: 8748625700569325389
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: angolo_biblio_d
-      rect:
-        serializedVersion: 2
-        x: 377
-        y: 214
-        width: 16
-        height: 16
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 226320148a304bf20800000000000000
-      internalID: 3437376436770584098
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: angolo
-      rect:
-        serializedVersion: 2
-        x: 354
-        y: 192
-        width: 16
-        height: 16
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: f32fede28ac96c510800000000000000
-      internalID: 1569113766339998271
       vertices: []
       indices: 
       edges: []
@@ -5518,90 +5182,6 @@ TextureImporter:
       bones: []
       spriteID: f27194725125b0af0800000000000000
       internalID: -429159088676858065
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Lim-9
-      rect:
-        serializedVersion: 2
-        x: 235
-        y: 65
-        width: 16
-        height: 16
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 69886f57d60695810800000000000000
-      internalID: 1754539553084311702
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Lim-10
-      rect:
-        serializedVersion: 2
-        x: 251
-        y: 65
-        width: 16
-        height: 16
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: f19b1abcc00f67cc0800000000000000
-      internalID: -3713516904973747937
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Lim-11
-      rect:
-        serializedVersion: 2
-        x: 267
-        y: 65
-        width: 16
-        height: 16
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 91db4be3ec0920c90800000000000000
-      internalID: -7205037238349677287
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Lim-12
-      rect:
-        serializedVersion: 2
-        x: 283
-        y: 65
-        width: 16
-        height: 16
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 37c8b4b4b55248f60800000000000000
-      internalID: 8035588709171301491
       vertices: []
       indices: 
       edges: []
@@ -6741,27 +6321,6 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: floor_black
-      rect:
-        serializedVersion: 2
-        x: 436
-        y: 572
-        width: 16
-        height: 16
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 7ce3de0ea45d9e490800000000000000
-      internalID: -7716401968944693561
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
       name: BancoUnico
       rect:
         serializedVersion: 2
@@ -6917,7 +6476,7 @@ TextureImporter:
         width: 16
         height: 16
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -6938,7 +6497,7 @@ TextureImporter:
         width: 16
         height: 16
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -6946,6 +6505,258 @@ TextureImporter:
       bones: []
       spriteID: 86e3ff2534b843b42821b5965b85502a
       internalID: 1828590876
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wall_red_center_1
+      rect:
+        serializedVersion: 2
+        x: 566
+        y: 106
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 85820d85a93d8fc44be69765f88a5153
+      internalID: 1931233017
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wall_red_center_2
+      rect:
+        serializedVersion: 2
+        x: 566
+        y: 90
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 89567e1ecc4d04b49a15a87c008cb608
+      internalID: -1025023639
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: muro_liceo_scale3
+      rect:
+        serializedVersion: 2
+        x: 229
+        y: 433
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7e70b5298f82c0e43a661d88ce26a577
+      internalID: -1790332392
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wall_angle_left_green_1
+      rect:
+        serializedVersion: 2
+        x: 393
+        y: 160
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: da75c7475b8ae6348be7f2bd2058675a
+      internalID: 1827351526
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wall_angle_left_green_2
+      rect:
+        serializedVersion: 2
+        x: 393
+        y: 144
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: beb386020ca1d0c47a79ca8c17e4356c
+      internalID: 324665477
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wall_door_green_left
+      rect:
+        serializedVersion: 2
+        x: 381
+        y: 90
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fd87d9530946d44478570288e59f8d27
+      internalID: -249248578
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: green_wall_glass_1
+      rect:
+        serializedVersion: 2
+        x: 349
+        y: 552
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d89ff50e520db5e44994f6b1e0138ccf
+      internalID: 394588902
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: green_wall_glass_2
+      rect:
+        serializedVersion: 2
+        x: 365
+        y: 552
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bdb5dbbddfcd187418a78d2dc915cfb2
+      internalID: 201603107
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: green_wall_glass_3
+      rect:
+        serializedVersion: 2
+        x: 381
+        y: 552
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3e99a7d40b6074d4aae9be8c95399da4
+      internalID: -1985056460
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: green_wall_glass_4
+      rect:
+        serializedVersion: 2
+        x: 349
+        y: 536
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2e758f7c8bbb29a43be0e37869d65672
+      internalID: -1356605629
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: green_wall_glass_5
+      rect:
+        serializedVersion: 2
+        x: 365
+        y: 536
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c6edb73e9e3fcef4185ad79a51eb6c48
+      internalID: -1771521723
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: green_wall_glass_6
+      rect:
+        serializedVersion: 2
+        x: 381
+        y: 536
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5d36739f9c3b6da41a4729afec0714d1
+      internalID: 2101048075
       vertices: []
       indices: 
       edges: []
@@ -7095,6 +6906,12 @@ TextureImporter:
       finestra6: -2560349917532000482
       finestra7: 7325194245176963522
       floor_black: -7716401968944693561
+      green_wall_glass_1: 394588902
+      green_wall_glass_2: 201603107
+      green_wall_glass_3: -1985056460
+      green_wall_glass_4: -1356605629
+      green_wall_glass_5: -1771521723
+      green_wall_glass_6: 2101048075
       incrocio_info_lab1: -7117470512806546872
       incrocio_info_lab2: 4647679703843430103
       lab_diagonale_d1: 6468448616868272474
@@ -7198,6 +7015,7 @@ TextureImporter:
       muro_interno_fab4: -1227508165064690043
       muro_liceo_scale1: -9185893131325324293
       muro_liceo_scale2: 1154153929843694096
+      muro_liceo_scale3: -1790332392
       muro_prof1: -8843073832667191698
       muro_prof2: 8799819646266891015
       muro_segreteria1: 7978579228284591308
@@ -7246,6 +7064,11 @@ TextureImporter:
       traversa_giu: 7543247560098836716
       trofei_1: 8138297440078547639
       trofei_2: -8253619673159068574
+      wall_angle_left_green_1: 1827351526
+      wall_angle_left_green_2: 324665477
+      wall_door_green_left: -249248578
+      wall_red_center_1: 1931233017
+      wall_red_center_2: -1025023639
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

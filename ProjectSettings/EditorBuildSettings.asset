@@ -27,9 +27,9 @@ EditorBuildSettings:
     path: Assets/Scenes/IISS_Secret_room.unity
     guid: c7ebc463473126b44b7516f12a17adfa
   - enabled: 1
-    path: Assets/Scenes/Liceo_pianoTerra.unity
+    path: Assets/Scenes/LiceoPianoTerra.unity
     guid: b444af3ace23e5f1d8e9a784d9465401
   - enabled: 1
-    path: Assets/Scenes/Liceo_pianoMenoUno.unity
+    path: Assets/Scenes/LiceoPianoMenoUno.unity
     guid: 3882996277bd91442b455760ad0f6034
   m_configObjects: {}
