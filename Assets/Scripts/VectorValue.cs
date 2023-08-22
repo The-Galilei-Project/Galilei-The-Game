@@ -4,4 +4,8 @@ using UnityEngine;
 public class VectorValue : ScriptableObject
 {
     public Vector2 initialValue;
+
+    public VectorValue(Vector2 newPosition){
+        this.initialValue = newPosition;
+    }
 }

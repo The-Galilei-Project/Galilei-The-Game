@@ -18,7 +18,8 @@ public class PlayerMovement : MonoBehaviour
         // GetComponent "preleva" il componente attaccato all'oggetto, in questo caso preleva il componente BoxCollider2D dalla sprite del player_0
         rb = GetComponent<Rigidbody2D>();
         rb.freezeRotation = true;
-        this.transform.position = PlayerState.getPosition();
+        Player.current.ChangePosition();
+        Debug.Log("Change Position");
     }
 
     private void Update()

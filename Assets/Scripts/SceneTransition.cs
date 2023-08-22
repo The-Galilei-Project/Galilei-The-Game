@@ -1,3 +1,4 @@
+using System.Collections;
 using UnityEditor;
 using UnityEngine;
 using UnityEngine.SceneManagement;
@@ -12,8 +13,20 @@ public class SceneTransition : MonoBehaviour
         if(other.CompareTag("Player")){
             string path = AssetDatabase.GetAssetOrScenePath(this.nextScene);
             LevelSystem.current.ChangeScene(path);
-            PlayerState.setPosition(initialPosition);
+            StartCoroutine(ChangePlayerPosition());
+            Debug.Log("Changing to " + path + "\tposition: " + this.initialPosition.initialValue);
         }
+    }
+
+    private IEnumerator ChangePlayerPosition(float delay = 1f){
+        yield return new WaitForSeconds(1f);
+        Player.current.ChangePosition(this.initialPosition);
+    }
+
+    
+    private IEnumerator ChangePlayerPosition(VectorValue position, float delay = 1f){
+        yield return new WaitForSeconds(1f);
+        Player.current.ChangePosition(position);
     }
 
     /*

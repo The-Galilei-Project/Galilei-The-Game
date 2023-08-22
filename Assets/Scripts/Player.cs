@@ -1,5 +1,4 @@
 using UnityEngine;
-using UnityEngine.SceneManagement;
 
 public class Player : MonoBehaviour
 {
@@ -21,13 +20,17 @@ public class Player : MonoBehaviour
         CameraMotor.lookAt = this.transform;
     }
 
-    private void Update()
-    {
-        //this.gameObject.SetActive();
-        //if(SceneManager.GetActiveScene().buildIndex >= LevelSystem.baseBuildIndex)
-        //{
-        //    Destroy(current);
-        //    current = null;
-        //}
+    public void ChangePosition(){
+        this.transform.position = PlayerState.getPosition();
+    }
+
+    public void ChangePosition(Vector2 newPosition){
+        PlayerState.setPosition(new VectorValue(newPosition));
+        this.transform.position = newPosition;
+    }
+
+    public void ChangePosition(VectorValue newPosition){
+        PlayerState.setPosition(newPosition);
+        this.transform.position = newPosition.initialValue;
     }
 }
