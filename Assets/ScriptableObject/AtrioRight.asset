@@ -12,4 +12,4 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: efaea356d8e90394ba1ae3225ee9eabc, type: 3}
   m_Name: AtrioRight
   m_EditorClassIdentifier: 
-  initialValue: {x: 5.8, y: 2.79}
+  initialValue: {x: 7, y: 2.79}
