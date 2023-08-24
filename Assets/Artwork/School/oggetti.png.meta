@@ -3537,27 +3537,6 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: clock_1
-      rect:
-        serializedVersion: 2
-        x: 470
-        y: 361
-        width: 16
-        height: 16
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 277c457c421821750800000000000000
-      internalID: 6274219225843550066
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
       name: class_desk_front_pc_1
       rect:
         serializedVersion: 2
@@ -5477,7 +5456,7 @@ TextureImporter:
         width: 16
         height: 16
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -5498,7 +5477,7 @@ TextureImporter:
         width: 16
         height: 16
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -5519,7 +5498,7 @@ TextureImporter:
         width: 16
         height: 16
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -5540,7 +5519,7 @@ TextureImporter:
         width: 16
         height: 16
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -5548,6 +5527,174 @@ TextureImporter:
       bones: []
       spriteID: 0be1350374a122947aa4abce7e25855a
       internalID: 2097074843
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: panchina_front_3
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 60
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e01c4e7e6cceea049bbdef0bb9c39240
+      internalID: 1289279854
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: panchina_front_2
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 76
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cd6a10718b112734d869bc4ceea00a23
+      internalID: -1815422949
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: panchina_front_1
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 92
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6086f0e16f862f14d95a0b8965614fa1
+      internalID: 137149143
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: panchina_1
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 76
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d6a13e3d947d4534eb213e8b01df2855
+      internalID: -1900097546
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: panchina_2
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 76
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 35b921bb74e88534e9439ad8fa1b468c
+      internalID: -598810759
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: panchina_3
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 76
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1276e866aa2419d42b0e7fb3ed77dd88
+      internalID: -246479477
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lavandino_1
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 44
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: be69cca52a175dc4898e0ba12bb84b8d
+      internalID: -1093060465
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lavandino_2
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 28
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 08f9768b99bcd4e4d9f61c9f1a0cdacc
+      internalID: 849492953
       vertices: []
       indices: 
       edges: []
@@ -5735,11 +5882,19 @@ TextureImporter:
       lavagna_aterra_1: -4995911591572198810
       lavagna_aterra_2: -685810732699707855
       lavagna_aterra_3: 8433324972289733512
+      lavandino_1: -1093060465
+      lavandino_2: 849492953
       lim_0: 1242105093463716969
       lim_1: -1302549989430801049
       lim_2: 7893680926877377677
       lim_3: -3718752153427925916
       oggetti_213: 352499977904714230
+      panchina_1: -1900097546
+      panchina_2: -598810759
+      panchina_3: -246479477
+      panchina_front_1: 137149143
+      panchina_front_2: -1815422949
+      panchina_front_3: -91110065
       pianta_a_0: -4176888722206895567
       pianta_a_1: -342185705327769795
       pianta_b_0: 7268160257207077740

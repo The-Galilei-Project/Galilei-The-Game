@@ -828,7 +828,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: door_windows_lat_doppia_1
+      name: door_windows_lat_doppia_2
       rect:
         serializedVersion: 2
         x: 84
@@ -1206,7 +1206,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Porta_sgabuzzino_liceo
+      name: Porta_sgabuzzino_liceo_1
       rect:
         serializedVersion: 2
         x: 96
@@ -1256,7 +1256,7 @@ TextureImporter:
         width: 16
         height: 16
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -1277,7 +1277,7 @@ TextureImporter:
         width: 16
         height: 16
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -1298,7 +1298,7 @@ TextureImporter:
         width: 16
         height: 16
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -1319,7 +1319,7 @@ TextureImporter:
         width: 16
         height: 16
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -1327,6 +1327,90 @@ TextureImporter:
       bones: []
       spriteID: 3d02f3ebec273e14a9ca5c2f1e075280
       internalID: -753095726
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: door_windows_lat_doppia_
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 80
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4617ee5d96d5fa146983feab72bbd110
+      internalID: 1472059300
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Porta_sgabuzzino_liceo_2
+      rect:
+        serializedVersion: 2
+        x: 113
+        y: 7
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1bae9bb69844db74bbfb2152b3ca49d8
+      internalID: -481032472
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: door_glass_closed
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 163
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d32c95e531492c3409fd7cc898dbb12d
+      internalID: 1818228451
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: door_glass_ope
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 163
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 384f0e8a374538946bcd614d544763ae
+      internalID: 1746371599
       vertices: []
       indices: 
       edges: []
@@ -1344,7 +1428,8 @@ TextureImporter:
     nameFileIdTable:
       Porta_emergenza1: -2437508175588858173
       Porta_emergenza2: 8213310957532874548
-      Porta_sgabuzzino_liceo: 2167717824242500729
+      Porta_sgabuzzino_liceo_1: 2167717824242500729
+      Porta_sgabuzzino_liceo_2: -481032472
       door_brown_lat_0: -1965260484754428274
       door_brown_lat_1: 3920497846585879036
       door_brown_left_0: 2724678343298630751
@@ -1361,6 +1446,8 @@ TextureImporter:
       door_closed_1: -7312541844503028696
       door_closed_LONG_0: -4982204227303039540
       door_closed_LONG_1: 8888110631125169342
+      door_glass_closed: 1818228451
+      door_glass_ope: 1746371599
       door_lat_sing_d_1: 9187171879002852099
       door_lat_sing_dx_0: 8193337691955075637
       door_lat_sing_sx_0: -8098954350033166484
@@ -1373,8 +1460,9 @@ TextureImporter:
       door_tunnel_open_1: 7220049067039230218
       door_window_0: 4493248301806539888
       door_window_1: 1773377687062920107
+      door_windows_lat_doppia_: 1472059300
       door_windows_lat_doppia_0: -5729053468039356292
-      door_windows_lat_doppia_1: 1876198086780805549
+      door_windows_lat_doppia_2: 1876198086780805549
       door_windows_lat_sing_0: 4495393643598494072
       door_windows_lat_sing_1: -7936541803107095062
       doors_brown_0: 1917446311
