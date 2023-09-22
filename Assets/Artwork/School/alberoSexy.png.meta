@@ -160,36 +160,19 @@ TextureImporter:
         y: 170
         width: 98
         height: 88
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      alignment: 9
+      pivot: {x: 0.47240278, y: 0.092198975}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
-      physicsShape: []
+      physicsShape:
+      - - {x: -23, y: -44}
+        - {x: -23, y: -35}
+        - {x: 13, y: -35}
+        - {x: 13, y: -44}
       tessellationDetail: 0
       bones: []
       spriteID: 6ec8d6df0aac25df0800000000000000
       internalID: -192869041228116762
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: albero_tronco
-      rect:
-        serializedVersion: 2
-        x: 343
-        y: 170
-        width: 68
-        height: 30
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 52ee4b0576a486c50800000000000000
-      internalID: 6658653856663399973
       vertices: []
       indices: 
       edges: []
