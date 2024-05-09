@@ -91,3 +91,6 @@ crashlytics-build.properties
 
 # Built Visual Studio Code Extensions
 *.vsix
+
+# Doxygen generated
+docs/doxygen/*

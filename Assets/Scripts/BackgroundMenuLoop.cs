@@ -2,7 +2,7 @@ using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 
-public class BackgroundLoop : MonoBehaviour
+public class BackgroundMenuLoop : MonoBehaviour
 {
     float velocity = -2;
     float startPosition = 13.50f;
