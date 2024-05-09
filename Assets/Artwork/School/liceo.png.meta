@@ -2835,27 +2835,6 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: liceo_90
-      rect:
-        serializedVersion: 2
-        x: 484
-        y: 137
-        width: 7
-        height: 5
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 01da9b48dcaa541b0800000000000000
-      internalID: -5672940355931493104
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
       name: corridoio_destra_2
       rect:
         serializedVersion: 2
@@ -3019,27 +2998,6 @@ TextureImporter:
       bones: []
       spriteID: 5b4adc1bfa3534ae0800000000000000
       internalID: -1566316231327374155
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: muro_infolab
-      rect:
-        serializedVersion: 2
-        x: 444
-        y: 106
-        width: 16
-        height: 16
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 5fbad01e16ef40710800000000000000
-      internalID: 1658730259120237557
       vertices: []
       indices: 
       edges: []
@@ -6621,7 +6579,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: wall_door_green_left
+      name: wall_door_green_left_1
       rect:
         serializedVersion: 2
         x: 381
@@ -6763,6 +6721,237 @@ TextureImporter:
       bones: []
       spriteID: 5d36739f9c3b6da41a4729afec0714d1
       internalID: 2101048075
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wall_left_green_1
+      rect:
+        serializedVersion: 2
+        x: 427
+        y: 160
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 86023d792414328409c2c6b2bac5d01b
+      internalID: 536952385
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wall_left_green_2
+      rect:
+        serializedVersion: 2
+        x: 427
+        y: 144
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8ae5dca5364b2d6428496b1fe127059f
+      internalID: -2067755113
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wall_left_green_3
+      rect:
+        serializedVersion: 2
+        x: 393
+        y: 127
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 60171fcf39a66714189ebb21f7af1153
+      internalID: -924127321
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: scrivania_bidelle_1
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 256
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 651a11d59fcb94a4b8c66dbf6bc941a7
+      internalID: 1965518086
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: scrivania_bidelle_2
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 240
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dc5bbe4b0a7e38b409f99cac7cfe673e
+      internalID: 2083638054
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: scrivania_bidelle_3
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 224
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b19005e8d5a4c974b9161682a10bb923
+      internalID: -2056729193
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: scrivania_bidelle_4
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 240
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c08047031a890e141a574efd0daec4a3
+      internalID: 855799048
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: scrivania_bidelle_5
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 224
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 903527036b8c8154e80f8f02477e63b0
+      internalID: -1026777439
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: scrivania_bidelle_6
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 240
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1bce3bf4e8962444380351d274cf7a87
+      internalID: 27448579
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: scrivania_bidelle_7
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 224
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 740f41d5be7937644b3d691fee1f0551
+      internalID: 811192154
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wall_door_green_left_2
+      rect:
+        serializedVersion: 2
+        x: 381
+        y: 74
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2712c19250a00d24587738ecce29f08a
+      internalID: -1217266654
       vertices: []
       indices: 
       edges: []
@@ -7061,6 +7250,13 @@ TextureImporter:
       porta_borsellino_open: -7287109967765057020
       porta_prof: 820536695474013702
       porta_prof2: -2362264649853810469
+      scrivania_bidelle_1: 1965518086
+      scrivania_bidelle_2: 2083638054
+      scrivania_bidelle_3: -2056729193
+      scrivania_bidelle_4: 855799048
+      scrivania_bidelle_5: -1026777439
+      scrivania_bidelle_6: 27448579
+      scrivania_bidelle_7: 811192154
       server_1: 7218941826946939342
       server_2: -1140067643036772589
       server_3: -8104305573041414683
@@ -7072,7 +7268,11 @@ TextureImporter:
       trofei_2: -8253619673159068574
       wall_angle_left_green_1: 1827351526
       wall_angle_left_green_2: 324665477
-      wall_door_green_left: -249248578
+      wall_door_green_left_1: -249248578
+      wall_door_green_left_2: -1217266654
+      wall_left_green_1: -2061314326
+      wall_left_green_2: -2067755113
+      wall_left_green_3: 404148253
       wall_red_center_1: 1931233017
       wall_red_center_2: -1025023639
   mipmapLimitGroupName: 
