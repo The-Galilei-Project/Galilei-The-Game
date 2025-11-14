@@ -12,12 +12,17 @@ public class Player : MonoBehaviour
         {
             current = this;
         }
-    }
+    } 
 
     void Start()
     {
         DontDestroyOnLoad(this.gameObject);
         CameraMotor.lookAt = this.transform;
+    }
+
+    void Update()
+    {
+        Debug.Log("Player Position: " + transform.position);
     }
 
     public void ChangePosition(){

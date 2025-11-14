@@ -1,5 +1,5 @@
 using System.Collections;
-using UnityEditor;
+// using UnityEditor;
 using UnityEngine;
 using UnityEngine.SceneManagement;
 
@@ -7,24 +7,29 @@ public class SceneTransition : MonoBehaviour
 {
     //public Animator transition;
     [SerializeField] public VectorValue initialPosition;
-    [SerializeField] public SceneAsset nextScene;
+    [SerializeField] public string nextScene;
 
-    private void OnTriggerEnter2D(Collider2D other){
-        if(other.CompareTag("Player")){
-            string path = AssetDatabase.GetAssetOrScenePath(this.nextScene);
-            LevelSystem.current.ChangeScene(path);
+
+    private void OnTriggerEnter2D(Collider2D other)
+    {
+        if (other.CompareTag("Player"))
+        {
+            // string path = AssetDatabase.GetAssetOrScenePath(this.nextScene);
+            LevelSystem.current.ChangeScene(nextScene);
             StartCoroutine(ChangePlayerPosition());
-            Debug.Log("Changing to " + path + "\tposition: " + this.initialPosition.initialValue);
+            Debug.Log("Changing to " + nextScene + "\tposition: " + this.initialPosition.initialValue);
         }
     }
 
-    private IEnumerator ChangePlayerPosition(float delay = 1f){
+    private IEnumerator ChangePlayerPosition(float delay = 1f)
+    {
         yield return new WaitForSeconds(1f);
         Player.current.ChangePosition(this.initialPosition);
     }
 
-    
-    private IEnumerator ChangePlayerPosition(VectorValue position, float delay = 1f){
+
+    private IEnumerator ChangePlayerPosition(VectorValue position, float delay = 1f)
+    {
         yield return new WaitForSeconds(1f);
         Player.current.ChangePosition(position);
     }

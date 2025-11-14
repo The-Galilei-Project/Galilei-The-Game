@@ -38,7 +38,6 @@ RenderSettings:
   m_ReflectionIntensity: 1
   m_CustomReflection: {fileID: 0}
   m_Sun: {fileID: 0}
-  m_IndirectSpecularColor: {r: 0, g: 0, b: 0, a: 1}
   m_UseRadianceAmbientProbe: 0
 --- !u!157 &3
 LightmapSettings:
@@ -24584,7 +24583,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: aa3aacef7f15fd6468ca4c84a2f22c76, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  initialPosition: {fileID: 11400000, guid: 4e11fea3ad03c014cb99f16f12e53d8c, type: 2}
+  initialPosition: {fileID: 11400000, guid: 5bd00991cb387864284e2f311d2410c4, type: 2}
   nextScene: {fileID: 102900000, guid: b444af3ace23e5f1d8e9a784d9465401, type: 3}
 --- !u!61 &805325140
 BoxCollider2D:
@@ -28705,7 +28704,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: aa3aacef7f15fd6468ca4c84a2f22c76, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  initialPosition: {fileID: 11400000, guid: b4dbcda5d69f091489e117ce8aeb5f77, type: 2}
+  initialPosition: {fileID: 11400000, guid: ac984eed92eec764fba1181aa989b2a9, type: 2}
   nextScene: {fileID: 102900000, guid: b444af3ace23e5f1d8e9a784d9465401, type: 3}
 --- !u!61 &1354213976
 BoxCollider2D:

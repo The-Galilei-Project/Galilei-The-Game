@@ -141,7 +141,7 @@ TextureImporter:
       213: 2167717824242500729
     second: Porta_sgabuzzino_liceo
   externalObjects: {}
-  serializedVersion: 12
+  serializedVersion: 13
   mipmaps:
     mipMapMode: 0
     enableMipMap: 0
@@ -1382,7 +1382,7 @@ TextureImporter:
         width: 16
         height: 32
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -1403,7 +1403,7 @@ TextureImporter:
         width: 16
         height: 32
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -1411,6 +1411,48 @@ TextureImporter:
       bones: []
       spriteID: 384f0e8a374538946bcd614d544763ae
       internalID: 1746371599
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: porta_preside_top
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 208
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0ed3ee05db717e9399dc73606685423e
+      internalID: -1013982778
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: porta_preside_bottom
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 192
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fd87402cdd5cf53caa788bb73d70e9ab
+      internalID: 1506268863
       vertices: []
       indices: 
       edges: []
@@ -1470,6 +1512,8 @@ TextureImporter:
       doors_brown_closed_left 2: 2045850984
       doors_grey_closed_left 1: -1706484883
       doors_grey_closed_left 2: -753095726
+      porta_preside_bottom: 1506268863
+      porta_preside_top: -1013982778
       porte_mistiche: -6948198005567371602
       window_2x3_0: 2539714175003896466
       window_2x3_1: 246666808462646722
