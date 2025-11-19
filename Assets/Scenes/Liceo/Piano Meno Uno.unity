@@ -24584,7 +24584,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   initialPosition: {fileID: 11400000, guid: 5bd00991cb387864284e2f311d2410c4, type: 2}
-  nextScene: {fileID: 102900000, guid: b444af3ace23e5f1d8e9a784d9465401, type: 3}
+  nextSceneIndex: 7
 --- !u!61 &805325140
 BoxCollider2D:
   m_ObjectHideFlags: 0
@@ -28705,7 +28705,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   initialPosition: {fileID: 11400000, guid: ac984eed92eec764fba1181aa989b2a9, type: 2}
-  nextScene: {fileID: 102900000, guid: b444af3ace23e5f1d8e9a784d9465401, type: 3}
+  nextSceneIndex: 7
 --- !u!61 &1354213976
 BoxCollider2D:
   m_ObjectHideFlags: 0

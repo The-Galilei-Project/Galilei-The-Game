@@ -38,7 +38,6 @@ RenderSettings:
   m_ReflectionIntensity: 1
   m_CustomReflection: {fileID: 0}
   m_Sun: {fileID: 0}
-  m_IndirectSpecularColor: {r: 0, g: 0, b: 0, a: 1}
   m_UseRadianceAmbientProbe: 0
 --- !u!157 &3
 LightmapSettings:
@@ -28762,7 +28761,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   initialPosition: {fileID: 11400000, guid: 8ac5bb9406dbcac43a6f8ab5858b9f43, type: 2}
-  nextScene: {fileID: 102900000, guid: e2684e6cf7fd5d74294958f84beeb50a, type: 3}
+  nextSceneIndex: 4
 --- !u!61 &789789093
 BoxCollider2D:
   m_ObjectHideFlags: 0
@@ -29791,7 +29790,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   initialPosition: {fileID: 11400000, guid: 456b5d08834159341b7eb93601adf975, type: 2}
-  nextScene: {fileID: 102900000, guid: c7ebc463473126b44b7516f12a17adfa, type: 3}
+  nextSceneIndex: 6
 --- !u!61 &1035824613
 BoxCollider2D:
   m_ObjectHideFlags: 0
@@ -40436,7 +40435,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   initialPosition: {fileID: 11400000, guid: 3bd2647c9f5c2d64e89bb96cf3315b7a, type: 2}
-  nextScene: {fileID: 102900000, guid: e2684e6cf7fd5d74294958f84beeb50a, type: 3}
+  nextSceneIndex: 4
 --- !u!61 &1787949929
 BoxCollider2D:
   m_ObjectHideFlags: 0
@@ -40882,7 +40881,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   initialPosition: {fileID: 11400000, guid: b98661fa720a34603baf6dab242cce7b, type: 2}
-  nextScene: {fileID: 102900000, guid: b444af3ace23e5f1d8e9a784d9465401, type: 3}
+  nextSceneIndex: 7
 --- !u!61 &1959365368
 BoxCollider2D:
   m_ObjectHideFlags: 0

@@ -1,5 +1,4 @@
 using System.Collections;
-// using UnityEditor;
 using UnityEngine;
 using UnityEngine.SceneManagement;
 
@@ -7,17 +6,14 @@ public class SceneTransition : MonoBehaviour
 {
     //public Animator transition;
     [SerializeField] public VectorValue initialPosition;
-    [SerializeField] public string nextScene;
-
+    [SerializeField] public SceneIndex nextSceneIndex;
 
     private void OnTriggerEnter2D(Collider2D other)
     {
         if (other.CompareTag("Player"))
         {
-            // string path = AssetDatabase.GetAssetOrScenePath(this.nextScene);
-            LevelSystem.current.ChangeScene(nextScene);
+            LevelSystem.current.ChangeScene((int)nextSceneIndex);
             StartCoroutine(ChangePlayerPosition());
-            Debug.Log("Changing to " + nextScene + "\tposition: " + this.initialPosition.initialValue);
         }
     }
 

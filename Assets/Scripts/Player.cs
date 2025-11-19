@@ -20,11 +20,6 @@ public class Player : MonoBehaviour
         CameraMotor.lookAt = this.transform;
     }
 
-    void Update()
-    {
-        Debug.Log("Player Position: " + transform.position);
-    }
-
     public void ChangePosition(){
         this.transform.position = PlayerState.getPosition();
     }
